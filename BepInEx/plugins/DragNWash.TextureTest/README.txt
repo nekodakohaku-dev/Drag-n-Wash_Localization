@@ -1,1 +1,0 @@
-TEMPORARY TEST ONLY: swaps decal_5 Base_Map from Reception to ScrubAndRinse. Does not modify game files or fonts. Close the game and move this entire plugin folder outside BepInEx to disable. Do not ship this test plugin with localization packages.
