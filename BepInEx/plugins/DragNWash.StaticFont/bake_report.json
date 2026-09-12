@@ -1,0 +1,11 @@
+{
+  "glyphs": 1147,
+  "width": 2048,
+  "height": 2048,
+  "point_size": 36,
+  "padding": 6,
+  "missing_characters": 0,
+  "language": "zh-TW",
+  "font": "Noto Sans CJK TC Regular",
+  "rendering": "offline SDF, fixed atlas"
+}
