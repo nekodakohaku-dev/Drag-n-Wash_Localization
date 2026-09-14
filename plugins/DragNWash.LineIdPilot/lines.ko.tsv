@@ -1,0 +1,1840 @@
+# line ID	exact English source	translation (English A-Z then ID)
+line:39fd52f1	'Ey big dog.	어이, 큰 강아지.
+line:918d7820	'Ey big kobold.	어이, 큰 코볼트.
+line:155c00eb	'think', 'On the way here'? Then you weren't covered in ink before...	'같다'고요? '오는 길에'? 그럼 오기 전에는 잉크가 안 묻어 있었...
+line:15bcd86c	'Yes way', There is nothing I am more certain of.	그렇습니다. 이것보다 더 확신하는 것은 없습니다.
+line:4d49ae72	'Yes way', There is nothing I am more certain of.	그렇습니다. 이것보다 더 확신하는 것은 없습니다.
+line:25f35611	---	---
+line:4b9b3a43	---	---
+line:97ab84a8	---	---
+line:db5b3129	---	---
+line:e2f28daa	---	---
+line:3d2df033	..	..
+line:8c0e2d04	..	..
+line:b36eb839	..	..
+line:03d2f0bb	...	...
+line:045f5836	...	...
+line:1113335e	...	...
+line:227eda5e	...	...
+line:30a74521	...	...
+line:4810891f	...	...
+line:4da86a7a	...	...
+line:610824ef	...	...
+line:6757e4a0	...	...
+line:695ef750	...	...
+line:7426a997	...	...
+line:759a495e	...	...
+line:7e189c92	...	...
+line:812700a5	...	...
+line:848f5cd8	...	...
+line:85f39b27	...	...
+line:9504ba33	...	...
+line:a6531779	...	...
+line:b59e9091	...	...
+line:b7f0551c	...	...
+line:c272e55f	...	...
+line:cdb8d8db	...	...
+line:cfe4b91d	...	...
+line:d6483230	...	...
+line:d90d368f	...	...
+line:d9516fdd	...	...
+line:dd197e7c	...	...
+line:decf872a	...	...
+line:e9d40a5c	...	...
+line:20f87f8d	... A class which I'm teaching rather soon.	... 게다가 곧 수업이 시작되겠군요.
+line:4815d919	... Being a bit of a jerk honestly.	... 솔직히 좀 재수 없게 굴었지.
+line:11bfce3b	... I thought we were good friends, we have sex all the time!	... 좋은 친구인 줄 알았는데. 맨날 섹스도 하잖아!
+line:1bebf328	... Thank you..	... 고마워..
+line:a8eb78ed	... you're done? I'm still dirty..	... 끝났어? 아직 더러운데..
+line:ef611d11	... you're done? I'm still soapy..	... 끝났어? 아직 비누가 남았는데..
+line:496134bc	...!	...!
+line:7cc45755	...!	...!
+line:6585925d	...<i><size=70%>I have one on him at least.	...<i><size=70%>적어도 난 마음에 들거든.
+line:e2ea4ead	...A wash for our date tonight.	... 오늘 밤 데이트 전에요.
+line:048d7f84	...About what I said earlier.	... 아까 한 말 있잖아요.
+line:55d1f6ef	...and nice.	... 다정하기도 하고.
+line:79a1a205	...But not in like a bad weird way.	... 나쁘거나 이상한 뜻은 아니고.
+line:3592632e	...It's intimidating knowing how much they look up to me.	... 그들이 저를 얼마나 우러러보는지 알면 부담스럽기도 합니다.
+line:7e08544c	...It's odd being able to speak so freely with someone.	... 누군가와 이렇게 자유롭게 이야기할 수 있다니 낯설군요.
+line:f0cb8389	...No	... 아뇨.
+line:92601622	...Okay, come in	... 알겠어요, 들어오세요.
+line:e381559c	...Thank you for this.	... 신세 졌습니다.
+line:b7b5f7fb	...Thanks.	... 고마워.
+line:dbab7a39	<b><i><size=130%>Did you suggest Ryan to Conrad?	<b><i><size=130%>콘래드에게 라이언을 소개했나요?
+line:36ff6bd9	<gradient="gold"><b> I know a dragon, Ryan. I could get you two in contact? </b></gradient><size=70%>(Unlocks Conrad/Ryan hookup OR Ryan romance)	<gradient="gold"><b> 라이언이라는 드래곤을 알아요. 둘이 연락할 수 있게 해 줄까요? </b></gradient><size=70%>(콘래드와 라이언의 만남 또는 라이언 연애 경로 개방)
+line:7e9d40e6	<gradient="gold"><b> I wouldn't mind hanging out... </b></gradient><size=70%> (Unlocks Conrad romance)	<gradient="gold"><b> 저도 같이 놀고 싶은데요... </b></gradient><size=70%> (콘래드 연애 경로 개방)
+line:a0e49f02	<gradient="gold"><b> I wouldn't mind! </b></gradient><size=70%> (Will lead to Alexander romance!)	<gradient="gold"><b> 좋아요! </b></gradient><size=70%> (알렉산더와의 연애로 이어집니다!)
+line:0371fb9c	<gradient="gold"><b> I'm going to be busy tonight. Sorry. </b></gradient><size=70%> (Will lead to no romance!)	<gradient="gold"><b> 오늘 저녁에는 바쁠 것 같아요. 죄송해요. </b></gradient><size=70%> (연애 없이 끝납니다!)
+line:f5a81524	<gradient="gold"><b>I don't have anyone off the top of my head.</b></gradient><size=70%> (Locks in Conrad romance!)	<gradient="gold"><b>당장은 생각나는 사람이 없네요.</b></gradient><size=70%> (콘래드 연애 경로 확정!)
+line:bedc761d	<gradient="gold"><b>I know this one red dragon. I think you'd like him! </b></gradient><size=70%> (Hooks up Ryan with Conrad!)	<gradient="gold"><b>제가 아는 빨간 드래곤이 있어요. 분명 좋아할 거예요! </b></gradient><size=70%> (라이언과 콘래드를 연결합니다!)
+line:e104b8e4	<gradient="gold"><b>Oh. Uhm. <size=70%> I wouldn't mind... If I was that someone. </b></gradient><size=70%> (Locks in Ryan romance!)	<gradient="gold"><b>아. 저기. <size=70%> 그 사람이... 저라면 좋겠는데요. </b></gradient><size=70%> (라이언 연애 경로 확정!)
+line:36073321	<gradient="yellow - orange"><size=140%>HEY! </gradient><size=100%>This is the cleaning place, ya?	<gradient="yellow - orange"><size=140%>야! </gradient><size=100%>여기가 씻겨 주는 데 맞지?
+line:c777ce0c	<i> that feels nice...</i>	<i>기분 좋군요...</i>
+line:e56dd423	<i><size=70%>uh oh.. and the books	<i><size=70%>이런... 책도요.
+line:d67b1098	<i>I like spraying you with water.	<i>물을 뿌리는 게 좋아요.
+line:ad5d633a	<i>Oh...	<i>아...
+line:22b5941e	<i>Oh.</i> I don't think I'm ready for that just yet.	<i>아.</i> 아직 그럴 준비는 안 된 것 같습니다.
+line:cacbff51	<i>Ooooh. </i>The mount? Hell yeah, man.	<i>오오. </i>기구? 당연히 좋지, 친구.
+line:04b7ce44	<i>This</i> isn't your fault, Conrad.	<i>이건</i> 콘래드 잘못이 아니에요.
+line:72b244b7	<size=100%> That felt damn good!	<size=100%>진짜 끝내주네!
+line:78cc49e8	<size=100%>I mean- Cool.	<size=100%>아니, 좋네.
+line:e48243c0	<size=140%> FUCK YEAH!	<size=140%>씨발, 그래!
+line:f474ffa9	<size=140%>HEY, <size=100%>lookin' for a wash.	<size=140%>야, <size=100%>씻으러 왔어.
+line:9d458e88	<size=160%>HELL YEAH!	<size=160%>씨발, 최고!
+line:f5462edf	<size=60%> that's hot.	<size=60%>섹시하네요.
+line:7c745c31	<size=70%> A big dragon giving me control. Woah.	<size=70%>큰 드래곤이 저한테 통제권을 주다니. 우와.
+line:53d71f27	<size=70%> And for me.	<size=70%>저도 먹고요.
+line:4fe271cc	<size=70%> woah.	<size=70%>우와.
+line:e53b1bd3	<size=70%><i> holy shit, I just bagged a date with a dragon.	<size=70%><i>세상에, 방금 드래곤이랑 데이트 약속 잡았어.
+line:c4384e8e	<size=70%><i>but it was nice... Thank you.	<size=70%><i>그래도 좋았습니다... 감사합니다.
+line:ec0e5330	<size=70%><i>feel free to continue-</i>	<size=70%><i>계속하셔도 괜찮습니다...</i>
+line:e77c1f79	<size=70%><i>oah-</i> no that's really cool actually.	<size=70%><i>아...</i> 아니요, 오히려 정말 기뻐요.
+line:a618f9c2	<size=70%><i>Woah...	<size=70%><i>우와...
+line:ad460e4b	<size=70%><i>Yeah?	<size=70%><i>그래요?
+line:c25d1c85	<size=70%>They're still on my payroll.	<size=70%>급여는 계속 지급하고 있습니다.
+line:22deeef6	==	==
+line:67fa34ad	==	==
+line:a8e2f13e	==	==
+line:ce938344	==	==
+line:e41244bf	==	==
+line:497d3f67	A few days ago...	며칠 전에...
+line:c570a462	A rather good excuse to see my favorite kobold.	제가 가장 좋아하는 코볼트를 보러 올 좋은 구실이지요.
+line:5d2d16e0	A really good friend?	정말 좋은 친구라고 생각하면 이상할까요?
+line:df4d3810	About earlier.	아까 말인데요.
+line:1a5e1ba4	Act what way?	어떻게요?
+line:cc532c02	After his spontaneous conflagration, I made sure to give him privacy.	갑자기 불길에 휩싸인 뒤에는 혼자 있을 시간을 주었습니다.
+line:a983ffa3	Again...?	또요...?
+line:8e34b87d	Agreed, though I'd still like to be let in as soon as convenient.	동감입니다. 그래도 가능하면 어서 들어가고 싶군요.
+line:934a1d5a	Ah yeah, that's the stuff.. keep at it.	아, 그래, 그거야... 계속해.
+line:e216aee0	Ah, good.	아, 좋습니다.
+line:9b26ac5f	Ah, I see the button there, gotcha!	아, 저기 버튼이 있네요. 알겠어요!
+line:7f3fe9f9	Ah, sorry, I'm passionate about such things.	아, 죄송합니다. 이런 주제에 열정이 넘쳐서요.
+line:bf2a8309	Ah, the grime did sting a little, thank you.	아, 때 때문에 조금 따가웠습니다. 감사합니다.
+line:ebdb9888	Ah, yeah, those types are pretty cute.	아, 네. 그런 타입은 꽤 귀엽죠.
+line:b920f205	Ah. Do not worry.	아, 신경 쓰지 마세요.
+line:a98d068c	Ah. Okay nevermind I'm not sorry then.	아. 그럼 미안하단 말은 취소할게.
+line:6de2c490	Ah...	아...
+line:4d6b365e	Ahh, all cleaned and with a lighter load.	아, 다 씻고 짐도 좀 덜었네.
+line:20f96302	Alexander!	알렉산더!
+line:f167e3d7	Alexander!	알렉산더!
+line:fe3996b8	Alexander!	알렉산더!
+line:af7db134	Alexander...?	알렉산더...?
+line:eb7cf9e5	All clean...	다 깨끗해졌네...
+line:f57fc630	All done!	다 됐어요!
+line:0b734d82	All self respecting washers know how to please a dragon.	제대로 된 목욕사라면 드래곤을 기쁘게 해 줄 줄 알아야지.
+line:599ffb25	Already got seats at that bar I mentioned earlier.	아까 말한 술집에 자리도 잡았어.
+line:642ddea3	Alright alright... Then I think I'd like to use it?	알겠습니다, 알겠어요... 그럼 써 보고 싶은 것 같습니다만...?
+line:c7b3a185	Alright! I'll go get the gate.	좋아요! 문 열고 올게요.
+line:7279121a	Alright! I'll go get you the gate.	알겠어요! 문 열어 드릴게요.
+line:4fc4259c	Alright! I'm ready to go.	좋아! 갈 준비 됐어.
+line:a722d0fa	Alright, go get the gate and I'll head out to the spot!	좋아요. 문 열어 주면 먼저 가 있을게요!
+line:d04df8f8	Alright, I'll cya!	좋아, 또 봐!
+line:4766af08	Alrighty! That should be it.	자! 다 된 것 같아요.
+line:797ca540	Alrighty. All clean.	됐네요. 다 깨끗해졌어요.
+line:c4cb161a	Although grapes have always hit a specific craving.	포도는 언제나 딱 당기던 맛을 채워 줘요.
+line:dc237557	Although, the portions might be a bit... dragon sized.	양이 좀... 드래곤 기준일 수는 있지만요.
+line:655b8c01	Always happy to have you, Conrad.	콘래드는 언제나 환영이에요.
+line:afedd1f5	An anomaly.	이례적인 존재입니다.
+line:0de4fe62	And I'm glad you have a medkit... You're very prepared.	구급상자도 있어서 다행이네... 준비가 철저하구나.
+line:0699aef9	And I'm really happy for you and Conrad.	당신이랑 콘래드가 잘돼서 저도 정말 기뻐요.
+line:a3a26459	And not just physically.	단순히 높이의 문제만은 아니지요.
+line:507bd2b9	And that's why I'm here! Going to be heading out after this wash to go see him.	그래서 여기 온 거야! 씻고 나서 만나러 가려고.
+line:33440e8c	And why you are perfect for this job!	그래서 당신이 이 일에 적임자인 것이지요!
+line:cacb93ce	And you've tried everything.	해 볼 수 있는 건 다 해 봤고요.
+line:8cae6240	Another dragon? Usually I don't really get along...	다른 드래곤? 보통은 별로 안 맞는데...
+line:5a7e4fd4	Any chance you can clean me up again?	다시 씻겨 줄 수 있나요?
+line:92d2a30a	Anything. I'm just curious.	무엇이든 괜찮습니다. 그저 궁금해서요.
+line:52695aa2	Anything?	뭐든지요?
+line:8ead9ee9	Anytime, Ryan.	언제든요, 라이언.
+line:6d77feef	Anyway glad you're not finished, lets keep at it!	아무튼 아직 안 끝났다니 다행이에요. 계속하죠!
+line:bdb4f59c	Anyway, time to get writing!	아무튼, 이제 글을 써 보자!
+line:75dd56ae	Anyways,	아무튼,
+line:8980260e	Anyways-	아무튼...
+line:a8e6291c	Anyways- Let me out.	아무튼 나가게 해 줘.
+line:493a82ef	Anyways. Could you go get the gate?	아무튼 문 좀 열어 줄래?
+line:926f5f41	Anyways. Gonna use this thing now!	아무튼 이제 이거 쓴다!
+line:ad8ab02e	Anyways...	아무튼...
+line:e767dc51	Anywho, I'll get out of your scales now.	아무튼 이제 그만 가 보겠습니다.
+line:e81426c1	Anywho, I'm in need of a clean.	아무튼 몸을 씻어야겠습니다.
+line:23e7d518	Approach the dragon entrance, and I will let you in.	드래곤용 입구로 오시면 제가 열어 드리겠습니다.
+line:72a9b5bb	Are you happy?	행복하세요?
+line:be0118cc	Are you okay?	괜찮아요?
+line:de735c65	Are you open right now?	지금 영업 중입니까?
+line:9369755d	Are you sure it will fit?	정말 들어갈까요?
+line:c35b717a	Are you sure...? In front of the food?	정말 괜찮아요...? 음식 앞인데?
+line:cb06d2bf	As am I.	저도 그렇습니다.
+line:9a48b21c	As in you're unique.	남다르다는 뜻입니다.
+line:1c021ee0	At getting hand jobs.	손으로 받는 쪽으로는.
+line:e861b464	At least that's what I've heard anyway.	적어도 제가 듣기로는 그래요.
+line:2f54ceec	At least you can still use your hands. Heh.	그래도 손은 쓸 수 있잖아. 흐.
+line:cb04e062	At least you can still use your hands. Heh.	그래도 손은 쓸 수 있잖아. 흐.
+line:97792929	Aw, I'll go get you the gate.	아, 문 열어 드릴게요.
+line:c6895517	Aw, Ryan.	아, 라이언.
+line:db997182	Aw, thank you Alexander.	아, 감사합니다, 알렉산더.
+line:7157db26	Aw, thanks Alexander.	아, 감사해요, 알렉산더.
+line:011f1458	Aw, thanks.	아, 고마워요.
+line:aea0be6b	Aw, thanks.	아, 고마워.
+line:c00d76cd	Aw, thanks. I only look so good 'cause of your washes!	아, 고마워요. 다 씻겨 준 덕분에 멋져진 거죠!
+line:453ff9be	Aw- Ryan...	아, 라이언...
+line:5340a315	Aw... Thanks!	아... 감사해요!
+line:c6202cf2	Aw... Thanks.	아... 고마워요.
+line:cb1d1197	Aw... Thanks. Is it weird I consider you...	아... 고마워요. 제가 당신을...
+line:2bfa396c	Aw... That's really sweet	아... 정말 다정하네요.
+line:22053f7f	Awesome!	좋아요!
+line:6fdb2c3d	Awesome!	좋아요!
+line:70306ba1	Awesome!	좋아!
+line:6126a614	Awesome! Come on in..	좋아요! 들어오세요..
+line:e85007ac	Awesome! See you later then!	좋아요! 그럼 나중에 봐요!
+line:4c7f15d6	Awesome, I'll go get the gate.	좋아요, 문 열고 올게요.
+line:9d126e4e	Awesome, I'm glad.	잘됐네요. 기뻐요.
+line:b60cc4a5	Awesome.	좋아요.
+line:59fb47b0	Awww. You don't need to be coverd in ink to say hi!	아... 인사하러 오는 데 잉크까지 뒤집어쓸 필요는 없어요!
+line:8e20e028	Be yourself!	있는 그대로 행동해요!
+line:cd18f73f	Been looking forward to this.	기대하고 있었어요.
+line:8f1fccf9	Being muddy is really fun up until it starts drying.	진흙이 묻는 건 마르기 전까지만 재미있어요.
+line:40783547	Berries.	베리.
+line:59d4be6a	Berries.	베리.
+line:61e781c1	Berries.	베리.
+line:18ae08ef	Bet you had fun.	재미있었겠네.
+line:982fd3c7	big C...?	빅 C...?
+line:4b3f7c6a	Biology...? <size=70%> <i>I think?	생물학이...? <size=70%> <i>아마도요?
+line:9be63f47	Bleh. Thank you for grabbing that.	으. 받아 줘서 고마워요.
+line:66957ed2	Blue...?	파란 알...?
+line:a77c3afd	Both.	둘 다.
+line:78975048	Brrr! Cold water!	으으! 찬물이에요!
+line:8487a2c4	Burnswick Community College of Thaumaturgy	번스윅 마법학 커뮤니티 칼리지요.
+line:f75126de	But honestly you've helped me a lot.	하지만 덕분에 정말 많은 도움을 받았어요.
+line:cab69268	But I already know I'm liking this a lot.	그래도 벌써 정말 마음에 드네요.
+line:d9534386	But I know the type... They tend to be big softies on the inside.	그래도 그런 타입은 알아요... 속은 아주 여린 경우가 많죠.
+line:f73ddfbc	But I think its time to get cleaned up.	하지만 이제 씻어야 할 것 같아요.
+line:088ea4a7	But I'm hot shit, so I'll be fine.	그래도 난 끝내주니까 괜찮겠지.
+line:c8f8bc22	But I'm only your washer?	저는 그냥 씻겨 드릴 뿐인데요?
+line:dda0419b	But I'm sure I'd enjoy it with you!	그래도 당신과 함께라면 즐거울 거예요!
+line:aa74448a	But not in this sized package, right??	하지만 이 정도 몸집에서는 아니지??
+line:7d9ffc48	But nothing beats a large gulp!	그래도 크게 한입에 삼키는 것만 못하죠!
+line:d1ec7684	But that is why I am here!	하지만 그래서 여기 온 것 아닙니까!
+line:b0d9d1e5	But you're the teacher dragon.	그래도 선생님인 드래곤은 알렉산더잖아요.
+line:2d7e1ab6	But, at least I got to meet you!	그래도 당신을 만날 수 있었잖아요!
+line:b7f46902	But, I think you've taught me something.	하지만 당신 덕분에 배운 것이 있습니다.
+line:b1040415	By the stars! No no. You're excellent.	별들이시여! 아뇨, 아니에요. 당신은 멋진 분입니다.
+line:3a88a2dd	By the way would you be mad if your partner made a mess at home?	그런데 연인이 집을 어질러 놓으면 화낼 것 같아요?
+line:4199070f	Came in for another wash.	또 씻으러 왔어요.
+line:105cd3e2	Can I ask you a question?	질문 하나 해도 돼요?
+line:535ee717	Can you repeat that?	다시 말씀해 주실래요?
+line:835e0c27	Can't sthpeak well.	말하기가 좀 힘드네요.
+line:afa450c0	Come back whenever, Ryan.	언제든 또 오세요, 라이언.
+line:0cedfc3d	Conrad can go as long as he needs	콘래드는 얼마든지 버틸 수 있어.
+line:5462913f	conrad hooked up with ryan	콘래드와 라이언이 이어짐
+line:61cd33c5	conrad hooked up with ryan	콘래드와 라이언이 이어짐
+line:6a7610f3	conrad hooked up with ryan	콘래드와 라이언이 이어짐
+line:bac1ce29	conrad hooked up with ryan	콘래드와 라이언이 이어짐
+line:61c9b7ac	Conrad needs a cleaning, got a slot for 'im?	콘래드 씻으러 왔어. 자리 있어?
+line:405b7ef1	Conrad needs a wash!	콘래드를 씻겨 줘!
+line:803c8f0c	Conrad was talking about you during our date.	데이트하면서 콘래드가 당신 이야기를 했어요.
+line:f1787092	Conrad!	콘래드!
+line:fd6c6213	Conrad!	콘래드!
+line:484cd04d	Conrad...?	콘래드...?
+line:5b0360ad	Conrad: Actually.. I mean..	Conrad: 사실... 그러니까...
+line:3ce891ff	Conrad: Conrad just enjoys himself	Conrad: 콘래드는 그냥 즐기는 거야.
+line:fbe86c06	Conrad: Damn right!	Conrad: 당연하지, 씨발!
+line:5660dc8b	Conrad: Don't worry about it!	Conrad: 걱정하지 마!
+line:c050dbfc	Conrad: I do it all the time	Conrad: 난 맨날 해.
+line:cd3367da	Conrad: I want this to go well	Conrad: 잘하고 싶어.
+line:194c1381	Conrad: I'm ready to blow	Conrad: 이제 쌀 것 같아.
+line:ce4d0fef	Conrad: Yea	Conrad: 응.
+line:42c70daa	Conrad: You feel good	Conrad: 네 느낌이 좋아.
+line:3bc52918	Conrad: You having a good time?	Conrad: 기분 좋아?
+line:be0e51af	Cool.	멋진 건 알거든.
+line:88c36bc7	Could do that, then get a hotel room... Hmm.	거기 갔다가 호텔 방을 잡아도 되겠네요... 음.
+line:b99e1503	Could you ask <i>me</i> a question?	<i>제게</i> 질문을 해 주시겠습니까?
+line:12bf5baf	Could you get the gate...?	문을 열어 주시겠습니까...?
+line:3a6afae1	Could you go get the gate?	문 좀 열어 줄래?
+line:9f49d9d4	Could you wash it away?	헹궈 줄 수 있나요?
+line:7661a0e9	D'aw... thanks.	아... 고마워요.
+line:59bc5840	Damn right I do!	당연히 멋지지!
+line:64889395	Damn right!	당연하지, 씨발!
+line:95aa0bf4	Damn right!	그럼, 당연하죠!
+line:db592d76	Damn right!	당연하지, 씨발!
+line:0fcf9908	Damn right.	당연하지, 씨발.
+line:b964c99b	Damn shame then. Better change that.	젠장, 아쉽네. 그건 바꿔야겠어.
+line:c6955ecc	Damn, you know how to use your hands.	젠장, 손을 쓸 줄 아네.
+line:eaf45022	Damn, you know how to use your hands.	젠장, 손을 쓸 줄 아네.
+line:684fb29a	Damn... Always feels good.	젠장... 언제나 좋네.
+line:7023cc94	DATE NIGHT!	데이트하는 밤!
+line:c71df70b	Date night!	데이트하는 밤!
+line:b57cc8ad	Depends	상황에 따라 다르죠.
+line:07bd7f57	Did you do your uh...	오늘 그... 너...
+line:4f38655d	Do I look like I'm okay?	괜찮아 보여?
+line:8147156a	Do it!	해요!
+line:9ab6ddfb	Do you also do "special endings" here?	여기도 '특별 마무리' 해 줘?
+line:4c90479c	Do you ask because I'm lavender?	제 몸이 연보라색이라서 물으시는 겁니까?
+line:3020c97c	Do you believe I am attractive?	제가 매력적이라고 생각하십니까?
+line:c5e71850	Do you even need a wash?	씻을 필요는 있는 거예요?
+line:1810e75f	Do you have any advice?	조언 좀 해 줄래?
+line:6be807b5	Do you have any plans with ryan?	라이언이랑 무슨 계획 있어?
+line:a0cf6cae	Do you know any cool places, people, I could hang around?	같이 놀 만한 괜찮은 장소나 사람 알아?
+line:412ba249	Do you know any good bars?	괜찮은 술집 알아요?
+line:28ec716a	Do you know anyone I could talk to? Y'know... about relationship stuffs?	제가 이야기해 볼 만한 사람 알아요? 그러니까... 연애 상대로요.
+line:21c0526b	Do you like being big?	몸집이 큰 게 좋으세요?
+line:daa040eb	Do you like purple?	보라색을 좋아하세요?
+line:ef052302	Do you like purple?	보라색을 좋아하세요?
+line:d5ed3582	Do you make big dragons, <size=60%>like me, <size=100%>cum here?	여기서 <size=60%>나처럼 <size=100%>큰 드래곤도 싸게 해 주냐고.
+line:ec64a696	Do you mind double checking if I'm clean?	깨끗한지 다시 확인해 줄래요?
+line:647187f1	Do you want to say what happened...?	무슨 일이 있었는지 말해 줄래요...?
+line:807df02d	Do you want to use it?	써 보고 싶으세요?
+line:5c42b85a	Doesn't mean I need to yell at you.	그렇다고 너한테 소리 질러도 되는 건 아니지.
+line:eefa8ae2	Don't be sorry! Get a mount!	사과하지 말고 기구를 사!
+line:dd0f7b1d	Don't worry, dragons are made to eat anything.	걱정 마요. 드래곤은 뭐든 먹을 수 있게 되어 있어요.
+line:b90b01a9	Don't worry, he's real nice.	걱정 마요. 정말 좋은 사람이에요.
+line:7de2a81c	Don't worry. I will.	걱정 마. 그럴게.
+line:c29d4071	Don't... make it sound like that.	그런 식으로... 말하지 마.
+line:31bdd33c	Dont talk with your mouth full	입에 가득 물고 말하지 마.
+line:8ee41fdc	Dragon history is complex. Ornamental crest <size=85%> are often <size=70%> worn by dragons to <size=55%>signify what family they belong to! <size=40%> It's an interesting mark of their culutral <size=35%> and familial heritage. I've often wondered if I should continue to wear mine. <size=20%> But culutural and familiar ties are considered important within the lore of dragons! so I must adhere to such things. <size=10%> Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then everything changed when the Fire Nation attacked.	드래곤의 역사는 복잡합니다. 드래곤은 <size=85%> 자신이 어느 가문에 <size=70%> 속하는지를 나타내려고 <size=55%>장식용 문장을 착용하곤 합니다! <size=40%> 문화적 유산과 <size=35%> 가문의 내력을 드러내는 흥미로운 표시지요. 저도 계속 착용해야 할지 고민한 적이 많습니다. <size=20%> 하지만 드래곤의 전통에서는 문화와 가문의 유대를 중요하게 여기니 저 역시 따라야겠지요. <size=10%> 물. 흙. 불. 공기. 오래전 네 나라는 조화롭게 살았습니다. 하지만 불의 나라가 공격하면서 모든 것이 바뀌었습니다.
+line:0a0e6773	Dragon stomachs are a bit more... robust than yours.	드래곤의 위장은 당신보다 조금 더... 튼튼하거든요.
+line:7e352505	Dragons of the galaxy 2	드래곤즈 오브 갤럭시 2
+line:c2c659d1	Eep!	앗!
+line:0bd1699e	Ehh..	음...
+line:43dd32f5	Er... That's not-	어... 그게 아니라...
+line:93b60dce	Even so. Not this time	그래도 이번에는 아닙니다.
+line:573d9362	Even though you were just doing your job... I think it helped him a lot.	그냥 일을 했다고 해도... 콘래드에겐 큰 도움이 됐을 거예요.
+line:a2ba222e	Evening. This establishment takes walk ins, correct?	안녕하십니까. 이곳은 예약 없이도 이용할 수 있습니까?
+line:f98c3b6c	Every ending here is special!	여기는 모든 마무리가 특별해요!
+line:bfeaec15	Every self respecting wizard has a phoenix feather handy.	제대로 된 마법사라면 누구나 불사조 깃털을 준비해 두지요.
+line:57df700d	Everyone's gaze carries an immense weight.	다른 이들의 시선은 무척 무겁습니다.
+line:9ad8d2dd	Excellent!	훌륭합니다!
+line:0c997163	Excellent.	훌륭합니다.
+line:1976bc60	Excellent. Then make sure to go greet your customer at the window.	훌륭합니다. 그럼 창구로 가서 손님에게 인사하는 걸 잊지 마세요.
+line:7bbe7ee3	Expectations are laaaame.	남의 기대 같은 건 시시하죠오.
+line:f99eb2ff	Ey! The mount! Fuck yeah.	야! 기구! 씨발, 좋아.
+line:d376acb9	Ey, so. Was thinkin'	야, 그러니까. 생각해 봤는데...
+line:85ec0862	Ey, sorry for coming in late.	야, 늦게 와서 미안해.
+line:12e8ae42	Ey, Use your hands on my cock- it feels good!	야, 손으로 내 자지 좀 만져 줘. 기분 좋거든!
+line:271a3846	Fair enough. I'll be waiting!	알겠습니다. 기다리지요!
+line:4789095b	Fair enough. You two do seem cute together.	그렇구나. 둘이 꽤 귀엽더라.
+line:f5b37855	Felt good sliding down though!	그래도 넘어갈 때 느낌은 좋았어요!
+line:274367d7	Figured I'd bring in something nice after all you've done.	많이 도와줬으니까 저도 뭔가 좋은 걸 주고 싶었어요.
+line:aae8afca	Fine with me!	전 괜찮아요!
+line:e98616be	For you!	당신을 위해서요!
+line:62a82aba	Found this one gryphon. About my size...	그리핀 하나를 만났어. 나랑 비슷한 크기인데...
+line:807fdc76	From what I've heard he sounds like he's improved a lot recently, yeah?	들은 바로는 최근에 많이 나아진 것 같던데요?
+line:803bf378	Fuck man, I'm so pumped.	씨발, 진짜 기대된다.
+line:f2418086	Fuck no! Shit's embarrassing.	씨발, 싫어! 쪽팔린다고.
+line:a7ca3ca8	Fuck something and then get a handjob hopefully.	뭐라도 박고, 잘하면 손으로도 받고 싶어서.
+line:203bce10	Fuuuck. You really know how to work a dragon!	씨바알. 드래곤 다루는 법을 정말 잘 아네!
+line:f7f9b0db	G'day mate!	어이, 친구!
+line:664c994e	Gave me time to think.	생각할 시간이 생겼거든요.
+line:1d9b3531	Get a handjob and fuck this mount.	손으로 받고 이 기구에도 박으려고.
+line:48afdce4	Give it to me!	전부 줘요!
+line:9df043ad	Give me a bit	조금만 기다려 줘요.
+line:e5c7f64a	Glad I'm here to remind you then.	제가 와서 다시 알려 드리길 잘했네요.
+line:354170aa	Go for it!	해도 돼요!
+line:2d0b6b06	Goin' downtown tonight. Needed to be spotless. Say...	오늘 밤에 시내에 가. 깨끗해져야지. 그런데...
+line:dcb506d2	Good as!	좋아!
+line:bcbc6373	Good evening!	안녕하십니까!
+line:607a5c47	Good, I can't be having the Burnswick Community College of Thaumaturgy know that their best professor Alexander has caused another incident.	좋습니다. 번스윅 마법학 커뮤니티 칼리지에서 최고의 교수인 알렉산더가 또 사고를 냈다는 사실을 알아서는 안 됩니다.
+line:12b72085	Good, you better. If I come back and there isn't one...	좋아, 꼭 그래라. 다음에 왔는데 없으면...
+line:2c851dad	Good.	다행이네요.
+line:2712436c	Good. 'Aight, let me out.	좋아. 그럼 내보내 줘.
+line:bab51ada	Good... That'd be correct.	좋다... 맞는 표현이군요.
+line:44f2b8cf	Goodbye!	안녕히 계십시오!
+line:a8e6ac2a	Goodness, thanks to you I have a chance at redeeming this situation.	세상에, 덕분에 이 상황을 만회할 기회가 생겼군요.
+line:745c3c12	Gosh!	세상에!
+line:6b5c6564	Gotta <i>practice</i> for Ryan if you catch what I mean.	라이언을 위해 <i>연습</i>해야지. 무슨 뜻인지 알지?
+line:e3cef2bc	Gotta make sure you're spotless!	완전히 깨끗해져야죠!
+line:b01b2159	Great, so uh,	좋아요. 그럼, 저기...
+line:43c94954	Grouse as! Excited to see you work!	끝내주네! 솜씨가 기대돼!
+line:9de16ee9	Ha!	하!
+line:88d7e1e2	Haah. This is the best fuckin' wash.	하아. 진짜 끝내주는 목욕탕이야.
+line:cc6e7856	Hah! There's the mount!	하! 기구 왔네!
+line:90dd6d9d	Hah, eager as always.	하, 언제나 활기차군요.
+line:9542e7a6	Hah, good. Let's break this thing in!	하, 좋아. 첫 개시를 해 보자고!
+line:fe21109b	Hah, he seems like the wild type.	하, 거친 타입처럼 보이긴 하더군요.
+line:e8bc1d95	Hah, I imagine it would be.	하, 그럴 것 같았어.
+line:acbf628d	Hah, it is a motivator.	하, 좋은 동기가 되지요.
+line:65b23418	Hah, okay. I'm game.	하, 좋아요. 갈게요.
+line:058d9d5c	Hah, yeah. Conrad is definitely experienced...	하, 네. 콘래드는 확실히 경험이 많더라고요...
+line:8b878971	Hah, yeah. He sounds fun.	하, 네. 재미있는 사람 같아요.
+line:e3ed51d9	Hah. Conrad, you look good too.	하, 콘래드도 멋져요.
+line:f8b2e23b	Hah. Fine.	하. 알겠어.
+line:ea23c5f9	Hah. If only there was a kobold that could clean me.	하. 날 씻겨 줄 코볼트만 있으면 좋겠네.
+line:c9bb2a93	Hah. Yeah. <size=70%><i>It's cool that you learn to jerk off dragons in cleaning school...	하. 그래. <size=70%><i>목욕 학교에서 드래곤 자위시키는 법도 배우다니 멋지네...
+line:50a559bb	Hah... <size=70%> yeah.	하... <size=70%>네.
+line:4d4d9986	Hah... Gonna jerk me off now? That's fine.	하... 지금 손으로 해 주려고? 난 좋아.
+line:4e920759	Hah... Yeah I'm excited.	하... 그래, 기대돼.
+line:b36365ce	Hah... Yeah...	하... 그래...
+line:b8724c64	Hah... you do like that noise.	하... 그 소리 정말 좋아하네요.
+line:c8cde395	Haha, 'Yip' indeed.	하하, 정말 '이프'로군요.
+line:680991cf	Haha, yes. Happy to see you.	하하, 네. 만나서 반갑습니다.
+line:4c27b031	Haha, you certainly are!	하하, 정말 그렇네요!
+line:c3a2e14e	Haha, you certainly are!	하하, 정말 그렇네요!
+line:9ec40945	Haha. 'Yip' to you too.	하하. 저도 '이프'예요.
+line:5e91e0a7	Haha... Yeah. I'm not really used to complimenting.	하하... 그래. 칭찬은 별로 익숙하지 않아서.
+line:44689f21	Happy to be back.	다시 오니 좋군요.
+line:2672f65d	Happy to be here.	여기 오니 좋네요.
+line:192fcb8e	Happy to get it off.	씻어 낼 수 있어서 다행이에요.
+line:3517b28e	Have a productive day.	오늘도 열심히 일하세요.
+line:7c1adc57	He called me, we met up. He's really damn nice.	전화가 와서 만났어. 정말 엄청 착해.
+line:e71f9a0b	HE DIED!?	죽었다고요?!
+line:ed6c9afb	He hadn't been... Well, cared about in a long time from what I could gather.	들어 보니 오랫동안... 누구한테도 보살핌을 받지 못한 것 같았어요.
+line:de25de6e	He just... Knew what to say to snap me out of all that.	그런데 그냥... 무슨 말을 해야 내가 정신을 차릴지 알더라.
+line:a035a3fd	He prefers 'vertically challenged'... But yes.	본인은 '수직적으로 불리하다'고 하던데... 네.
+line:04b29e42	He really is.	정말 그렇죠.
+line:c7e1b369	He really is.	정말 그렇지.
+line:c64bd5ce	He said I was chill, we planned a date...	내가 괜찮다길래 데이트 약속을 잡았지...
+line:e8a91447	He's a lot. But, I like it.	만만치는 않죠. 그래도 좋아요.
+line:a7181b1a	He's a red dragon. I think you two would like eachother!	빨간 드래곤인데, 둘이 서로 좋아할 것 같아요!
+line:8245fe2b	He's already back to work. Thanks for helping with all that.	벌써 업무에 복귀했습니다. 그때 도와주셔서 감사합니다.
+line:aaea8391	He's been way nicer recently.	요즘 훨씬 다정해졌어요.
+line:7363c004	He's great.	정말 좋은 사람이에요.
+line:c13d4e24	He's hot.	섹시하잖아요.
+line:675d7e37	He's like. SUPER hung.	그게... 엄청 커요.
+line:7deb9fff	He's like... a big softy surrounded by sharp pointy bits.	마치... 날카로운 가시로 둘러싸인 여린 마음 같아요.
+line:800c553d	He's my dream dragon.	제 꿈에 그리던 드래곤이에요.
+line:4b3c70d9	He's snappy, but tender too!	툴툴대지만 다정하기도 해요!
+line:31281c6d	He's this REALLY cute red drake who goes to the wash!	여기 씻으러 오는 정말 귀여운 빨간 드래곤이에요!
+line:4c11c83e	He's tiny, I like being eye level with him.	작아서 좋아요. 눈높이가 맞거든요.
+line:b9ce2f3c	He's... Considerate. Real understanding too.	그는... 배려심이 깊어. 이해심도 많고.
+line:8e9e0f98	Heard about you and the big blue guy. Ryan was it?	너랑 그 큰 파란 녀석 이야기 들었어. 라이언이었나?
+line:ca4a9672	Heeeey Ryan.	안녕하세요오, 라이언.
+line:24ce37ec	Heeeey.	안녀엉.
+line:bb70c1ed	Heh. Yeah.	흐, 그래.
+line:3fa80829	Heh. Yeah. I like you too.	흐. 네. 저도 좋아해요.
+line:20393ff6	Heh. Yeah. That's me.	흐. 그래. 나야.
+line:ac769d93	heh.. yea.. sorry..	흐... 네... 미안해요..
+line:5246ceea	Heh... alright.	흐... 알겠어요.
+line:75fef5cb	Heh... Damn right.	흐... 당연하지.
+line:5f0edcb2	Heh... Handsy today, huh?	흐... 오늘은 손이 바쁘네요?
+line:2f55b3aa	Hehe	헤헤.
+line:7e991330	Hehe yeah.	헤헤, 네.
+line:3223473f	Hehe, I'm excited to get into the dating scene again.	헤헤, 다시 연애할 생각을 하니 기대돼요.
+line:4a137220	Hehe, thanks. It has stuff that should be good for both of us.	헤헤, 고마워요. 우리 둘 다 먹을 만한 걸 가져왔어요.
+line:1a3e2a73	Hell yea	씨발, 좋아.
+line:93f67490	Hell yeah	씨발, 좋아.
+line:389e4033	Hell yeah I did!	당연히 즐거웠지!
+line:17dbb9b7	Hell yeah.	씨발, 좋아.
+line:4b7b33d9	Hello!	안녕하세요!
+line:c3d3da41	Hello!	안녕하세요!
+line:4183ca7e	Hello, <i>'Drag'n wash franchise 223'...</i> Have you figured out how to interact yet?	안녕하세요, <i>'Drag'n'wash 223호점'...</i> 상호작용하는 방법은 알아냈나요?
+line:a99c515c	Hello, <i>'Drag'n wash franchise 223'...</i> Have you spoken to your first customer yet?	안녕하세요, <i>'Drag'n'wash 223호점'...</i> 첫 손님과는 이야기했나요?
+line:b7cce838	Hello.	안녕하십니까.
+line:a8779ebf	Hello?	계세요?
+line:dd4b34ae	Hello?	계세요?
+line:1954aab7	Help the developers out please..	개발자에게 알려 주세요...
+line:db9c3a5c	Help the developers out please..	개발자에게 알려 주세요...
+line:f7f7f5a1	Help the developers out please..	개발자에게 알려 주세요...
+line:fc461784	Help the developers out please..	개발자에게 알려 주세요...
+line:ee3398a6	Hey big guy.	안녕하세요, 큰 드래곤 씨.
+line:0090c7b0	Hey Conrad!	안녕하세요, 콘래드!
+line:3d0a5aeb	Hey Conrad!	안녕하세요, 콘래드!
+line:a2b4acea	Hey conrad!	안녕하세요, 콘래드!
+line:975a629f	Hey Conrad.	안녕하세요, 콘래드.
+line:21235886	Hey could you come up front where I can see you?	저기, 제가 볼 수 있게 앞으로 와 줄래요?
+line:533532c4	Hey fine by me!	야, 난 괜찮아!
+line:1538bc7e	Hey good lookin'	안녕, 멋진 녀석.
+line:0121c874	Hey hey. Glad you're open.	어이, 어이. 열려 있어서 다행이네.
+line:71b651dd	Hey I have something to say!	저기, 할 말이 있어요!
+line:0d4e0ecf	Hey kobold!	안녕하세요, 코볼트 씨!
+line:af3f02c9	Hey Ryan, what do you have there?	라이언, 뭘 가져왔어요?
+line:6374414d	Hey thanks for being here for me...	야, 곁에 있어 줘서 고마워...
+line:bf5ff483	Hey there, happy to be back.	안녕하세요. 다시 오니 좋네요.
+line:c38b7fa6	Hey there, Ryan!	안녕하세요, 라이언!
+line:2d5fc8a2	Hey there- Maybe you can get 'hands on' later?	저기... 그 '손길'은 나중으로 미루면 어떨까요?
+line:1b6c7f75	Hey there.	안녕하세요.
+line:5dacf226	Hey there.	안녕하세요.
+line:82698bd1	Hey there.	안녕하세요.
+line:ab3a5d9c	Hey there.	어, 안녕.
+line:3d2bc74e	Hey uh, do you think Ryan and I will <i>actually</i> work out?	야, 어... 라이언이랑 나, <i>정말로</i> 잘될까?
+line:04501155	Hey uh, I just need a cleaning.	야, 어... 그냥 씻으면 돼.
+line:2a29842a	Hey uh... Not now.	야, 어... 지금은 말고.
+line:8caa3196	Hey uhm, thanks once again.	저기, 다시 한번 고마워요.
+line:5c7a9105	Hey!	안녕하세요!
+line:eed2cc64	Hey!	안녕하세요!
+line:2f3f5508	Hey! He's just... 'vertically challenged'.	에이! 그냥... '수직적으로 불리한' 거예요.
+line:55bb78d1	Hey! I'm here for a wash.	안녕하세요! 씻으러 왔어요.
+line:33480903	Hey, Alexander!	안녕하세요, 알렉산더!
+line:21fcef4f	Hey, Alexander.	안녕하세요, 알렉산더.
+line:14598ca6	Hey, big guy!	안녕하세요, 큰 드래곤 씨!
+line:e7353d24	Hey, I've got a question for you.	야, 하나 물어볼 게 있어.
+line:674877e5	Hey, nothin' wrong with asking!	야, 물어보면 어때!
+line:d2589856	Hey, welcome back!	안녕하세요, 또 오셨네요!
+line:0d3e4054	Hey.	저기요.
+line:aa0dda7b	Hey.	저기요.
+line:7f2e2736	Hey... little guy!	안녕하세요... 작은 코볼트 씨!
+line:933efa6d	Hi again!	또 왔어요!
+line:873a2b9a	Hi again..	또 왔어요..
+line:83ac5b68	Hi Conrad.	안녕하세요, 콘래드.
+line:050efd1a	Hi, Ryan!	안녕하세요, 라이언!
+line:06ed6aea	Hiiiii! Hiii!	안녕하세요오! 안녕하세요!
+line:5a632b75	His physical form is currently reconstituting in the staff lounge.	그의 육체는 지금 교직원 휴게실에서 재구성되고 있습니다.
+line:6bd91ca7	Hm, I think I'll pass on the mount.	음, 그 기구는 사양할게요.
+line:370d719b	Hm?	네?
+line:3c3ddd0c	Hm?	네?
+line:44658d73	Hmm...	음...
+line:bf059ff3	Hmm...	음...
+line:730b1ca4	Hmm?	응?
+line:fc571337	Hmmm, maybe something else?	음, 다른 건 없을까요?
+line:19207e44	Hold on a little longer for me?	절 위해 조금만 더 참아 주실래요?
+line:f2ae89c4	Honestly, I'm surprised how nice this is.	솔직히 이렇게 좋을 줄은 몰랐어요.
+line:a2ff0176	Hope it went well.	잘됐으면 좋겠네.
+line:b17360a0	Hope that's alright?	괜찮겠죠?
+line:ae08853f	Hope you're doing alright!	잘 지내셨죠!
+line:e1fa2461	Hopefully! I'll go get the gate.	그러면 좋겠어요! 문 열고 올게요.
+line:99931b37	Hopefully.	그랬으면.
+line:d9c91bca	How about you though? have you been seeing anyone?	그럼 당신은요? 만나는 사람 있어요?
+line:4ec92454	How about you? Anyone exciting?	콘래드는요? 마음에 드는 사람 있어요?
+line:86bde306	How are you with seafood?	해산물은 어때요?
+line:7fb611c9	How come you brought this all in?	왜 이렇게 많이 가져왔어요?
+line:af0d0972	How come you're covered in ink?	어쩌다가 잉크투성이가 되셨어요?
+line:e385b7f3	How did it go?	어땠어요?
+line:c0161bbc	How did it taste?	무슨 맛이었어요?
+line:262b262e	how do I get in?	어떻게 들어가면 되죠?
+line:676b0638	how do I get in?	어떻게 들어가면 되죠?
+line:8308bb09	How do I look?	나 어때?
+line:4f172746	How do you even digest that?	그걸 어떻게 소화해요?
+line:28d390ac	How so?	어떻게 잘해 주는데요?
+line:4ef9fe65	How so?	어떤 점에서요?
+line:ea66b5af	How so?	어떤 생각이요?
+line:4b29790b	How was the sex.	섹스는 어땠어?
+line:7736270c	How was your date with Conrad?	콘래드랑 데이트는 어땠어요?
+line:18d418ab	However, it's ornamental! My family crest. You see...	하지만 장식품입니다! 가문의 문장이지요. 그러니까...
+line:1f250062	However, My <i>image</i> is far more permanent than Igwyx's fleeting physical forms.	하지만 제 <i>이미지</i>는 이그윅스의 덧없는 육체보다 훨씬 오래 남습니다.
+line:ae34381b	However, that respect comes with an expectation to act as I look. It's incredibly stressful.	하지만 그 존중에는 외모에 걸맞게 행동하리라는 기대가 따릅니다. 무척 부담스럽지요.
+line:d2baf9e2	However...	하지만...
+line:fb8401c3	Huff...	후...
+line:b54ee04d	huff... Thank you for that.	후... 감사합니다.
+line:16420ca7	Huff... Thanks for that.	후... 고마워요.
+line:45507089	Huff... That was nice... Made a bit of a mess though.	후... 좋았어요... 좀 어질렀지만요.
+line:ae83cfb6	huh...?	네...?
+line:0c78b56b	Huh?	네?
+line:e96114a2	Huh? ofcourse not!	네? 당연히 아니죠!
+line:836c079c	I <i>think </i> I must've spilled an inkwell <i>on the way here</i>. Rather clumsy of me!	<i>오는 길에</i> 잉크병을 쏟은 것 <i>같습니다</i>. 참 덤벙댔군요!
+line:d37175c7	I act tough but am a small dragon...	센 척하지만 난 작은 드래곤이라고...
+line:b4e27683	I agree	저도 그래요.
+line:68ebf07b	I allowed him, as my stature provides ample height.	제 체격이면 충분한 높이가 나오니 허락했지요.
+line:a051821a	I already feel a lot better.	벌써 훨씬 나아졌어.
+line:49bfbfbe	I already have spot at the club reserved.	클럽 자리도 벌써 예약했어.
+line:14ff4edd	I always do~	난 항상 그렇게 열심히 하지~
+line:b05c6259	I always look forward to seeing you. I'll go get the gate.	전 언제나 만나고 싶어요. 문 열고 올게요.
+line:52bf5ede	I am THE kobold. Yip!	제가 바로 그 코볼트예요. 이프!
+line:141c006f	I am too.	저도요.
+line:363f6f6a	I am too.	저도요.
+line:405b9622	I am too.	나도 그래.
+line:d4c5faea	I am too.	나도 그래.
+line:556897bf	I am! Even better now that you're here.	네! 오셨으니 더 좋아졌어요.
+line:e499b2cc	I am.	행복합니다.
+line:5ec8bb55	I believe that's in part because of you.	어느 정도는 당신 덕분이라고 생각합니다.
+line:9883786d	I booked the night.	하룻밤 예약해 뒀어요.
+line:eae85bf9	I broke up with my partner...	여자 친구랑 헤어졌어요...
+line:ffcfee20	I brought watermelon, bread, grapes, and some other stuff.	수박, 빵, 포도랑 이것저것 가져왔어요.
+line:e8aa18f4	I can digest pretty much anything.	거의 모든 걸 소화할 수 있어요.
+line:7f543c2a	I can let loose whenever you are ready	네가 준비되면 난 언제든 쌀 수 있어.
+line:c83a6a0d	I can't believe Igwix would make a mistake like this!	이그윅스가 이런 실수를 저지르다니 믿을 수 없군요!
+line:e051a79e	I consider you a good friend too	저도 좋은 친구라고 생각해요.
+line:f382336f	I could get us the <i>nicest</i> spots for their show.	공연을 볼 <i>제일 좋은</i> 자리도 잡을 수 있어.
+line:2602b8c6	I could use a wash.	씻어야겠어요.
+line:c66153d3	I couldn't help but notice the... device over there.	저쪽에 있는... 장치가 자꾸 눈에 들어오더군요.
+line:b71f0756	I decided to try baking.	베이킹을 해 보기로 했어요.
+line:e62b989c	I decided to try baking.	베이킹을 해 보기로 했어요.
+line:efea7148	I decided to try baking.	베이킹을 해 보기로 했어요.
+line:98f800d3	I didn't know anyone could like me that much so easily.	이렇게 쉽게 절 많이 좋아해 줄 사람이 있을 줄 몰랐어요.
+line:4116f001	I didn't know what the button did.	무슨 버튼인지 몰랐어요.
+line:7a5c7f54	I didn't mean to fluster you!	당황하게 하려던 건 아니었어요!
+line:55542a9b	I do enjoy the color. Though I believe its unrelated to my own hue.	좋아하는 색입니다. 다만 제 몸 색과는 관계없다고 생각합니다.
+line:f9c800f2	I do!	그럼요!
+line:ad9c1ada	I do. But, what happened?	있긴 한데, 무슨 일이 있었어요?
+line:a45ccf3a	I don't believe I can hold back any longer	더는 참지 못할 것 같습니다.
+line:8c6e1cd3	I don't get it! Why do I have to act this way?	모르겠어! 왜 난 꼭 이렇게 굴까?
+line:cc4e48a3	I don't know where they went but I feel dirty again.	그 연금술사가 어디로 갔는지는 모르겠는데 또 더러워졌어요.
+line:71127249	I don't mean to be rude, but I must decline	무례하려는 뜻은 아니지만 사양하겠습니다.
+line:f5696cc4	I don't need to tell you.	말할 필요 없잖아.
+line:878fc94c	I don't understand..	모르겠어..
+line:4f3d31f8	I don't want your pitty!	네 동정 따위 필요 없어!
+line:8fc36ab7	I enjoy being a part of so many individuals lives in a positive way.	많은 이들의 삶에 좋은 영향을 줄 수 있다는 게 좋습니다.
+line:14653182	I enjoy parts of it. The respect is pleasant...	좋은 점도 있습니다. 존중받는 건 기쁘지요...
+line:bd4bb1b9	I enjoy that I do not fear failure around you.	당신 앞에서는 실패가 두렵지 않아서 좋습니다.
+line:c108ed4f	I enjoy when you tell me what to do with a pat of your hand.	손으로 툭 건드려 무엇을 해야 할지 알려 주실 때가 좋습니다.
+line:6db406b4	I enjoyed this quite a lot.	정말 즐거웠습니다.
+line:e838533b	I feel as I could say anything to you.	당신에게는 뭐든 말할 수 있을 것 같습니다.
+line:9b9567ec	I feel much better.	훨씬 개운하군요.
+line:ed6be68f	I feel spotless as always.	언제나처럼 완전히 깨끗해졌네.
+line:938be2fb	I forget the ignorance of a layman. I apologize.	문외한은 모를 수 있다는 걸 잊었습니다. 죄송합니다.
+line:63837f22	I forgot to bite into it so... Nothing?	씹는 걸 잊어서... 아무 맛도 못 느꼈네요?
+line:fe3484ea	I get how you'd feel that way after a breakup, yeah.	헤어진 뒤라면 그렇게 느낄 만하죠.
+line:adf1550f	I give my other bipedal friends rides all the time.	다른 두 발 친구들도 늘 태워 주거든요.
+line:9a68366f	I got a mount.	기구를 샀어요.
+line:78a54cae	I got back home a bit dirty. And she yelled at me.	제가 좀 더러워진 채로 돌아갔더니 소리를 질렀어요.
+line:22a9094a	I guess so!	그런 것 같네요!
+line:28d6c0aa	I hate that I'm always getting into situations like this.	맨날 이런 꼴이 되는 내가 싫어.
+line:366a7f73	I have a question.	질문이 있습니다.
+line:82b63c18	I have something to say!	할 말이 있어요!
+line:fd68807c	I have to say, you did as good a job as private washers.	개인 목욕사 못지않게 훌륭한 솜씨였습니다.
+line:761f413a	I heard a loud bang	큰 소리가 들렸어요.
+line:9d7cc63c	I heard a loud bang, I don't think Igwix made it.	큰 폭발음이 들렸지요. 이그윅스는 살아남지 못한 것 같습니다.
+line:7ede5030	I heard there was kobolds down here that could wash me up?	여기 코볼트들이 몸을 씻겨 준다고 들었는데요?
+line:efb2d4af	I heard there were kobolds down here that could wash me up?	여기 오면 코볼트들이 몸을 씻겨 준다고 들었는데요?
+line:2f9b499a	I honestly don't know how you are doing that.	솔직히 그걸 어떻게 하는지 모르겠다.
+line:6f5dbc90	I hope he's okay too.	저도 무사했으면 좋겠어요.
+line:cd0197ed	I hope I can learn from that.	나도 좀 배울 수 있으면 좋겠네.
+line:cf50dbcc	I hope it all works out.	잘됐으면 좋겠어.
+line:b2dfad3e	I hope so.	그러면 좋겠어요.
+line:0477b0d7	I hope so. I really want a fresh start with someone.	그랬으면 좋겠네. 누군가와 새로 시작하고 싶거든.
+line:7429dab7	I hope that you'll help me prove them wrong!	그 말이 틀렸다는 걸 증명하게 도와줘요!
+line:be5feb3e	I hope things get better.	잘 풀렸으면 좋겠어요.
+line:114ac9a0	I hope you're right.	네 말이 맞으면 좋겠네.
+line:06744c7e	I just don't like that she takes it out on me.	그렇다고 저한테 화풀이하는 건 싫어요.
+line:1fb02179	I just don't like that she takes it out on me.	그렇다고 저한테 화풀이하는 건 싫어요.
+line:c8a1e7d0	I Just need a quick wash... Maybe the mount would be nice too.	간단히 씻으면 돼... 기구도 쓰면 좋고.
+line:95ff1bed	I just wish for you to ask me a question. Any question.	그냥 저에게 질문해 주셨으면 합니다. 어떤 질문이든요.
+line:f716a163	I knew you were too busy, so I figured I'd bring the date to you!	많이 바쁜 걸 아니까 데이트를 여기로 가져왔어요!
+line:2461773d	I knew you'd have my back	제 편을 들어 줄 줄 알았어요.
+line:6a671440	I know a decent equine-kin place by the pier.	부두 근처에 괜찮은 말 종족 식당이 있어요.
+line:50102b85	I know he can be a bit hot headed and forget to thank folks.	좀 다혈질이라 감사 인사를 잊기도 하잖아요.
+line:83c55e2e	I know things can be tough.	힘들 때도 있는 거죠.
+line:2ffb026d	I know you need to close down shop. I'll make sure you get the address and we can meet up there, yeah?	가게를 닫아야 하는 건 알아요. 주소를 알려 줄 테니 거기서 만나요.
+line:ded99a0c	I know, I'll reserve your spot!	알아, 자리 맡아 둘게!
+line:59e503b2	I know. But the ability to open up to someone, even occasionally-	알고 있습니다. 하지만 가끔이라도 마음을 털어놓을 수 있다는 건...
+line:d30ffec9	I know. I know I shouldn't be dumping this on you.	알아요. 이런 이야기까지 떠넘기면 안 되는데.
+line:875048ca	I know. I know.	알고 있습니다. 알아요.
+line:7b59e4d6	I like how sure of yourself you are. Even if it just has to do with washing.	당신의 확신에 찬 태도가 좋습니다. 단지 몸을 씻기는 일일지라도요.
+line:46061aae	I like it! I think you'd enjoy it too.	전 좋아해요! 당신도 좋아할 것 같아요.
+line:f4ad8ea6	I like taking care of you.	저도 돌봐 드리는 게 좋아요.
+line:8ffedb47	I like the mount you chose. Mind grabbing it?	네가 고른 기구 마음에 들어. 가져와 줄래?
+line:5c86951f	I like you a lot.	당신이 정말 좋아요.
+line:a91980fc	I like you for who you are.	전 있는 그대로의 모습이 좋아요.
+line:bdca3e1b	I like... him.	그냥... 그 자체가 좋아요.
+line:2b65bf83	I love bubbles, they tickle!	비눗방울이 좋아요. 간지럽거든요!
+line:f8a4f404	I mean it. Really.	진심이야. 정말로.
+line:ae719afc	I need to be better. I <i>want </i>to be better.	나아져야 해. 나도 나아지고 <i>싶어</i>.
+line:a0373456	I need to be spotless. Seems that's what you're for. <size=70%> Ha.	흠 하나 없이 깨끗해져야 해. 네가 그 일을 한다며. <size=70%>하.
+line:3da2dd1d	I never expected myself to confide such embarrassing things in someone.	이렇게 부끄러운 일을 누군가에게 털어놓게 될 줄은 몰랐습니다.
+line:0c986dec	I never expected you to be the type to be so messy!	이렇게 잘 더러워지실 줄은 몰랐어요!
+line:95db900b	I never miss a spot.	전 한 군데도 놓치지 않아요.
+line:d620d41a	I never thought someone like him would be my type...	그런 타입이 내 취향일 줄은 몰랐는데...
+line:67592de1	I probably need to head out though.	그래도 이제 가 봐야겠어.
+line:e41c6dc5	I really do hope it all works out!	정말 잘됐으면 좋겠네!
+line:a722aada	I really think it was this time...	이번에는 진짜 내 잘못 같아...
+line:e80e5edd	I see what you're doing, thank you.	무슨 뜻인지 알겠습니다. 감사합니다.
+line:cc6ec337	I see..	그렇군요..
+line:d57520b1	I seem to have gotten myself covered in ink!	어쩌다 보니 잉크를 뒤집어썼습니다!
+line:3b161cf3	I still need more!	아직 더 필요해요!
+line:47dc71f3	I suppose I understand disliking the mess it may cause.	비 때문에 더러워지는 게 싫을 수도 있겠지요.
+line:234ccfda	I suppose it depends on the circumstances.	어떤 상황인지에 따라 다르겠죠.
+line:910706c0	I think a movie could be fun!	영화도 재미있겠네요!
+line:99bbb171	I think he was in a bad environment. He's doing better now.	안 좋은 환경에 있었던 것 같아요. 지금은 나아졌고요.
+line:9247b7a0	I think he'd like the new you!	새로워진 콘래드를 좋아할 것 같아요!
+line:f4982dcd	I think he's got a crush on me.	나한테 마음이 있는 것 같아.
+line:fc6fdd10	I think I can still feel some explosion grime on me...	폭발 때문에 생긴 때가 아직 좀 남은 것 같아요...
+line:4efc873f	I think I like being taken care of?	저는 보살핌받는 걸 좋아하는 것 같습니다.
+line:f5d36d9a	I think I might be close..	거의 다 된 것 같아요..
+line:52fc4e08	I think I'd like that!	그거 좋겠는데!
+line:5c78099a	I think I'd like to meet him!	한번 만나 보고 싶어요!
+line:14e0edf6	I think I'd like to try!	한번 해 보고 싶네!
+line:164df75a	I think I'd like to use it?	사용해 보고 싶은 것 같습니다만...?
+line:4f6168aa	I think I'd like to use it?	사용해 보고 싶은 것 같습니다만...?
+line:ab314624	I think I'd like to?	써 보고 싶은 것 같습니다만...?
+line:170c6aa3	I think I'd like you to be that someone aswell.	저도 그 사람이 당신이면 좋겠어요.
+line:8f46bb17	I think I've got it!	이제 알 것 같아요!
+line:a5e128e0	I think she's upset about something else...	다른 일 때문에 화가 난 것 같아요...
+line:bc2545e7	I think she's upset about something else...	다른 일 때문에 화가 난 것 같아요...
+line:335c5156	I think so!	그런 것 같아요!
+line:3292625e	I think that would make a decent place! They put on good shows every night.	거기 괜찮을 것 같아요! 매일 밤 좋은 공연도 하거든요.
+line:eaafe671	I think you got every spot!	한 군데도 안 놓친 것 같네!
+line:1760e5d5	I think you got every spot.	하나도 안 놓친 것 같아요.
+line:341175f7	I think you got every spot.	하나도 안 놓친 것 같아요.
+line:770e7473	I think you got every spot.	하나도 안 놓친 것 같아요.
+line:f4a8f7fc	I think you helped him a lot more than you realize.	생각하는 것보다 훨씬 많이 도와준 것 같아요.
+line:f28fd15d	I think you missed a few spots still...	아직 몇 군데 남은 것 같은데요...
+line:77509e74	I think you're cool too. Self improvement is hard.	콘래드도 멋져요. 더 나아지려고 노력하는 건 힘드니까요.
+line:763c6a82	I think you're good looking.	잘생기셨다고 생각해요.
+line:69e7dbb3	I think you're pretty cool, Conrad.	전 콘래드가 꽤 멋지다고 생각해요.
+line:9c393f61	I think you're special too.	저도 콘래드가 특별하다고 생각해요.
+line:7d5ae3b4	I usually make do with a hose down at home...	전 보통 집에서 호스로 씻는 걸로 때우거든요...
+line:c4fc9b28	I wanna talk face to face!	얼굴을 보고 이야기하고 싶어요!
+line:548dc375	I want to be more open. It feels good.	좀 더 마음을 열고 싶습니다. 기분이 좋군요.
+line:e02f464d	I was helping the alchemist reach a high shelf	연금술사가 높은 선반에 닿도록 도와주고 있었어요.
+line:fa97376e	I was helping the alchemist reach a high shelf	연금술사가 높은 선반에 닿도록 도와주고 있었습니다.
+line:bb015b1b	I was romping around the forest	숲에서 뛰어놀고 있었어요.
+line:78e2cb13	I was thinking about what you said,	당신이 한 말을 생각해 봤어요.
+line:b8282714	I was thinking.	생각해 봤는데요.
+line:ca616238	I was thinking. We could go out some time next week?	생각해 봤는데, 다음 주쯤 같이 나갈까?
+line:a13d76ec	I was thinking...	생각해 봤는데요...
+line:c1a4edf0	I wasn't making her happy either.	그쪽도 저랑 있는 게 행복하지 않았고요.
+line:a4214fe6	I went out of my way for a discrete washing, I was sure I wasn't followed.	남몰래 씻으려고 일부러 신경을 썼습니다. 미행당하지 않았다고 확신했습니다.
+line:db5cd152	I went out with some friends.	친구들이랑 나갔다 왔어요.
+line:b6b9dc33	I will pay double. Triple- This is a job only you can do!	두 배로 내겠습니다. 세 배라도! 당신만이 할 수 있는 일입니다!
+line:0c31345e	I will, thanks.	그럴게요. 고마워요.
+line:fa41daf4	I will. I just need a quick wash, and wouldn't mind using the mount today.	그럴게. 일단 빨리 씻고, 오늘은 기구도 쓰고 싶어.
+line:399457b7	I wish it was easy as it is in movies.	영화처럼 쉬우면 좋을 텐데.
+line:2185f08c	I won't.	말 안 할게요.
+line:45950848	I would like that!	그러면 좋겠어요!
+line:099ec7fd	I would love to.	그러고 싶어요.
+line:e6006cd6	I wouldn't mind!	저도 가고 싶어요!
+line:81905be1	I'd like to go out to eat.	외식하고 싶어요.
+line:75b152eb	I'd love to talk more, truly, but class is soon.	정말 더 이야기하고 싶지만, 곧 수업입니다.
+line:2fe8a558	I'd love to!	저도 좋아요!
+line:87ba56cc	I'll be back again, yeah?	또 올게요, 알겠죠?
+line:ca035ef2	I'll be back again. It's nice having you as a friend.	또 오겠습니다. 당신을 친구로 둘 수 있어 좋군요.
+line:0fcd9c26	I'll be back soon, yeah? Thanks for the wash.	곧 다시 오겠습니다. 씻겨 주셔서 감사합니다.
+line:d9f422eb	I'll be waiting at the bar for you tonight!	오늘 밤에 술집에서 기다릴게!
+line:69dff2ec	I'll be waiting for the gate!	문 열어 주길 기다릴게요!
+line:ae4d09f6	I'll be waiting for the gate!	문 열어 주길 기다릴게요!
+line:ab616aac	I'll definitely keep this place in mind.	앞으로도 꼭 기억해 둘게요.
+line:b122441b	I'll get one ordered I promise!	꼭 하나 주문할게요!
+line:1642b6f1	I'll get out of your scales now. Thank you for the wash.	이제 그만 가 보겠습니다. 씻겨 주셔서 감사합니다.
+line:707d2693	I'll get out of your scales...	그럼 그만 가 볼게...
+line:ca480eed	I'll get you two in contact then.	그럼 둘이 연락할 수 있게 해 줄게요.
+line:59416000	I'll go get the gate for ya'	문 열어 드릴게요.
+line:6aa7ad03	I'll go get the gate for ya'	문 열어 드릴게요.
+line:2a6d7e7d	I'll go get the gate for you.	문 열어 줄게요.
+line:8107858d	I'll go get the gate for you.	문 열어 드릴게요.
+line:d1755010	I'll go get the gate for you.	문 열어 줄게요.
+line:4d692a01	I'll go get the gate.	문 열고 올게요.
+line:a75bb519	I'll go get the gate.	문 열고 올게요.
+line:8689a124	I'll happily get that for you.	기꺼이 가져다드릴게요.
+line:48e99d7b	I'll have to close up shop first-	가게부터 닫아야 해요...
+line:f2b894e2	I'll have to reserve your spot while you close up.	네가 닫는 동안 자리를 맡아 둘게.
+line:6c5e2459	I'll keep that in mind. I'm used to things being transactional.	기억해 두겠습니다. 모든 일에 대가가 따르는 게 익숙해서요.
+line:956a0f47	I'll make sure to ask him next time I see him.	다음에 만나면 꼭 물어볼게요.
+line:e64d21e4	I'll make sure to come back.	꼭 다시 올게.
+line:7c9fe106	I'll make sure to get out of your scales.	그럼 방해 안 하게 가 볼게.
+line:87006442	I'll make sure to tell others about this place	다른 사람들한테도 여기 이야기해야겠어요.
+line:1db78e06	I'll make sure to tell you how it goes, yeah?	어떻게 됐는지 꼭 이야기해 줄게요.
+line:49b6a167	I'll make sure you're <i>spotless.	제가 <i>티끌 하나 없게 해 드릴게요.
+line:96981b61	I'll manage.	어떻게든 해 봐야죠.
+line:9aa97614	I'll need this to be swift, students won't teach themselves.	서둘러 주셔야겠습니다. 학생들이 알아서 배우지는 않으니까요.
+line:9ef857c8	I'll need to resurrect Igwix, oh how embarrassing!	이그윅스를 되살려야겠군요. 이 얼마나 부끄러운 일입니까!
+line:90a9a98e	I'll see you next time I come in, yeah?	다음에 오면 또 봐요, 알겠죠?
+line:d0f6a49a	I'll see you next time I come in, yeah?	다음에 오면 또 봐요, 알겠죠?
+line:160bf40f	I'll start prepping for it.	슬슬 준비해야겠네.
+line:8af64cb8	I'll take care of this, don't you worry.	제가 돌봐 드릴게요. 걱정 마요.
+line:e20c6391	I'll tell you in a bit. Could you just get the gate for now?	조금 있다가 말할게요. 일단 문부터 열어 줄래요?
+line:04c62f9b	I'm <i>spotless</i>.	<i>티끌 하나 없이</i> 깨끗하군요.
+line:629f8cff	I'm a bit of a big deal around there.	거기선 내가 좀 유명하거든.
+line:d9272031	I'm a dragon.	전 드래곤이잖아요.
+line:675e7284	I'm a rule breaker!	전 규칙을 깨는 드래곤이거든요!
+line:afcd5586	I'm a... kobold.	전... 코볼트인데요.
+line:5d41b5d6	I'm all dirty still!	나 아직 더러워!
+line:2f6eb3c3	I'm all soapy still!	나 아직 비누투성이야!
+line:18707b19	I'm always happy to give you a wash!	씻겨 드리는 건 언제나 좋아요!
+line:3b01eb3b	I'm always happy to give you a wash!	씻겨 드리는 건 언제나 좋아요!
+line:d82b1a7d	I'm always happy to help. <i><size=70%> especially a big dragon.	돕는 건 언제나 즐거워요. <i><size=70%>특히 커다란 드래곤이라면요.
+line:46c6a3ed	I'm always happy to see you Ryan.	전 언제나 라이언을 보면 반가워요.
+line:75206eee	I'm always happy to see you Ryan.	전 언제나 라이언을 보면 반가워요.
+line:fa6e232e	I'm always happy to see you. I'll go get the gate for you.	전 언제든 만나면 반가워요. 문 열어 드릴게요.
+line:07e5fc05	I'm amazed!	정말 놀라워!
+line:4586d55d	I'm an asshole. I know I am.	난 개자식이야. 나도 알아.
+line:a6d46685	I'm certain he also finds you pleasant!	그도 분명 당신을 좋아할 겁니다!
+line:ef399e26	I'm doing good!	잘 지내요!
+line:a6c1f2f4	I'm excited for you!	저도 덩달아 기대되네요!
+line:94fbdbf0	I'm excited for you. I'll get the gate!	제가 다 기쁘네요. 문 열게요!
+line:f83e4966	I'm excited to hear about it!	빨리 듣고 싶어요!
+line:bd55b8f4	I'm excited to see them washing down the drain though.	그래도 배수구로 내려가는 모습도 보고 싶네요.
+line:24832f01	I'm excited.	기대되네.
+line:69f406a6	I'm excited.	기대되네.
+line:a00f681d	I'm excited.	기대돼요.
+line:a0479425	I'm excited.	기대돼요.
+line:b5d7d26f	I'm excited.	기대돼요.
+line:d66b9155	I'm excited.	기대돼요.
+line:4e1b1d0a	I'm glad you derive enjoyment from this as well.	당신도 즐겁다니 기쁘군요.
+line:5db47405	I'm glad you enjoy him. I'm certain he finds you pleasant.	그가 마음에 드신다니 다행입니다. 그도 당신을 좋아할 겁니다.
+line:c56ee060	I'm glad you enjoy my crest.	제 문장이 마음에 드신다니 기쁘군요.
+line:f44a1493	I'm glad you trust me.	저를 믿어 주셔서 기뻐요.
+line:3a2ed5ef	I'm glad you two are working out though.	아무튼 둘이 잘되고 있다니 기뻐요.
+line:c0972e81	I'm glad you two are working out.	둘이 잘되고 있어서 기뻐요.
+line:34ba77b1	I'm glad you were able to make the choice that was best for you.	자신에게 가장 좋은 선택을 할 수 있어서 다행이에요.
+line:d5a90e1c	I'm glad!	기쁘군요!
+line:286fec49	I'm glad.	다행이네요.
+line:42f5fd9d	I'm glad.	다행이네요.
+line:99b6dc81	I'm glad.	다행이네요.
+line:570d4953	I'm happy for you!	둘이 잘돼서 기쁘네!
+line:ac6d5bd3	I'm happy for you!	둘이 잘돼서 기쁘네!
+line:ed5c40ca	I'm happy for you!	둘이 잘돼서 기쁘네!
+line:79099951	I'm happy to be here too.	저도 여기 와서 기쁩니다.
+line:99fd9b51	I'm happy to give you a place you can relax.	편히 쉬실 곳을 드릴 수 있어서 기뻐요.
+line:5d36d5c8	I'm happy to have met you.	당신을 만나 기쁩니다.
+line:ce21622a	I'm happy to hear that.	그렇다니 기뻐요.
+line:69963a6c	I'm happy you feel comfy here.	여기를 편하게 느끼셔서 기뻐요.
+line:38388248	I'm here for a wash.	씻으러 왔습니다.
+line:a6974256	I'm here if you need someone to talk to.	이야기할 사람이 필요하면 제가 있어요.
+line:6690512d	I'm impressed.	감탄스럽네.
+line:2e424b13	I'm in need of another wash.	또 씻으러 왔어요.
+line:ef91a572	I'm Jealous!	질투 나네!
+line:a79b8639	I'm just happy I don't feel judged here.	여기서는 평가받는 기분이 들지 않아서 좋아요.
+line:8076eb95	I'm just here for a wash though.	그래도 그냥 씻으러 온 거야.
+line:c2caa0b7	I'm just here to bring you food!	그냥 음식 가져다주려고 온 거예요!
+line:ec6c7823	I'm just... Happy.	그냥... 행복해서요.
+line:ed4b0d48	I'm kind of excited.	조금 기대되네요.
+line:266c652e	I'm looking forward to seeing you again	또 만날 날이 기다려져요.
+line:e91e2041	I'm not <i>that</i> little-	전 <i>그렇게</i> 작지는 않은데...
+line:cf05a364	I'm not certain why I suddenly understand your 'Yips'	왜 갑자기 당신의 '이프'가 이해되는지 모르겠군요.
+line:dcc4774b	I'm not too sure. It was on sale at WingCo.	잘 모르겠어요. WingCo에서 할인하길래 샀거든요.
+line:5b31909a	I'm only doing what I think is right.	옳다고 생각하는 일을 할 뿐이에요.
+line:7fe349d7	I'm profoundly embarrassed by this whole ordeal.	이번 일은 정말 부끄럽기 짝이 없습니다.
+line:cfaffc52	I'm pumped.	기대된다.
+line:c0a140f8	I'm really fond of letting folks ride on my back.	전 다른 사람을 등에 태워 주는 걸 좋아해요.
+line:1a5e6184	I'm really looking forward to this.	정말 기대돼요.
+line:8b43a434	I'm really sorry you got hurt. Who did this?	이렇게 다치다니 정말 속상하네요. 누가 그랬어요?
+line:69ffe957	I'm so excited about this date!	이번 데이트 정말 기대돼요!
+line:e6290003	I'm so excited. I'll get you two in contact!	정말 기대돼요. 둘을 연결해 줄게요!
+line:e8611ad0	I'm sorry for dumping that all on you earlier.	아까 그런 이야기를 쏟아 내서 미안해요.
+line:e613b1c3	I'm sorry I snapped at you earlier.	아까 너한테 쏘아붙여서 미안해.
+line:de208e68	I'm sorry you got hurt...	다쳐서 마음이 아프네요...
+line:4843bb47	I'm still very muddy, if you could soap me up that'd be great.	아직 진흙이 많네요. 비누칠해 주면 좋겠어요.
+line:51d4e418	I'm such an idiot.	난 진짜 멍청해.
+line:32114891	I'm sure nobody will know...	아무도 모를 거예요...
+line:17a05c96	I'm sure we'll figure something out! just meet me at the pier!	뭐라도 떠오르겠죠! 부두에서 만나요!
+line:8136ef1a	I'm surprised how nice it is.	이렇게 좋을 줄은 몰랐어요.
+line:722c6ab2	I'm thinking a date soon.	곧 데이트할까 생각 중이에요.
+line:3471e9b1	I'm trying my best.	최선을 다하고 있어.
+line:01492e5e	I'm trying not to be pushy.	강요는 안 하려고.
+line:4d6cd625	I'm trying to get away from the house for a bit.	집에서 잠깐 벗어나고 싶어서요.
+line:c1ef777a	I'm unsure why speaking with you is so easy.	왜 당신과는 이렇게 쉽게 대화할 수 있는지 모르겠습니다.
+line:822c0718	I'm very excited.	정말 기대돼요.
+line:ddab3d34	I'm very satisfied with these results..	결과가 무척 만족스럽군요..
+line:03eb977c	I'm well aware. A deep clean has a distinct feel!	잘 알고 있습니다. 꼼꼼히 씻고 나면 느낌부터 다르지요!
+line:f9193c0d	I'm willing to do it. But I'd like something new.	해 볼 생각은 있어요. 그래도 새로운 게 좋겠네요.
+line:63981253	I'm... Happy.	저... 행복해요.
+line:f80bd44b	I'm... not certain I'd like to use this today.	오늘은... 이걸 쓰고 싶은지 잘 모르겠습니다.
+line:d422462e	I'm... not sure I can answer that for you.	그건... 제가 대신 답해 드릴 수 있을지 모르겠어요.
+line:8f107933	I'm... Rather close now	이제... 거의 한계입니다.
+line:24c52c54	I'm... wondering...	저... 그게...
+line:6bbd7f1d	I've always hated the rain.	전 원래 비를 싫어했어요.
+line:b4353808	I've always loved giving my biped friends rides...	두 발로 걷는 친구들을 태워 주는 건 항상 즐거웠어요...
+line:9541fceb	I've been considering asking you this for a while now.	이 질문을 드릴까 한동안 고민했습니다.
+line:505154a4	I've been thinking...	생각해 봤는데요...
+line:58b4f5fb	I've been told it's polite to talk to smaller folk face to face.	작은 친구들에게는 얼굴을 마주 보고 말하는 게 예의라고 배웠어요.
+line:2c560e29	I've been trying to get into the social sciences aswell.	사회과학 쪽에도 발을 들여 보려 하고 있습니다.
+line:b4a29141	I've got a guy who can drop a gift by tomorrow that would spruce things up.	아는 녀석이 내일 선물 하나 가져다줄 수 있어. 분위기가 살아날걸.
+line:212f0021	I've had a lot of free time lately.	요즘 시간이 많거든요.
+line:701b9feb	I've had a lot of free time lately.	요즘 시간이 많거든요.
+line:79da763f	I've had a lot of free time lately.	요즘 시간이 많거든요.
+line:3c4443fd	I've seen bigger	더 큰 것도 봤어요.
+line:d7a90078	I...	전...
+line:393d0e05	I... hm.	저... 음.
+line:0da5609b	I... Know this is unprompted.	갑작스러운... 이야기인 건 압니다.
+line:5cfb94b9	If a relationship is <i>so</i> bumpy and you know its going to end.	관계가 <i>너무</i> 힘들고 결국 끝날 거라는 걸 알아요.
+line:b2f52b23	If I could uhm...	혹시, 제가...
+line:b4990e3d	If I'm honest. I've had a crush on you for a bit.	사실 전부터 조금 마음에 두고 있었어요.
+line:7c13c28e	If only.	있으면 좋겠네요.
+line:a56c5621	If someone like Ryan is interested, you're doing great.	라이언 같은 사람이 관심을 보였다면 잘하고 있는 거예요.
+line:52f28749	If we're caught violating another policy my reputation would be in ruins!	또 규정 위반이 들통나면 제 명예는 끝장입니다!
+line:83f511d2	If ya' place the mount for me I'll have at it.	기구만 놓아 주면 바로 시작할게.
+line:7ead92b1	If you could come up front so I could talk.	이야기할 수 있게 앞으로 와 줄래요?
+line:e78656aa	If you could come up to where I can see you.	제가 볼 수 있는 쪽으로 와 줄래요?
+line:9a013329	If you wanna talk about it more, I've got a minute.	더 이야기하고 싶으면 잠깐 시간 있어요.
+line:3d014153	If you want to use it that's fine!	쓰고 싶으시면 괜찮아요!
+line:a9eb9a76	if you're seeing this please grab nael or submit a bug report	이 문구가 보이면 Nael에게 알리거나 버그를 제보해 주세요.
+line:b9ab4eed	Im not complaining though.	불만은 없지만.
+line:27340362	In a bad way?	나쁜 쪽으로요?
+line:2019bb85	In a good way?	좋은 쪽으로요?
+line:91d5fb72	Incredible!	믿을 수 없어!
+line:61c8781b	Indeed! You're the only kobold I wish to wash me now.	그렇습니다! 이제 저를 씻겨 줬으면 하는 코볼트는 당신뿐입니다.
+line:a5979ac9	Indeed, you must know of my crest! I teach alchemy.	그렇습니다. 제 문장을 알아보셨군요! 저는 연금술을 가르칩니다.
+line:dd9d30d2	Indeed. I'm glad you were able to help.	그렇습니다. 도움을 받아 다행입니다.
+line:fd5ddfcb	Indeed. You're an excellent person to be around.	그렇습니다. 함께 있기 무척 좋은 분이지요.
+line:78c9b5cc	Is everything okay?	별일 없어요?
+line:bea8f1f7	Is something on your mind?	무슨 생각 해요?
+line:6b6dd8bc	Is that a good thing...?	좋은 뜻인가요...?
+line:848727f2	Is that a threat...?	협박하는 거예요...?
+line:db302830	Is that why you came in the first time?	그래서 처음 여기 오셨던 거예요?
+line:00e41343	Is this good?	이렇게 하면 좋아요?
+line:7982d3d8	Is this the right place?	제대로 찾아온 거 맞죠?
+line:c48f59a9	Is this the right place?	제대로 찾아온 거 맞죠?
+line:b05f6eea	Isn't that... Wood?	그거... 나무 아닌가요?
+line:bf137cb4	It arrived this morning, it should be near the gate.	오늘 아침에 도착했으니 문 근처에 있을 겁니다.
+line:5080b6dd	It depends! Dragon thing.	때에 따라 다르죠! 드래곤이니까요.
+line:34cf0601	It did! Thanks for asking.	잘됐어요! 물어봐 줘서 고마워요.
+line:900dca3c	It does wonders.	큰 힘이 됩니다.
+line:cfd504c5	It does wonders.	큰 힘이 됩니다.
+line:ac13bf68	It is indeed rather cool.	정말 꽤 멋집니다.
+line:ea445b46	It is rather novel isn't it?	꽤 신선한 경험이지요?
+line:56d34a41	It is? Good to know...	그래요? 알아 둘게요...
+line:b058318f	It means you're doing a good job in kobold.	코볼트 말로 잘하고 있다는 뜻이에요.
+line:13c906c7	It really has been. You're wonderful.	정말 그랬어요. 당신은 멋져요.
+line:b032bfb1	It turns out baking is messy!	베이킹을 하면 몸이 더러워지더라고요!
+line:da4f12a1	It turns out baking is messy!	베이킹을 하면 몸이 더러워지더라고요!
+line:e106207b	It turns out baking is messy!	베이킹을 하면 몸이 더러워지더라고요!
+line:e0c8c57b	It was good. We had sex.	좋았어요. 섹스했어요.
+line:681117ec	It was great. Conrad is wild. Good wild.	좋았어요. 콘래드는 거칠죠. 좋은 의미로요.
+line:28eee9f5	It went great!	아주 좋았어요!
+line:92bfe06c	It went great!	아주 좋았어요!
+line:a5d2b991	It went well.	잘됐어요.
+line:1ab5969b	It would be a... date. As most would say.	그러니까... 데이트입니다. 흔히들 그렇게 부르지요.
+line:8440a3f4	It's a regrettable state I find myself in...	제 꼴이 참 한심하군요...
+line:1706e86d	It's also new to me...	저도 처음이에요...
+line:c1b8e62b	It's always good when a kobold knows what they like.	자기가 뭘 좋아하는지 아는 코볼트는 언제나 좋지.
+line:deffce5c	It's crazy how much your neck can handle.	목에 얼마나 들어가는지 정말 신기해요.
+line:2e182063	It's difficult to find folks that are outside of my current bubble.	지금 어울리는 사람들 밖에서 새로운 사람을 만나기는 어렵네요.
+line:48cfc92b	It's endearing!	사랑스럽죠!
+line:5b6f00bd	It's fine.	괜찮아요.
+line:13dc0f15	It's fine. I close in about an hour.	괜찮아요. 한 시간쯤 뒤에 닫아요.
+line:23ac92c8	It's freeing. I'll be back, yeah?	해방되는 기분입니다. 또 오겠습니다.
+line:de9fdb93	It's hard to hold back..	참기 어렵네요..
+line:9ebea3d0	It's hard to not be nervous after everything...	지금까지 그런 일을 겪고 나니 긴장 안 하기가 힘드네...
+line:ec8243d8	It's interesting; you bipeds tend to savor your meals.	재미있어요. 두 발로 걷는 분들은 음식을 음미하더라고요.
+line:d50cb509	It's just that something happened to Conrad, I hope he's okay.	콘래드한테 무슨 일이 있었거든요. 괜찮아야 할 텐데.
+line:bee6c7dd	It's just that...	그냥...
+line:3b76093c	It's made for eating things whole.	통째로 삼키게 만들어진 목이니까요.
+line:19f36dc0	It's my dream.	제 꿈입니다.
+line:18db795f	It's never easy to end things.	관계를 끝내는 건 언제나 어렵죠.
+line:049fb01f	It's nice to have friends to rely on.	기댈 수 있는 친구가 있다는 건 좋네.
+line:ed69e3a1	It's nice to relinquish control, even for a moment.	잠깐이나마 통제권을 내려놓을 수 있으니 좋군요.
+line:e9d34ea0	It's no biggie. It sounds like everyone is fine.	별일 아니에요. 다들 괜찮은 것 같은데요.
+line:7e511da7	It's okay!	괜찮아요!
+line:b14d8520	It's okay, you sound like you need it.	괜찮아요. 이야기가 필요한 것 같아서요.
+line:50b95260	It's okay. I needed to. She wasn't making me happy.	괜찮아요. 그래야 했어요. 함께 있어도 행복하지 않았거든요.
+line:47455767	It's okay. I'll figure something out.	괜찮아요. 어떻게든 해 봐야죠.
+line:9287c933	It's starting to feel like it's <i>my</i> fault.	점점 <i>내</i> 잘못 같아져.
+line:7ab244af	It's the best way to enjoy food.	이게 음식을 즐기는 제일 좋은 방법이에요.
+line:0b7589ff	It's the mount you asked for.	부탁했던 기구예요.
+line:a5780e74	It's wonderful to be back!	다시 오니 정말 좋군요!
+line:649e8eb3	Its a nice get away from everything out there.	바깥일을 잠시 잊고 쉬기 좋네요.
+line:d0361dd9	Its like an equine fusion thing...	말 종족의 퓨전 요리 같은 건데...
+line:df86a610	Jokes aside, your wash is definitely the best.	농담 빼고, 여기가 확실히 최고야.
+line:7fe40d2b	Just a rough day. Hoping this helps!	그냥 좀 힘든 날이었어요. 씻고 나면 나아지겠죠!
+line:ce77a00e	Just did!	방금 했어요!
+line:7c93c604	Just doing my job!	제 일을 할 뿐이에요!
+line:fa0a9fbb	Just having fun.	그냥 즐기는 거야.
+line:9e9425cd	Just possibly...	어쩌면...
+line:1d73a343	Just some drake at the bar. Was stupid... Couldn't shut my mouth.	술집에 있던 드래곤 하나. 내가 멍청했어... 입을 닥치질 못했지.
+line:ecb9a15d	Just touch me with your hand and I'll try to help.	손으로 만져 주면 저도 도와볼게요.
+line:14209365	Just uhm... Don't tell anyone I'm saying all this.	그냥, 어... 내가 이런 말 했다는 건 아무한테도 말하지 마.
+line:3bac1dad	Just... open the gate.	그냥... 문이나 열어 줘.
+line:4f826403	Keep going a little longer please	조금만 더 해 줘요.
+line:087039ba	Keep going.	계속해.
+line:d8f92323	Kinda! I've been getting out more.	좀 있어! 밖에 더 자주 나가고 있거든.
+line:b965b4dd	Knock that off, we're not done yet. Right?	그만해요. 아직 안 끝났잖아요. 그렇죠?
+line:d9d276bb	Kobolds always seem enamored by me eating.	코볼트들은 제가 먹는 모습을 늘 신기해해요.
+line:0274cacd	Kobolds are very flexible. It will fit.	코볼트는 아주 유연해요. 들어갈 거예요.
+line:20cb68b9	lemme in?	들어가도 돼요?
+line:41d5085a	Let go whenever you are ready.	준비되면 마음껏 하세요.
+line:29a77d09	Let me give it a try!	한번 써 보자!
+line:265e14cb	Let me know when you're finished rinsing.	헹구는 일이 끝나면 말씀해 주십시오.
+line:0e1fd4b0	Let the <i>big C</i> out of this place!	이 <i>빅 C</i>를 내보내 줘!
+line:f7382398	Let's get going~!	시작해 보죠~!
+line:c50535b3	Let's have it!	전부 줘요!
+line:9accd60e	Lets wash it off for our date tonight then.	그럼 오늘 데이트를 위해 씻어 내죠.
+line:7ce1b833	Like what?	어떻게요?
+line:cb91e703	Like, I love those around me, but there's a lot of baggage there.	주변 사람들은 좋지만, 얽힌 사정도 많아서요.
+line:aa1c54ab	Like, in general.	전부 다요.
+line:bbe51f87	Like, in general.	전부 다요.
+line:7b7b0a3f	Like, the future of my relationships.	앞으로의 연애 말이에요.
+line:db79a905	Like... a lemon?	그러니까... 레몬이요?
+line:ffd7dcc4	Like... An asshole? I know I'm miserable to be around.	그러니까... 개자식처럼? 나랑 있으면 괴로운 거 알아.
+line:a0a0a49c	Like... sexual stuff?	그러니까... 야한 거요?
+line:9becd177	Look at me! I'll be the laughing stock of my students.	제 꼴을 보십시오! 학생들 웃음거리가 되겠습니다.
+line:9711cf03	Lookin' for a hose down. Wouldn't mind using the mount aswell.	물로 좀 씻으려고. 기구도 쓰면 좋겠고.
+line:abdb5822	Looking forward to seeing ya'	다음에 또 만나요.
+line:5c335985	Looking forward to seeing you soon.	곧 다시 뵙기를 바랍니다.
+line:1d0abc80	Looking forward to the wash.	씻는 게 기대되는군요.
+line:646279a0	Looks like it.	그런 것 같네.
+line:b6093881	Looks like ya' got a shipment, eh?	뭐가 배송됐나 보네?
+line:f1fc3e3c	Luckily death via spontaneous combustion is a concept we have thoroughly curtailed in the modern world.	다행히 현대에는 자연 발화로 인한 죽음을 상당 부분 막아 냈지요.
+line:d2ba8ba9	Made a bit of a mess... Still worth it.	좀 어질렀네요... 그래도 그럴 만한 가치가 있었어요.
+line:301e8665	Make haste! My reputation is on the line.	서둘러 주십시오! 제 명예가 걸려 있습니다.
+line:5072cc60	Make sure you're very clean. <size=70%><i>hehe.	아주 깨끗이 씻어야죠. <size=70%><i>헤헤.
+line:da21cf49	Makes sense! Yeah tiny drakes are fun.	그럴 수 있죠! 작은 드래곤은 재미있어요.
+line:22b2643b	Makes sense.	이해돼요.
+line:e7f0e9ed	Makes sense.	이해돼요.
+line:89c9a73b	Many think it's part of my body.	몸의 일부라고 생각하는 이들이 많습니다.
+line:d7bcbe29	Max says I'm a clumsy dragon,	맥스는 제가 덜렁대는 드래곤이라고 해요.
+line:db986d0d	May you open the gate?	문을 열어 주시겠습니까?
+line:76a97730	Maybe later...?	나중에는 모르겠지만요...?
+line:08a422ba	Maybe like...	뭐랄까...
+line:6f293b7a	Maybe someone new...	어쩌면 새로운 사람...
+line:d2558a04	Maybe someone?	새로운 사람일 수도 있겠죠?
+line:67a46ddc	Maybe we can hang out later?	나중에 같이 놀까요?
+line:5691478f	Maybe we could just... Walk?	그냥... 산책할까요?
+line:7734bf93	Me too, thanks!	저도요, 고마워요!
+line:627a13e4	Me too.	저도요.
+line:d3c733f5	Me too.	저도요.
+line:ffa63d1b	Me too.	저도요.
+line:040ee2a7	me too.	저도요.
+line:d13cd125	Me.	저 자신이기만을 바라는 첫 번째 사람입니다.
+line:14e7b293	Me?	제가요?
+line:b9cb051a	Means I'm ready to go on a date with a certain kobold.	어떤 코볼트와 데이트할 준비가 됐다는 뜻이죠.
+line:e5da247d	Means you know how to get hands on!	그러니까 손쓰는 법도 알겠지!
+line:171707d2	Mhm!	네!
+line:11306335	Mhm! Come back anytime.	네! 언제든 또 오세요.
+line:69dd6a73	Mhm! he's trying to meet new people.	네! 새로운 사람을 만나 보려고 하고 있어요.
+line:da17b746	Mhm! I'm <i>the</i> kobold!	네! 제가 바로 <i>그</i> 코볼트예요!
+line:a0cb3f78	Mhm! that's him.	네! 맞아요.
+line:164fdb01	Mhm, he's trying.	네, 노력하고 있어요.
+line:1a663dcf	Mhm, right this way.	네, 이쪽으로 오세요.
+line:3cd8a8bd	Mhm... Thank you.	음... 감사합니다.
+line:4546abce	Might seem kinda weird to ask now. Buuuut.	지금 묻기는 좀 이상할지도 몰라. 그래도오...
+line:57d8b72a	Mind opening the gate to let me out?	나갈 수 있게 문 좀 열어 줄래요?
+line:b2a507ab	Mind opening the gate to let me out?	나갈 수 있게 문 좀 열어 줄래요?
+line:6d726280	Mind washing more?	조금만 더 씻겨 줄래요?
+line:c8281b83	Mmm, I understand that to mean you'll get the gate?	음, 문을 열겠다는 뜻으로 이해하면 됩니까?
+line:dd0c77ae	Mmm, Yeah I know the type.	음, 네, 어떤 성격인지 알겠어요.
+line:d8cafcc7	mmm..	으음...
+line:729cea0c	Mmmhm, I always do my best.	네, 언제나 최선을 다해요.
+line:f36b8b76	Mmmhm. I'll work on my sleep schedule...	음. 수면 시간은 좀 고쳐 볼게...
+line:d38efb75	Mmmmhm, gotta prep for a date with him.	네, 콘래드랑 데이트할 준비를 해야죠.
+line:a78dd44b	mmph! (Yea!)	읍! (네!)
+line:b132719c	Mmph- Hm?	음... 네?
+line:16ee6b14	Money... mmm...	돈... 음...
+line:d8cc8048	Most people do!	대부분 그렇죠!
+line:3d723db0	Must mean you two are a good match.	두 분이 잘 맞는다는 뜻이겠지요.
+line:9ca994a5	My bad	제 실수예요.
+line:aaecba3d	My bad	제 실수예요.
+line:fedbf70c	My colleague, professor Igwyx, wished to use me as a platform.	제 동료 이그윅스 교수가 저를 발판으로 쓰고 싶어 했습니다.
+line:08af3902	My date with Ryan was...	라이언이랑 데이트는...
+line:116b5405	My date with Ryan was...	라이언이랑 데이트는...
+line:e26c3b65	My first ever Yarn script in Unity!	Unity에서 처음 만든 Yarn 스크립트!
+line:f15b014f	My names Ryan. So...	제 이름은 라이언이에요. 그런데...
+line:e4aced7b	My students could learn a thing or two from your work ethic!	제 학생들도 당신의 성실함을 배워야겠습니다!
+line:dfe74420	My-	이런...
+line:9b915bf2	Nah.	아니요.
+line:c3642dec	Nah.	아니요.
+line:393c128a	Never cleaned a teacher dragon... woah.	선생님인 드래곤은 처음 씻겨 봐요... 우와.
+line:a99b03ed	Never tried it.	먹어 본 적은 없네요.
+line:6df809e1	Nevermind. Could you get the gate?	아니에요. 문 좀 열어 줄래요?
+line:d3a50f3f	Next time I come in for a wash we'll go.	다음에 씻으러 오면 가자.
+line:ac5afd96	Next time I come in I'll have reservations!	다음에 올 땐 예약해 둘게!
+line:8990fcc9	Nice! Whats with all the... Gloop?	잘됐네요! 그런데 그... 끈적한 건 뭐예요?
+line:1d4b8528	Nice. Gotta open the gate though. Let Conrad in!	좋아. 근데 문부터 열어. 콘래드 들어간다!
+line:acab92d4	Nnf... I believe I needed that. Thank you.	으응... 필요했던 것 같습니다. 감사합니다.
+line:8fe11008	Nnnf... That was way better than those berries.	으응... 베리보다 훨씬 낫네.
+line:b251704a	No	아니요.
+line:e05c2dca	No	아니요.
+line:dc86c2de	no	아니요
+line:5794ea87	No amount of justification makes it feel good though.	하지만 아무리 이유를 찾아도 마음이 아픈 건 어쩔 수 없네요.
+line:5a5ec440	No I actually just got it	아뇨, 사실 막 받은 거예요.
+line:cd5f07ca	No more excuses.	이제 변명은 그만할래.
+line:4b38230f	No need for thanks. I'll get the gate.	별말씀을요. 문 열어 드릴게요.
+line:11604fbd	No need to be nervous, Alexander!	긴장하지 않으셔도 돼요, 알렉산더!
+line:eefef647	No need to be.	그렇게 생각하지 않으셔도 돼요.
+line:73ea230a	No no, you're a certified cleaner yeah?	아니, 아니. 너 목욕사 자격증 있잖아?
+line:743c64e6	No not really.	아뇨, 사실 안 괜찮아요.
+line:50feefe8	No problem!	별말씀을요!
+line:1a9a36e1	No problem! Can't wait for you to meet Conrad.	별말씀을요! 빨리 콘래드를 만나 봤으면 좋겠어요.
+line:0a9993d2	No problem, thanks!	괜찮아요, 고마워요!
+line:10bdb3a4	No problem, thanks!	괜찮아요, 고마워요!
+line:3a8f65fa	No problem.	별말씀을요.
+line:ee3d0ee4	No problem. Let me get that gate for ya'!	괜찮아요. 문 열어 드릴게요!
+line:eedccaec	No way.	그럴 리가요.
+line:f0351f0c	No way.	그럴 리가요.
+line:d726f776	No worries,	괜찮아요.
+line:12b7a5b3	No! I mean, yes, but for the sake of my reputation could you please keep my incursion here to yourself.	아니요! 아니, 맞지만 제 명예를 위해 이곳에 온 건 비밀로 해 주시겠습니까?
+line:f7f963e3	No, I am.	아뇨, 더럽습니다.
+line:54faa7c0	No, I don't think I do.	아뇨, 아마 없을 거예요.
+line:38419d8b	No, it's not. No more excuses.	아니, 안 괜찮아. 이제 변명은 그만할래.
+line:cd9b2a8f	No, thank you. I'm... Really excited.	아니에요, 제가 고맙죠. 정말... 기대돼요.
+line:1af1ad05	No, we don't offer things like that here.	아니요, 여기서는 그런 서비스를 하지 않아요.
+line:cb7e94e5	no.	아뇨.
+line:6128a09c	No. A lime that is yellow.	아뇨. 노란색인 라임입니다.
+line:de25dacd	No. I'm not. Do you have a medkit or not?	아니, 안 괜찮아. 구급상자 있냐고.
+line:1cc64bcf	No.. No it's fine... thank you.	아니... 아니, 괜찮아... 고마워.
+line:525f5744	Nope	아니요.
+line:fbd2c3e7	Nope.	아니요.
+line:5406ba8e	Normally I'd say yes to a mount. But, not right now.	평소 같으면 기구도 좋지. 근데 지금은 아니야.
+line:ab92da6a	Not anymore at least!	적어도 이제는 아니죠!
+line:0cfcd179	Not for a date though.	데이트하기엔 아니지만.
+line:d1b90e2c	Not sure yet.	아직 모르겠어요.
+line:e9643b5d	Not yet.	아직요.
+line:326cc84d	Not yet. a little longer.	아직요. 조금만 더요.
+line:56a729f6	Nothing more attractive than a man who can improve!	발전할 줄 아는 남자보다 매력적인 건 없죠!
+line:b5dabf9f	Nothing more attractive than a man who can improve!	발전할 줄 아는 남자보다 매력적인 건 없죠!
+line:8a321997	Now I'm eyeballing the mount...	이제 저 기구가 눈에 들어오네...
+line:5e0a6d7a	Now I'm out here, agh!	결국 제가 이렇게 밖에 나와 있지 않습니까!
+line:564a9606	Now they'll never need to know!	이제 아무도 몰라도 되겠네요!
+line:d66b7986	Now!	자, 이제!
+line:63596bb3	Now, do you have a medkit or not?	그래서 구급상자 있어, 없어?
+line:eefc4e9f	Now, lemme in! I want to try that thing out!	이제 들어가게 해 줘! 저거 써 보고 싶어!
+line:0554966a	Now, more food?	그럼, 좀 더 먹을까요?
+line:3fb3f8d4	Now, round two!	이제 두 번째 판이지!
+line:12e6043e	Now... Food?	그럼... 먹을까요?
+line:5f8b2de4	oah. <size=70%>okay.	아. <size=70%>네.
+line:13223129	Of course	물론이죠.
+line:283e56d8	Of course I am! I know I'm very...	당연하지! 내가 아주...
+line:5788e15c	Of course I do. I'm a <i>professional</i>.	당연하죠. 전 <i>전문가</i>예요.
+line:0b226939	Of course it is!	물론 괜찮죠!
+line:f21dd9d4	Of course it is!	물론 괜찮죠!
+line:642255fc	Of course!	그럼요!
+line:76f8c20c	Of course!	그럼요!
+line:877aced7	Of course!	그럼요!
+line:d2401e75	Of course!	그럼요!
+line:f9eb2b4a	Of course! Right this way!	그럼요! 이쪽으로 오세요!
+line:0d20d327	Of course! Thank you for the food.	물론이죠! 음식 고마워요.
+line:4da976f5	Of course! You run a fine establishment.	물론이지요! 훌륭한 가게를 운영하고 계시니까요.
+line:b629bcf2	Of course! You're wonderful.	물론이지요! 당신은 훌륭합니다.
+line:b6c96475	Of course, you run a fine establishment.	물론이지요. 훌륭한 가게를 운영하시니까요.
+line:dd082478	Of course.	물론이죠.
+line:203cc3d2	Of course. One moment!	물론이죠. 잠시만요!
+line:fd145efe	Of course. Sorry you're going through all this.	물론이죠. 이런 일을 겪고 있다니 마음이 안 좋네요.
+line:7305cdbc	Oh cool!	오, 멋지네요!
+line:eb6ae4c3	Oh cool!	오, 멋지네요!
+line:77c996e8	Oh damn! You really are adventurous!	와, 젠장! 너 정말 대담하네!
+line:3fdb9d01	Oh fcuk something went wrong	젠장, 뭔가 잘못됐어요.
+line:9e403ecd	Oh fuck yeah.	아, 씨발, 좋아.
+line:13c39c50	Oh fudge, forget I said that!	아이고, 방금 한 말은 잊어 주십시오!
+line:e722753e	Oh goodness no..	아이고, 아닙니다..
+line:55e3dd36	Oh hi! um..	아, 안녕하세요! 저기...
+line:e8ee5747	Oh hi! um..	아, 안녕하세요! 저기...
+line:b90f527f	Oh huh, that's the tiny drake I saw coming in a bit back yeah?	아, 얼마 전에 여기 들어오는 걸 봤던 작은 드래곤이죠?
+line:001ab950	Oh I heard good things about that.	아, 그거 평이 좋던데요.
+line:0a4a28c0	Oh I see the button there, gotcha!	아, 버튼이 저기 있네요. 알겠어요!
+line:c6b0b1aa	Oh like, swallowing things whole?	아, 통째로 삼키는 거요?
+line:10254d13	Oh my	세상에.
+line:39f6c77d	Oh my bad	아, 미안해요.
+line:79511a66	Oh my bad	아, 미안해요.
+line:8cfbd75d	Oh my bad	아, 미안해요.
+line:cb71b2a1	Oh my bad	아, 미안해요.
+line:7d13eca0	Oh my- I didn't expect you to be so... hands on	세상에... 이렇게까지 손으로... 적극적이실 줄은 몰랐습니다.
+line:c60c65e8	Oh my. I suppose I could use the mount!	세상에. 기구를 써도 되겠군요!
+line:433cb27e	Oh no! Do you want to talk about it?	이런! 이야기해 줄래요?
+line:d908622a	Oh no, Conrad. are you okay?	이런, 콘래드. 괜찮아요?
+line:bf977a7e	Oh okay. I'll go grab it.	아, 네. 가져올게요.
+line:7428755b	Oh so it's new for both of us!	아, 그럼 우리 둘 다 처음이네요!
+line:513bed5a	Oh so it's new to both of us!	그럼 우리 둘 다 아직 낯선 일이네요!
+line:4bad37a5	Oh that's good. I'm happy he's okay.	아, 잘됐네요. 무사하다니 다행이에요.
+line:7d791906	Oh this is better, but I still feel dirty.	아, 좀 나아졌는데 아직 더러운 것 같아요.
+line:63926ecd	Oh we're done?	어, 다 끝났어요?
+line:546d1bf2	Oh wow, you're really covered in it!	우와, 정말 잉크투성이네요!
+line:b2d99a43	Oh wow..	아, 우와..
+line:e8052272	Oh yeah I liked the first one.	아, 네. 1편 재미있게 봤어요.
+line:a4a26529	Oh yeah, there's this nice place downtown called wings.	아, 네. 시내에 윙스라는 좋은 곳이 있어요.
+line:d4d3ecd5	Oh yeah.	그럼.
+line:059142a3	Oh Yeah?	그래요?
+line:71053a53	Oh Yeah?	그래요?
+line:1121309c	Oh yeah?	그래요?
+line:2b560f59	Oh yeah?	그래요?
+line:2d2820b0	Oh yeah?	그래요?
+line:6e82e54c	Oh yeah?	그래요?
+line:b9d8a22f	Oh yeah?	그래요?
+line:d8ce8566	Oh yeah?	그래요?
+line:f103a4a8	Oh yeah?	그래요?
+line:4f6344f1	Oh yeah? He sounds like a bit of a hothead.	그래요? 좀 다혈질 같네요.
+line:60cdf456	Oh yeah? The little red drake?	그렇습니까? 그 작은 빨간 드래곤 말입니까?
+line:a9253dd8	Oh yeah? The sky blue drake I've seen around?	그렇습니까? 근처에서 본 하늘색 드래곤 말입니까?
+line:762882b4	Oh yeeeaaah?	그래요오?
+line:5d737ca7	Oh yes	아, 네.
+line:1c90fb6d	Oh you. Gonna make me blush.	아, 정말. 부끄럽잖아요.
+line:7e3e59aa	Oh!	아!
+line:3605a48a	Oh! I think I've seen him. The tiny one, yeah?	아! 본 것 같아요. 작은 드래곤 맞죠?
+line:3bc15278	Oh! No it wouldn't be. It's fun!	아! 전혀요. 재미있어요!
+line:c95a153d	Oh! nothing. I'll get the gate.	아! 아니에요. 문 열어 드릴게요.
+line:b6fb6fce	Oh! Okay. I'll get the gate!	아! 네. 문 열어 드릴게요!
+line:4d3233a1	Oh! That's cold!	아! 차가워요!
+line:403f2ab7	Oh! Then I better let you in. I'll go get the gate.	아! 그럼 어서 들어오셔야겠네요. 문 열고 올게요.
+line:0f2dc134	Oh! Yeah that makes sense...	아! 네, 그럴 수 있겠네요...
+line:1270a483	Oh, and I apologize for being absolutely filthy.	아, 그리고 이렇게 더러운 모습으로 와서 죄송합니다.
+line:7b5be1f8	Oh, and I've figured it where to go.	아, 어디 갈지도 정했어.
+line:52fb116d	Oh, and seems I got some on my face. woops.	아, 얼굴에 좀 묻었네요. 이런.
+line:73a37947	Oh, awesome. I'm a big salmon guy.	아, 잘됐네요. 전 연어를 좋아하는 남자거든요.
+line:74c9c07b	Oh, like... working class?	아, 그러니까... 노동자 계층 같다는 건가요?
+line:e048566b	Oh, no.	아, 아니요.
+line:1a9e6537	Oh, no. Ryan is a sweetheart.	아니에요. 라이언은 정말 다정해요.
+line:5f6a124a	Oh, okay. Thanks.	아, 그래. 고마워.
+line:17716b05	Oh, right. Sorry.	아, 그렇네요. 미안해요.
+line:82ba64bf	Oh, sorry-	아, 미안해요...
+line:956e5c91	Oh, sorry.	아, 미안해요.
+line:54a8bb22	Oh, sure. Come on in.	아, 물론이죠. 들어오세요.
+line:270276eb	Oh, that's my favorite part!	아, 제가 제일 좋아하는 부분이에요!
+line:1ff9a04c	Oh, the crest around my head?	아, 제 머리 주위의 문장 말입니까?
+line:ffed6d04	Oh, wonderful. Seem's we're similar.	아, 잘됐네요. 저랑 비슷하군요.
+line:30e6b801	Oh, yeah!	아, 네!
+line:bedeee82	Oh- Eager!	아, 궁금한가 봐요!
+line:38b3c8c1	Oh- I mean. I'll go open the gate!	아, 그러니까... 문 열고 올게요!
+line:714c180e	Oh- I'm glad!	아, 다행이네요!
+line:ccf87ea9	Oh- I'm not too interested in using that right now.	아, 지금은 별로 쓰고 싶지 않네요.
+line:963981e4	Oh- I'm sorry for making a mess...	아... 어질러서 죄송합니다...
+line:8e407c6e	Oh- Not just the wash.	아, 씻겨 주는 것만 말하는 건 아니에요.
+line:ad31ec4c	Oh- Not just the wash.	아, 씻겨 주는 것만 말하는 건 아니에요.
+line:6866c2c9	Oh- Right now? 'aight I'm down.	아, 지금? 좋아, 할래.
+line:9a6dca4b	Oh- Ya. On it.	아, 맞다. 바로 열게요.
+line:3b6d644d	Oh.	아.
+line:4399096b	Oh.	아.
+line:8441bf7b	Oh.	아.
+line:87233429	Oh.	아.
+line:e90fee8e	Oh.	아.
+line:ebd9b4d3	Oh.	아.
+line:8a79f72c	Oh. And one other thing.	아, 그리고 하나 더.
+line:e8289be5	Oh. good.	아, 다행이네요.
+line:5442e228	Oh. Okay I'll go get the gate.	아, 네. 문 열고 올게요.
+line:0da15c85	Oh. Okay.	아, 그렇군요.
+line:73f7f13d	OH. RIGHT.	아. 맞다.
+line:c35890c8	Oh. That's... Wonderful!	아. 참... 기쁘군요!
+line:0ce8d5aa	Oh. Then yeah, we're open.	아. 그럼 영업 중이에요.
+line:52ed140c	Oh. Uhm. <size=70%>Good.	아. 저기. <size=70%>좋았어요.
+line:780d0993	Oh. yeah. Sorry.	아, 네. 죄송해요.
+line:7f5113d5	OH. You're not used to eating them whole.	아. 통째로 먹는 게 익숙하지 않군요.
+line:45bc649d	Oh...	아...
+line:0a093816	Oh... hah. I like that.	아... 하. 마음에 드네.
+line:f885f11d	Oh... I suppose this is alright~	아... 이건 제법 괜찮군요~
+line:7cd85c8e	Oh... I'm so sorry.	아... 정말 안됐네요.
+line:8cc1aa72	Oh... yeah we don't have one.	아... 네, 그건 없어요.
+line:f16d7940	Oh... Yeah, tinier dragons tend to... Compensate.	아... 네, 작은 드래곤들은 보통... 다른 데서 보충하죠.
+line:1d491283	Oh?	어?
+line:21c46e75	Oh?	어?
+line:fd8d786a	Oh?	어?
+line:0ce8d3c2	ohmygod I thought the egg was decorative.	세상에, 그 알은 장식인 줄 알았어요.
+line:d9b26374	Ok I can do that	네, 할 수 있어요.
+line:1777121d	Ok I got this..	괜찮아요, 할 수 있어요..
+line:f3af3ce8	Ok just tell me if you get uncomfortable or anything.	좋아요. 불편하거나 하면 말해 줘요.
+line:6c3a98cc	Ok lets wash it off for our date tonight then.	좋아요. 그럼 오늘 데이트를 위해 씻어 내죠.
+line:7a54a1e1	Okay	알겠어요.
+line:f64a5b30	Okay	알겠어요.
+line:249500dc	Okay!	알겠어요!
+line:a327b5f9	Okay!	알겠어요!
+line:ccaabca3	Okay!	알겠어요!
+line:82d0ea81	Okay! I'll be back later then.	좋아! 그럼 나중에 또 올게.
+line:3deb5f55	Okay! I'll go get the gate for you.	네! 문 열어 드릴게요.
+line:9c3d6cb7	Okay! I'll see you soon.	좋아요! 곧 봐요.
+line:72e0348e	Okay, bye!	네, 또 봐요!
+line:255362b9	Okay, Conrad.	알겠어요, 콘래드.
+line:0d16ab28	Okay, I'll be waiting. Thanks.	그럼 기다릴게요. 고마워요.
+line:155d1c64	Okay, I'll open the gate!	알겠어요, 문 열어 드릴게요!
+line:886f5df2	Okay, I'll see you later!	네, 또 봐요!
+line:585d6a08	Okay, thank you.	네, 고마워요.
+line:c298bc55	Okay, thank you.	네, 고마워요.
+line:6acf71a3	Okay, thanks.	그래, 고마워.
+line:8ed5a204	Okay- okay. I'll go get the gate.	알겠어요, 알겠어요. 문 열고 올게요.
+line:10b9a653	Okay- Thanks.	알겠습니다. 감사합니다.
+line:00a81c16	Okay. I hope you're doing alright though.	알겠어요. 그래도 잘 버텨 냈으면 좋겠어요.
+line:118a51bb	Okay. I should probably get out of your scales.	좋아요. 이제 그만 가 봐야겠네요.
+line:a62e8112	Okay. I'll open up shop. Give me a sec.	알겠어요. 가게 열게요. 잠깐만요.
+line:9d434af5	Okay. I'll order a mount.	알겠어요. 기구를 주문할게요.
+line:2f3b06de	Okay. Then I think I'd like to try.	좋아. 그럼 만나 보고 싶네.
+line:54ad4706	Okay...	알겠어요...
+line:28311fbb	Omg you're hurt!	세상에, 다쳤잖아요!
+line:8b3abbf7	On it!	바로 해 드릴게요!
+line:42e3eba2	Once I'm cleaned up I'm gonna head out and get our spot ready.	씻고 나면 가서 우리 자리부터 준비할게.
+line:1d4b8a1c	One thing led to another...	그러다 보니 자연스럽게...
+line:c70bea2d	Only been cleaning for a few weeks now!	일을 시작한 지는 몇 주밖에 안 됐어요!
+line:5188bd4a	Only If that's alright-	괜찮으시다면 말입니다...
+line:01505282	Only realized how much of a mess I made after Max yelled at me, haha.	맥스가 소리를 지른 뒤에야 얼마나 엉망인지 알았죠. 하하.
+line:828eed25	Oof... Needed that. Thank you.	후... 필요했어요. 고마워요.
+line:2d40c69a	Oooh, alrighty.	오, 알겠어요.
+line:99ff9e7f	Ooooh must be a big deal then.	오오, 정말 대단한 분이시네요.
+line:e8ad4791	Ooooh.	오오.
+line:64bfd62a	Oops, my bad.	앗, 제 실수예요.
+line:0fa31c40	Our first meeting went great though!	그래도 첫 만남은 아주 좋았어!
+line:77cebc41	People tell me I've got a fat cock, is that true?	다들 내 자지가 굵다던데, 사실이야?
+line:80de6c63	Perfectly clean again. Thank you for taking me in at this hour.	다시 완벽하게 깨끗해졌군요. 이런 시간에 받아 주셔서 감사합니다.
+line:f212528b	Phew! I had an accident that needs to be taken care of... discretely.	휴! 사고가 났습니다. 처리가 필요하지요... 은밀하게요.
+line:b3c35166	Phew, I was worried I'd make another mess of things.	휴, 또 어질러 놓을까 걱정했어요.
+line:314c3d8a	physically or emotionally?	몸이요, 마음이요?
+line:156e0b50	Picnic bathket-	피크닉 바구니...
+line:0d9de1a1	player hooked up with conrad	플레이어와 콘래드가 이어짐
+line:2cf1c95e	player hooked up with conrad	플레이어와 콘래드가 이어짐
+line:c2529648	player hooked up with conrad	플레이어와 콘래드가 이어짐
+line:f7fd34b2	player hooked up with conrad	플레이어와 콘래드가 이어짐
+line:66e08b22	player hooked up with ryan	플레이어와 라이언이 이어짐
+line:78039fd1	player hooked up with ryan	플레이어와 라이언이 이어짐
+line:96a0c0c7	player hooked up with ryan	플레이어와 라이언이 이어짐
+line:9bade6d6	player hooked up with ryan	플레이어와 라이언이 이어짐
+line:0ddcd600	Please scrub Igwix off my back would you?	제 등에서 이그윅스를 좀 문질러 씻어 주시겠습니까?
+line:0632acbf	Plus they feel really nice.	기분도 정말 좋고요.
+line:c7b8ba3d	Possibly...?	어쩌면요...?
+line:637629a8	Pretty sure I can digest anything.	뭐든 소화할 수 있을 거예요.
+line:65a41bc5	Pretty sure I'm all clean!	이제 다 깨끗해진 것 같아요!
+line:3750bbf0	Pretty sure that was everything.	이제 다 된 것 같아요.
+line:960707b0	Primarily alchemy. Occasionally world history.	주로 연금술입니다. 때로는 세계사도 가르칩니다.
+line:1475f95c	Professor Igwyx- My colleague who self-immolated earlier.	이전에 불에 탄 제 동료, 이그윅스 교수 말입니다.
+line:26e9d692	Professor, but yes. You have.	교수입니다만, 네. 당신에게 배웠습니다.
+line:af0c15fd	Professor- But, yes. I usually don't go to public washes.	교수입니다만, 네. 평소에는 대중목욕탕을 잘 이용하지 않습니다.
+line:962abe27	Project Scale mary	Project Scale mary
+line:e5d47feb	prole- <i><size=70%>wuh?	프롤레... <i><size=70%>뭐요?
+line:c7b73162	Psst..!	쉬잇...!
+line:9addfb4a	Ready!	준비됐어요!
+line:875b5372	Really damn good!	진짜 끝내줬어!
+line:9e9f3e75	Really damn good!	진짜 끝내줬어!
+line:9364911d	Really looking forward to finding new people.	새로운 사람들을 만나는 게 정말 기대돼요.
+line:8b0b222c	Really sets the mood.	분위기를 제대로 살려 줘.
+line:4010d36d	Really well honestly.	솔직히 아주 잘됐어.
+line:cfcb40c7	Really?	정말입니까?
+line:0ec807a4	Really? Aw, That's really sweet.	정말요? 아, 기뻐요.
+line:630fed1b	Remove this barrier at once so I may enter.	들어갈 수 있도록 당장 이 장벽을 치워 주십시오.
+line:65deb150	Right after this wash!	여기서 씻자마자!
+line:0caa6657	Right, I'll get that for you ASAP.	알겠어요. 바로 열어 드릴게요.
+line:1271b80c	Right.	그렇군요.
+line:3ede5541	Right.	그렇군요.
+line:6a2e4e0d	Right. I'll get to it.	알겠어요. 시작할게요.
+line:29daeb62	Right. Phoenix feather. Obviously.	그렇죠. 불사조 깃털. 당연하네요.
+line:51d1b41e	Ryan is a sweetheart	라이언은 정말 다정해요.
+line:202fce0c	RYAN THE BONE!	라이언, 뼈!
+line:93bd9a2b	Ryan!	라이언!
+line:9b7e09b8	Ryan!	라이언!
+line:b76f49cd	Ryan!	라이언!
+line:1fa0fbbe	Ryan! I met him.	라이언! 만나 봤어.
+line:f0427bb9	Ryan! this is so sweet.	라이언! 정말 고마워요.
+line:92829935	Ryan's such a nice dragon.	라이언은 정말 다정한 드래곤이야.
+line:13ca0a74	Ryan, you're not supposed to eat the stems-	라이언, 줄기는 먹는 게 아니...
+line:7a01d265	Ryan: I guess it is pretty exciting	Ryan: 제법 짜릿하긴 하네.
+line:e1526934	Ryan: I like that a lot	Ryan: 그거 정말 좋아.
+line:a430a2ff	Ryan: I think I am close too..	Ryan: 나도 거의 다 된 것 같아..
+line:77626e43	Ryan: I would say it is going great	Ryan: 지금 아주 잘하고 있는 것 같은데.
+line:f5f5b815	Ryan: I've never done this outside before	Ryan: 야외에서 하는 건 처음이야.
+line:6dd86b71	Ryan: This was nice	Ryan: 좋았어.
+line:41b9659f	Ryan: Wow.. Your stature is really the only thing small about you.	Ryan: 와... 넌 정말 키만 작구나.
+line:aad89688	Ryan: Yea definitely. Worried about me?	Ryan: 응, 정말. 나 걱정돼?
+line:ce6d6d7f	Ryan? you sure everything is okay...?	라이언? 정말 괜찮은 거예요...?
+line:1d3b255b	Save your mood setting for tonight!	분위기 잡는 건 오늘 밤으로 남겨 둬요!
+line:3ed6ab5d	Say do you remember the name of the college I work at?	제가 일하는 대학 이름을 기억하십니까?
+line:a05a7804	Say...	저기...
+line:82d7b5e4	Says who?	누가 그래요?
+line:6c193ba9	Scales different today? <size=70%><i>is that a thing...? </i><size=100%>You look good today.	비늘 손질했어? <size=70%><i>그런 게 있나...? </i><size=100%>오늘 멋지네.
+line:426f40ff	See you again soon, yeah?	곧 또 봐요, 알겠죠?
+line:3112d78d	See you soon.	곧 봐요.
+line:8072b186	See you tonight.	오늘 밤에 뵙겠습니다.
+line:0d3b23da	Sheesh.	세상에.
+line:48435b12	Shh! I'm not from around here...	쉿! 저는 이 동네 사람이 아닙니다...
+line:0f86dbf6	So am I!	저도 그렇습니다!
+line:3063100e	So am I.	나도 전문가야.
+line:a241eec6	So far so good though, yeah?	지금까지는 괜찮은 편이지?
+line:813c6dd4	So is this like... our first date?	그럼 이건... 우리의 첫 데이트인가요?
+line:9b10d450	So this Conrad guy, seems like you like him?	그 콘래드라는 드래곤, 많이 좋아하나 봐요?
+line:0c5dcd3c	So uh, gate?	그럼, 저기... 문은요?
+line:84d8a935	So uh, mind opening the gate?	그럼 문 좀 열어 줄래?
+line:7da41ecd	So uhh, let me know if you need me to move.	그러니까, 움직여야 하면 말해 줘요.
+line:3a469ae4	So yeah, I had a mishap..	그러니까, 사고가 좀 있었어요..
+line:a6d6bf76	So you and Ryan huh?	그러니까 너랑 라이언이랑, 그렇구나?
+line:31fa3bdf	So you came in just to...	그러니까 여기 온 이유가 그냥...
+line:5f64c352	So you're a certified dragon washer huh?	그럼 드래곤을 씻기는 자격증도 있는 거예요?
+line:c9e7bb1e	So you're a certified dragon washer huh?	그럼 드래곤을 씻기는 자격증도 있는 거예요?
+line:aedb6a51	So, coming in for a wash?	그래서, 씻으러 오셨어요?
+line:1c856f1c	So, how was your date?	그래서 데이트는 어땠습니까?
+line:3cda84e6	So, tell me more about conrad!	그럼 콘래드 이야기 좀 더 해 줘요!
+line:c10d9415	So, thanks on his behalf for caring.	그러니까 대신 고맙다고 할게요. 신경 써 줘서요.
+line:e6aa9d20	So, with... relationships.	그러니까... 연애 말인데요.
+line:a99c5c88	So. How about a date?	그럼, 데이트 어때?
+line:c2f44537	So. My girlfriend was home before me. she's a work-from-home dragon.	그러니까, 여자 친구가 저보다 먼저 집에 있었어요. 재택근무를 하거든요.
+line:d9652dff	So. Our date tonight...	그럼 오늘 밤 데이트 말인데요...
+line:b983f922	So. Tonight.	그럼 오늘 밤 말인데.
+line:28c51dbf	So... A date. I think I'd like to go on one soon!	그러니까... 데이트. 조만간 하고 싶은데!
+line:7c56b2d8	So... I was thinking about my relationships.	그러니까... 제 연애에 대해 생각해 봤어요.
+line:5a5e7f21	So<size=90%>o<size=80%>o<size=70%>o<size=60%>o... <size=100%>I 'aint dirty. But I am <i>~dirty~</i> y'know?	그러<size=90%>어<size=80%>어<size=70%>어<size=60%>엄... <size=100%>몸은 안 더러워. 하지만 머릿속은 <i>~더럽지~</i>, 알지?
+line:8a35fb7b	So<size=90%>o<size=80%>o<size=70%>o<size=60%>o... <size=100%>Was wonderin'	그러<size=90%>어<size=80%>어<size=70%>어<size=60%>엄... <size=100%>궁금한 게 있는데.
+line:5230bdfd	Soap, then rinse!	비누칠한 다음 헹구기!
+line:c374e532	Somehow that feels more honest than anything anyone else says.	어쩐지 다른 이들이 하는 어떤 말보다 솔직하게 느껴지는군요.
+line:2898f680	Something happened last night	어젯밤에 무슨 일이 있었어요.
+line:4dac3d2b	Something went wrong with flags!	스토리 플래그에 문제가 생겼어요!
+line:61c7f2d6	Something went wrong with flags!	스토리 플래그에 문제가 생겼어요!
+line:6d5ba814	Something went wrong with flags!	스토리 플래그에 문제가 생겼어요!
+line:8f64adc0	Something went wrong with flags!	스토리 플래그에 문제가 생겼어요!
+line:19cedc30	Sooo. You gonna jerk me off?	그래서어. 손으로 해 줄 거야?
+line:1646ece2	Sorry for coming in late. My sleeps borked.	늦게 와서 미안해. 수면 패턴이 엉망이라.
+line:b2b32876	Sorry I'm bad at flirting. Could you get the gate?	미안, 작업 거는 건 서툴러. 문 좀 열어 줄래?
+line:13ba93ef	sorry!	죄송해요!
+line:e2f9c70c	Sorry, I meant to say I enjoy your wash.	죄송합니다. 이곳이 마음에 든다는 뜻이었습니다.
+line:78ca8d95	Sorry...	죄송해요...
+line:4af15fc3	Sounds good to me!	저는 좋아요!
+line:8c6e66f3	Sounds good!	좋아요!
+line:1ef36cb0	Sounds like a date then!	그럼 약속한 거예요!
+line:d71ba53e	Sounds like a date then!	그럼 약속한 거예요!
+line:5fc277a9	Sounds like a date then! Seafood then we play it by ear.	그럼 약속한 거예요! 해산물을 먹고 그다음은 가서 생각하죠.
+line:0e643191	Sounds like a date then, I'm excited.	그럼 약속한 거예요. 기대돼요.
+line:c4642c9c	Sounds like a date then. I'm excited.	그럼 약속한 거예요. 기대돼요.
+line:ffc401d1	Sounds like a plan.	그렇게 해요.
+line:c4dd137b	Sounds like it was good then.	그럼 좋았나 보네.
+line:7b6c47bd	Sounds like it.	그런 것 같네.
+line:5c51654f	Sounds nice.	좋네요.
+line:3a23b81f	Sounds really cool.	정말 멋질 것 같아요.
+line:1dbf50b3	Sure	물론이죠.
+line:c14ceb34	Sure is!	맞아요!
+line:de7cd73a	Sure it is. Thanks to Conrad for having me get it.	그럼요. 사라고 한 콘래드 덕분이죠.
+line:05c673e7	Sure!	물론이죠!
+line:52542beb	Sure!	물론이죠!
+line:67f14802	Sure!	물론이죠!
+line:a2dc4ac0	Sure! I'll go get the gate.	그럼요! 문 열고 올게요.
+line:dbb68858	Sure! I'll go get the gate.	그럼요! 문 열고 올게요.
+line:601e1b38	Sure! I'm excited to tell you about Conrad.	그럼요! 콘래드 이야기를 빨리 해 주고 싶네요.
+line:7b5c9d8c	Sure, but he needed someone who cared in that moment.	그렇죠. 하지만 그때는 자기를 걱정해 줄 사람이 필요했던 거예요.
+line:709a9a57	Sure.	물론이죠.
+line:4af4703c	Tasted real good though!	그래도 정말 맛있었어요!
+line:048fe71b	TELL ME ABOUT YOU AND CONRAD!	콘래드랑 어떻게 됐는지 말해 줘요!
+line:2b84f2eb	Test line 1	테스트 대사 1
+line:7a22b4d3	Test line 10	테스트 대사 10
+line:ec12b3a4	Test line 11	테스트 대사 11
+line:4f87d73a	Test line 12	테스트 대사 12
+line:d9b7d04d	Test line 13	테스트 대사 13
+line:63e6d9d4	Test line 14	테스트 대사 14
+line:f5d6dea3	Test line 15	테스트 대사 15
+line:64cb6133	Test line 16	테스트 대사 16
+line:f2fb6644	Test line 17	테스트 대사 17
+line:1772a124	Test line 18	테스트 대사 18
+line:88119675	Test line 2	테스트 대사 2
+line:1e219102	Test line 3	테스트 대사 3
+line:a470989b	Test line 4	테스트 대사 4
+line:32409fec	Test line 5	테스트 대사 5
+line:a35d207c	Test line 6	테스트 대사 6
+line:356d270b	Test line 7	테스트 대사 7
+line:5643ba3d	Test line 8	테스트 대사 8
+line:c073bd4a	Test line 9	테스트 대사 9
+line:394db643	Thank the stars you're open.	별들이 도왔군요. 영업 중이라니.
+line:f1946aab	Thank you for cleaning me!!	씻겨 줘서 고마워요!!
+line:75b5b084	Thank you for getting me and Ryan in contact.	라이언이랑 연락할 수 있게 해 줘서 고마워.
+line:189d999e	Thank you for listening.	들어 줘서 고마워요.
+line:3398aea2	Thank you for that.	그 점에 감사드립니다.
+line:875f0961	Thank you for the clean!	씻겨 주셔서 감사합니다!
+line:acb8a5aa	Thank you for the quick clean!	빠르게 씻겨 줘서 고마워요!
+line:8512365e	Thank you!	감사해요!
+line:bbca8a46	Thank you!	감사해요!
+line:e449156d	Thank you!	감사합니다!
+line:bb4e1dc1	Thank you, Ryan. I'm happy I got to meet you too	고마워요, 라이언. 저도 만나서 기뻐요.
+line:3b568c14	Thank you.	감사합니다.
+line:6b245989	Thank you.	고마워요.
+line:836d1b13	Thank you.	감사합니다.
+line:d60f2dc0	Thank you.	감사합니다.
+line:035a0830	Thank you. I'd really appreciate it	고마워. 그렇게 해 주면 정말 좋겠어.
+line:f3e7a8fe	Thank you. Look good feel good!	고마워. 멋져지면 기분도 좋아지지!
+line:d2d97c90	Thank you. You make this a whole lot easier to go through.	고마워요. 덕분에 이 모든 일을 훨씬 견디기 쉬워졌어요.
+line:3027bcf7	Thanks for asking. It's enjoyable to be asked personal questions.	질문해 주셔서 감사합니다. 개인적인 질문을 받는 건 즐겁군요.
+line:aaf3066d	Thanks for cleaning me!	씻겨 줘서 고마워요!
+line:8150e2a2	Thanks for helping me out.	도와줘서 고마워요.
+line:a2217280	Thanks for helping me out.	도와줘서 고마워요.
+line:7db0baf0	Thanks for introducing me to him.	소개해 줘서 고마워.
+line:c6cee89f	Thanks for letting me in so late.	늦게 들여보내 줘서 고마워.
+line:079b3782	Thanks for sharing food with me, You're a great friend.	함께 먹어 줘서 고마워요. 정말 좋은 친구예요.
+line:85f901b0	Thanks for sharing food with me...	함께 먹어 줘서 고마워요...
+line:a39fd5a9	Thanks for that. Felt pretty damn good.	고마워. 진짜 끝내줬어.
+line:505e150f	Thanks for the clean.	씻겨 주셔서 감사합니다.
+line:a40e531c	Thanks for the food! I'll go get the gate.	음식 고마워요! 문 열고 올게요.
+line:f1692a96	Thanks for the suggestion!	소개해 준다니 고마워!
+line:81ebbec0	Thanks for the wash so late in the night.	이렇게 늦은 밤에 씻겨 줘서 고마워.
+line:a9df4c5e	Thanks I'll be waiting!	고마워요, 기다릴게요!
+line:f73a3fc7	Thanks mate, see you tomorrow then.	고마워, 친구. 내일 보자.
+line:30f1f583	Thanks!	고마워요!
+line:3484ab9d	Thanks!	고마워!
+line:44701902	Thanks!	고마워요!
+line:4d868f2f	Thanks!	고마워!
+line:70190774	Thanks!	고마워요!
+line:8b8f57c4	Thanks!	고마워요!
+line:ab5b2574	Thanks!	고마워요!
+line:b588bf4c	Thanks!	고마워요!
+line:bc5d790a	Thanks!	고마워!
+line:c07a9171	Thanks!	고마워요!
+line:e7e57d9c	Thanks!	고마워요!
+line:fa293cde	Thanks! Whats with all the... Gloop?	고마워요! 그런데 그... 끈적한 건 뭐예요?
+line:e1609903	Thanks, but I'll be better. I promise.	고마워. 더 나아질게. 약속해.
+line:02cbdc87	Thanks, I'm excited too.	고마워, 나도 기대돼.
+line:37c9d915	Thanks, You're pleasant too!	고마워요. 알렉산더도 좋아요!
+line:cb847372	Thanks, You're pleasant too!	고마워요. 알렉산더도 좋아요!
+line:188d4359	Thanks.	고마워.
+line:316bb26e	Thanks.	고마워요.
+line:34ec4db7	Thanks.	고마워.
+line:5183a6f2	Thanks.	고마워.
+line:c642cb17	Thanks.	고마워.
+line:cf716777	Thanks.	고마워요.
+line:e00c6df5	Thanks.	고마워요.
+line:e521db76	Thanks.	고마워요.
+line:f62e1c4f	Thanks.	고마워요.
+line:fbba1293	Thanks.	고마워요.
+line:8bfa88d7	Thanks. I like being around you too.	고마워요. 저도 같이 있는 게 좋아요.
+line:df0a8598	Thanks. I'm always happy to be here.	고마워. 여기 오면 언제나 좋아.
+line:084e3cbc	Thanks. See you soon.	고마워요. 곧 봐요.
+line:71d57aeb	Thanks. That's kind of you to say.	감사해요. 다정한 말씀이네요.
+line:a1f9de62	Thanks. That's kind of you to say.	감사해요. 다정한 말씀이네요.
+line:9a9a6120	Thankth!	고마워요!
+line:e721d512	That brings me to my next question...	그럼 다음 질문을 드리고 싶습니다...
+line:215a2d34	That felt <i>good</i>.	그거 정말 <i>좋았어</i>.
+line:89150715	That is rather kind of you to say.	그렇게 말씀해 주시니 감사합니다.
+line:a57409fb	That is the source of my worry...	제가 걱정하는 건 그 점입니다...
+line:ad261b84	That just makes it harder!	그러면 더 참기 어렵잖아요!
+line:7111d265	That makes me feel a lot more sure of myself then.	그 말을 들으니 자신감이 훨씬 생기는군요.
+line:3fac5bff	That makes me feel good to hear.	그런 말을 들으니까 좋다.
+line:1c49f05b	That makes me happy to hear.	그렇게 들으니 기쁘네요.
+line:a8b70da7	That must mean it is! I'm glad.	괜찮다는 뜻이겠죠! 다행이에요.
+line:5738ea38	That nice to hear... But, I mean being taken care of more... Primally?	그렇게 말씀해 주시니 기쁘군요. 하지만 더... 본능적인 의미입니다.
+line:8f598864	That one was almost too big-	저건 거의 못 넘길 뻔했...
+line:5960dcbb	That should be all though, could you go get the gate?	그럼 다 된 것 같은데, 문 좀 열어 줄래?
+line:116f0e16	That should be every spot.	이제 한 군데도 안 남았을 거예요.
+line:90444b09	That sounds like an over-reaction on her part.	여자 친구분 반응이 좀 과했던 것 같네요.
+line:f07c9e39	That sounds like an over-reaction on her part.	여자 친구분 반응이 좀 과했던 것 같네요.
+line:c78cf81f	That sounds lovely!	정말 좋을 것 같아요!
+line:eaa3c173	That they are...	정말 그렇군요...
+line:f4b9a455	That was much nicer than a hose.	호스로 씻는 것보다 훨씬 좋았어요.
+line:78cef130	That was never a concern. I'm a rather risk averse dragon.	그건 걱정하지 않았습니다. 저는 위험을 매우 꺼리는 드래곤이니까요.
+line:22d271f4	That was really fun.	정말 즐거웠어요.
+line:019b83df	That was wonderful! I feel so much better about dating.	정말 좋았어요! 이제 연애를 다시 시작할 용기가 나네요.
+line:d7bf167b	That was... Nicer than I expected.	생각보다... 좋았습니다.
+line:577cec43	That's a mount, no?	그런 용도의 기구지요?
+line:825536f5	That's a tricky question to answer.	대답하기 어려운 질문이군요.
+line:66fb84fe	That's all I want to ask.	궁금한 건 다 물어봤어요.
+line:ac1ed298	That's all you can ask for, right?	그거면 충분하죠, 그렇죠?
+line:6605187b	That's an appeal to authority fallacy. But, yes. I'm correct.	그건 권위에 호소하는 오류입니다. 하지만 네, 제가 맞습니다.
+line:52f81dde	That's cute!	귀엽네요!
+line:45befc02	That's exciting!	기대되네요!
+line:13cd5511	That's fast... But I think so!	빠르네요... 그래도 좋아요!
+line:4ff91cbd	That's fine!	괜찮아요!
+line:163c524a	That's good to hear.	잘됐네.
+line:33e2bee6	That's good to hear.	잘됐네.
+line:30e461f2	That's good. You deserve a decent man.	잘됐군요. 당신은 좋은 남자를 만날 자격이 있습니다.
+line:aeae4744	That's good... Now what?	다행이네요... 이제 뭘 하죠?
+line:f3eeb627	That's great! whens your first date?	잘됐네요! 첫 데이트는 언제예요?
+line:215f4eba	That's me.	저예요.
+line:cf8c5f37	That's not a thing... But thank you!	그런 건 없지만... 고마워요!
+line:3f29878b	That's rather nice of you to say.	그렇게 말씀해 주시니 감사합니다.
+line:d38c63ea	That's really cute.	정말 귀엽네요.
+line:6474d7f7	That's really nice!	정말 좋네요!
+line:c5001a4c	That's the best way to eat'em!	이렇게 먹어야 제일 맛있어요!
+line:2a5cc3a5	That's very sweet.	정말 다정하시네요.
+line:7052576b	That's what I like to hear.	듣던 중 반가운 말이네요.
+line:2a154290	That's what I thought too.	저도 그렇게 생각했어요.
+line:33d12f97	That's what I thought too.	저도 그렇게 생각했어요.
+line:2b7bb6ce	That's what's terrifying.	바로 그 점이 두렵습니다.
+line:36fb380f	That's wonderful, he's cute!	잘됐네요. 귀여운 드래곤이죠!
+line:266836f8	That's... the first time you've yipped for me.	너... 나한테 이프라고 한 건 처음이네.
+line:9b0b24ad	That.	그거.
+line:6ff80785	That... makes me feel a lot more sure of myself then.	그 말을 들으니... 자신감이 훨씬 생기는군요.
+line:cc6d631b	That... makes me feel a lot more sure of myself then.	그 말을 들으니... 자신감이 훨씬 생기는군요.
+line:ecf6206f	Thats awesome. I'm glad you two are working out.	좋네요. 둘이 잘되고 있어서 기뻐요.
+line:0f8bb606	Thats good to hear.	잘됐네요.
+line:f5324d68	Thats really good to hear.	정말 반가운 소식이네요.
+line:063dcd4b	The ability to open up to someone, even occasionally...	가끔이라도 누군가에게 마음을 털어놓을 수 있다는 건...
+line:8919009a	The ambiance is nice.	분위기가 좋네요.
+line:08c850bf	The apothecary will tarnish my name for months.	약제사가 몇 달은 제 이름에 먹칠하겠군요.
+line:01b4161e	The breakup I went through earlier was rough.	지난번 이별은 정말 힘들었어요.
+line:c932c99d	The breakup I went through earlier was rough.	지난번 이별은 정말 힘들었어요.
+line:dd06ed39	The Burnswick Community College of Thaumaturgy, of course!	당연히 번스윅 마법학 커뮤니티 칼리지지요!
+line:515099ec	The button on the wall, I mean.	벽에 있는 버튼 말이에요.
+line:7fe73572	The clean was fine.	씻겨 주는 건 괜찮았어.
+line:e8a38ed0	The college cannot find out about this okay?	대학에서 이 일을 알면 안 됩니다. 아시겠습니까?
+line:1a169dbc	The lights in the area are great too.	그 근처 조명도 멋지거든.
+line:610dd8cb	The markers were fun.	마커로 낙서하면서 재미있게 놀았거든요.
+line:4b36ea4e	The most prestigious college hosting prestigious professors like me:	저처럼 명망 높은 교수들이 있는 최고의 명문 대학입니다.
+line:ec00a1fe	The mount? I... suppose!	기구 말입니까? 저... 그러죠!
+line:94e04dcf	The mount? Sure!	기구요? 좋아요!
+line:d8273d7f	The night 'aint gonna start itself!	밤이 알아서 시작되지는 않잖아!
+line:1f2907ed	The rain has been unrelenting today!	오늘은 비가 그치질 않는군요!
+line:1804bf0a	The rain is nice.	비가 좋네요.
+line:7e9a1f83	The stem is just extra food.	줄기는 그냥 덤으로 먹는 거죠.
+line:c88244b5	The vibe at night is fuckin' great.	밤 분위기가 진짜 끝내줘.
+line:d8a2002e	Then I better let you out!	그럼 어서 내보내 드려야겠네요!
+line:d7b3cd09	Then- Have a productive day.	그럼 오늘도 열심히 일하세요.
+line:448afe95	There was a fault in his method.	그의 방법에 결함이 있었습니다.
+line:48d4a45a	There's this one red dragon, Conrad. He's... Hot headed, but cute.	콘래드라는 빨간 드래곤이 있어요. 좀... 다혈질이지만 귀여워요.
+line:f4af8b88	Theres this club downtown. 'Wings'. It's an old favorite of mine.	시내에 윙스라는 클럽이 있어. 예전부터 좋아하던 곳이지.
+line:972f132f	These washes really make things easier.	여기서 씻고 나면 한결 버틸 만해요.
+line:352d1d6f	They cum	둘은 사정한다.
+line:d78962e8	They cum	둘은 사정한다.
+line:3200a588	They keep going	둘은 계속한다.
+line:a31d1a18	They keep going	둘은 계속한다.
+line:035e5be6	They seem cute!	귀여운 것 같아요!
+line:454172b0	They took it too far.	그 녀석들이 선을 넘었어.
+line:d7b49fb8	They were! The stem is my favorite part though.	맛있었어요! 그래도 줄기가 제일 좋아요.
+line:d156a87f	Think that's every spot.	한 군데도 안 남았을 거예요.
+line:fa1a1e76	Think that's it.	다 된 것 같아요.
+line:3112adad	This drake at the bar... I was stupid. Couldn't shut my mouth.	술집에 있던 드래곤... 내가 멍청했어. 입을 닥치질 못했지.
+line:bfd70320	This feels scandalous	이건 꽤나 낯 뜨거운 일이군요.
+line:cb437bd0	This is a common practice?	이런 일이 흔합니까?
+line:831cbfda	This is a job only you can do.	당신만이 할 수 있는 일입니다.
+line:4944dbda	This is delicious!	정말 맛있어요!
+line:088893da	This is my first time with a Kobold.	코볼트랑은 처음이에요.
+line:e218722c	This is my first time, actually!	사실 저도 처음이에요!
+line:9eb894ad	This is really nice..	정말 좋네요..
+line:c7e4e36f	This is the kind of shit I try to avoid!	이런 좆같은 상황을 피하려고 했는데!
+line:22929636	This place could use a makeover, I know would it could use!	여긴 좀 바꿀 필요가 있겠네. 뭐가 필요한지 알아!
+line:b06e13bc	This soap isn't fitting for a professor don't you think?	이 비누는 교수에게 걸맞지 않다고 생각하지 않으십니까?
+line:97841169	This was a nice escape.	여기서는 숨을 돌릴 수 있었죠.
+line:5f02ceea	This was a wonderful escape...	여기는 정말 좋은 쉼터였어요...
+line:d45f4788	This was nice...	정말 좋았어요...
+line:418498cf	Those grapes looked good.	그 포도 맛있어 보였어요.
+line:e9d73205	Though every other wash I've been to at least has a mount	근데 내가 가 본 다른 데는 적어도 기구 하나씩은 있더라.
+line:29e70457	Though I can't say I am not curious	물론 호기심이 없지는 않습니다만.
+line:9c3e6004	Though you probably shouldn't eat them.	그래도 당신은 안 먹는 게 좋겠어요.
+line:f1ca33da	title: Alexander_Done	title: Alexander_Done
+line:3ed2f649	title: Conrad_OutroDone	title: Conrad_OutroDone
+line:74c28add	title: ConradBeatup_OutroDone	title: ConradBeatup_OutroDone
+line:722243c8	title: RyanDate_OutroDone	title: RyanDate_OutroDone
+line:b4eee981	title: RyanExploded_OutroDone	title: RyanExploded_OutroDone
+line:6298f08b	Told me about the time he got beat up.	맞았을 때 이야기를 하더라고요.
+line:ee954bd9	Told me to go to a wash, and was acting extremely offended.	목욕탕에 가라고 하면서 제가 큰 잘못이라도 한 것처럼 굴었죠.
+line:c66e1278	Tonight- on campus. The library is the large blue spire building.	오늘 밤, 캠퍼스에서 뵙지요. 도서관은 커다란 파란 첨탑이 있는 건물입니다.
+line:434527c6	Truly terrible, no?	참으로 끔찍하지 않습니까?
+line:5a5d646c	Truly?	정말입니까?
+line:e3aa4e29	Truth be told, I got dirty to come here.	솔직히 말하면, 여기 오려고 일부러 더러워졌습니다.
+line:0979dea3	Uh, I'm still really soapy!	저기, 아직 비누가 많이 남았어요!
+line:05bbe58c	Uh-huh, I'll go get the gate	네, 문 열고 올게요.
+line:7de638fb	Uh... Hello?	저기... 안녕하세요?
+line:7de9b3a4	Uh... uhm...	어... 음...
+line:159c5c1f	Uh... Yeah.	어... 그래.
+line:2089db44	Uhhhm we're not exactly.	어... 사실 영업 중은 아닌데요.
+line:3ed62e6b	Uhm, no, I'll just be REALLY upset.	어, 아니. 그냥 엄청 서운할 거라고.
+line:f0a579a5	Uhm...	음...
+line:cc295885	uhm... <size=60%>no?	음... <size=60%>없는데요?
+line:29237bc3	Use the crowbar to open and place it in storage, would you?	쇠지레로 상자를 열고 창고에 넣어 두세요.
+line:1ec0dc6a	Use the sprayer on the wall to wash me off.	벽에 있는 샤워기로 헹궈 주세요.
+line:a716d3b8	Uunf. T-that was... Rather undignified.	으응. 이, 이건... 제법 체면 없는 짓이었군요.
+line:a37177dd	V-very well. I'll try.	아, 알겠습니다. 노력해 보지요.
+line:209ddf97	Very cool	아주 멋져요.
+line:2f10f572	Very well. Don't let me interrupt the wash then!	알겠습니다. 그럼 씻기는 데 방해하지 않겠습니다!
+line:7678511c	Wah- huh- <size=80%>oah. <size=60%>we don't-	아... 네...? <size=80%>어... <size=60%>저희는 그런...
+line:82e2c158	Wait a sec, I need to open the gate.	잠깐만요. 문을 열어야 해요.
+line:9c7a2fb7	Wait a sec, I need to open the gate.	잠깐만요. 문을 열어야 해요.
+line:8ab5686b	Was great! Ryan is a sweetheart.	좋았어요! 라이언은 정말 다정해요.
+line:d8c9f912	Was just doing my job!	그냥 제 일을 했을 뿐이에요!
+line:148a63c8	Was just trying to play along. Happy to see you!	그냥 장단을 맞추려고 했어요. 만나서 반가워요!
+line:56261ccb	Was still good though! I like how it feels sliding down.	그래도 좋았어요! 넘어가는 느낌이 좋거든요.
+line:4d002f47	Was... <i>Really</i> upset I was muddy.	제가 진흙투성이라는 이유로... <i>정말</i> 화를 냈어요.
+line:014b5da5	Watch where those paws are going would you?	손이 어디로 가는지 조심해 줄래요?
+line:3028feb5	We also had sex after our date.	데이트가 끝난 뒤에 섹스도 했어요.
+line:d132db41	We can just lay here...	그냥 이렇게 누워 있어도 좋겠군요...
+line:4da8b942	We can make an opening.	자리를 마련해 드릴게요.
+line:8c563ab8	We can make an opening.	자리를 마련해 드릴게요.
+line:33a79dbe	We do! Are you... from the college...?	네! 혹시... 대학에서 오셨어요...?
+line:b83ec453	We got your request for the mount!	기구 주문을 받았습니다!
+line:8b7b8d6b	We went out to eat. Had some good conversation.	나가서 밥도 먹고 즐겁게 이야기했어요.
+line:74706bb3	We will need to clean the floors...	바닥을 청소해야겠습니다...
+line:df8fb8c9	We'll be going out to this seafood place-	해산물 식당에 갈 건데...
+line:110a2ced	Welcome back!	어서 오세요!
+line:b042f12a	Welcome back!	어서 오세요!
+line:c46f5033	Well great, I appreciate your discretion, I'll be headed off to the apothecary.	좋습니다. 비밀을 지켜 주셔서 감사합니다. 이제 약제사에게 가겠습니다.
+line:08f40e32	Well I had a good time, see you later then!	덕분에 잘 쉬었어요. 그럼 또 봐요!
+line:c1e8b05d	Well I had a good time, see you later then!	덕분에 잘 쉬었어요. 그럼 또 봐요!
+line:fcff7b00	Well, go to the window and speak with your customer.	그럼 창구로 가서 손님과 대화하세요.
+line:fc1e497a	Well, good luck getting your hands around all of me.	어디 내 걸 손으로 다 감쌀 수 있나 보자고.
+line:60f14972	Well, I do enjoy the color. But I believe that is unrelated to my hue.	그 색을 좋아하기는 합니다. 하지만 제 몸 색과는 무관한 것 같습니다.
+line:c9f270de	Well, I'm a dragon- but... You know what I mean.	아니, 드래곤이지만... 무슨 말인지 알죠.
+line:f7f87f6c	Well, That's why I'm here!	뭐, 그래서 제가 있잖아요!
+line:629d89d1	Well, yes. I mean more... Primally?	물론 그렇습니다. 다만 더... 본능적인 의미입니다.
+line:8aa0fc1a	Well, you are one hell of a catch.	누구든 라이언이랑 만나면 행운이죠.
+line:5d34e715	Well, you better get one then!	그럼 하나 구하는 게 좋겠네!
+line:f16e75f3	Well...	뭐...
+line:a71a8385	Went to the bar... Things got spicy. You can imagine what happened next... <size=70%>Hah...	술집에 가고... 분위기가 달아올랐죠. 그다음은 상상되죠...? <size=70%>하...
+line:2e0ec324	Wha..?	네...?
+line:29ec93b2	Whaaat. Nothing wrong with it! figured you'd like to know.	왜요오. 잘못된 건 없잖아요! 궁금할 것 같아서요.
+line:18e5a573	Whaaat? It's good to make sure you're warmed up!	왜애? 미리 몸을 풀어 두면 좋잖아!
+line:bd66082e	What about a movie?	영화는 어때요?
+line:ee3c126b	What about your private washers?	개인 목욕사들은요?
+line:871137eb	What about?	무슨 이야기요?
+line:bb3b6c71	What brings you in so late?	이렇게 늦게 웬일이에요?
+line:2dd518f0	What do you mean?	무슨 말씀이에요?
+line:2fae1274	What do you mean?	무슨 말씀이에요?
+line:3c2c53dc	What do you mean?	무슨 말씀이에요?
+line:838cdf1b	What do you think of me?	저를 어떻게 생각하세요?
+line:c2bdc402	What does the number 7 taste like?	숫자 7은 무슨 맛인가요?
+line:56fc085a	What happened!?	무슨 일이에요?!
+line:0bc56d4d	what happened?	무슨 일이 있었나요?
+line:8c3b76ea	What is it?	뭔가요?
+line:44b711a0	What is..	이게 뭡니까..
+line:53301d3b	What kind of egg was that?	무슨 알이었어요?
+line:073701b7	What kind of movie are you thinking?	무슨 영화가 좋을까요?
+line:03cf1c9a	What kind of question?	어떤 질문이요?
+line:003700c7	What kinds of classes do you teach?	어떤 수업을 하세요?
+line:e2406cc4	What now?	이제 어떻게 하죠?
+line:0c583118	What was in those opened crates?	저 열린 상자에는 뭐가 들어 있었어?
+line:5a195ff2	What!? that's terrible! You don't even have a mount...?	뭐?! 형편없네! 기구도 없어...?
+line:8ebd442e	What's got you looking so happy?	무슨 좋은 일 있어요?
+line:fc7aaaa0	What's teaching like?	가르치는 일은 어떤가요?
+line:f99840cd	What's that?	그게 뭐예요?
+line:1a0b719d	What's up?	무슨 일이에요?
+line:29359884	What's up?	무슨 일이에요?
+line:8d5c7802	What's up?	무슨 일이에요?
+line:712f9d7c	what?	뭐라고요?
+line:766c2abd	What? All the best places do it!	뭐? 잘하는 데는 다 해!
+line:159a1d54	What? I'm a professor! Can't you tell from my crest?	뭐라고요? 저는 교수입니다! 문장을 보면 모르시겠습니까?
+line:9aa86a9b	What? There is no harm caused by a genuine compliment!	뭐가 문제입니까? 진심 어린 칭찬이 해가 되지는 않잖습니까!
+line:b2fe309b	Whats got you in a good mood?	무슨 좋은 일 있어요?
+line:93a145d4	Whats up, big guy?	왜요, 큰 드래곤 씨?
+line:4efe8211	Whats up?	왜요?
+line:866cd495	Whats up?	왜요?
+line:bfc04b3a	Whats up?	왜요?
+line:e01885c3	Whats up?	왜요?
+line:f7d786b6	Whats with all the... Gloop?	그... 끈적한 건 뭐예요?
+line:c4c81aa9	Whats your favorite part about him?	어떤 점이 제일 좋아요?
+line:ff6ef027	When do you actually end the relationship?	그러면 언제 정말로 끝내야 할까요?
+line:2ffe284b	When I met him at first I was falling back on my old script.	처음 만났을 땐 나도 모르게 옛날 버릇이 나왔어.
+line:eb019075	When you're done go ahead and hit the button.	끝나면 버튼을 눌러요.
+line:5d4e9392	Where did he go...?	어디로 간 거예요...?
+line:7af04961	Where would you like to go?	어디로 가고 싶어요?
+line:7e9389a7	Which college?	어느 대학이요?
+line:2d315c6c	Who knew a dragon could get so dirty, huh?	드래곤이 이렇게 더러워질 줄 누가 알았겠어요?
+line:a97338b0	Who knew places such as this existed so readily available to the public!	이런 곳을 누구나 쉽게 이용할 수 있다니, 놀랍군요!
+line:8b7915f4	Who's that?	누군데요?
+line:ebd63f8c	Who's there?	누구세요?
+line:eea7573f	Whoa! Cold!	우와! 차가워요!
+line:1acbd02a	Whoops	앗.
+line:5a6c0d31	Whoops	앗.
+line:afc6c00a	Whoops	앗.
+line:c30013ff	Whoops	앗.
+line:9df56a3a	why are you here so late?	왜 이렇게 늦게 오셨어요?
+line:bb8583c1	With Ryan, I'm pretty sure we're gonna go on a date tonight.	라이언이랑 오늘 밤에 데이트할 것 같아.
+line:c236bdf9	Woah. Uhm.	우와. 저기...
+line:390f05be	Woah... What is that in your mouth?	우와... 입에 문 건 뭐예요?
+line:4b93b009	Woah... You want me to use that? Even with the food? Alright!	우와... 저걸 쓰라고요? 음식이 있는데도요? 좋아요!
+line:4cacfab8	Wonderful to hear you're seeing someone!	만나는 분이 있다니 기쁘군요!
+line:f6fdf321	Wonderful to hear you're seeing someone!	만나는 분이 있다니 기쁘군요!
+line:7e2421b6	Wonderful to hear.	반가운 말씀이군요.
+line:36d49875	Wonderful!	잘됐네요!
+line:6046bedf	Wonderful!	잘됐네요!
+line:ab423ac7	Wonderful!	잘됐네요!
+line:5a9abbd4	Wonderful. Have a <i>productive</i> day.	좋습니다. <i>생산적인</i> 하루 보내세요.
+line:ec771552	Woops.	이런.
+line:51bcff68	Would that interest you?	관심 있어요?
+line:8c8591ec	Would you care to join me at the college library this evening...?	오늘 저녁에 대학 도서관에서 저와 함께하시겠습니까...?
+line:985436e6	Wouldn't that be degrading?	굴욕적이지 않을까요?
+line:1e027369	Wow thanks, that feels good.	와, 고마워요. 기분 좋아요.
+line:737184f5	Wow!	와!
+line:ead1bf44	Wow, it's an experience seeing you eat like that.	우와, 그렇게 먹는 걸 보니까 신기하네요.
+line:5da1e074	Y'know?	무슨 말인지 알죠?
+line:79352475	Ya.	네.
+line:f6c14e05	Ya.	네.
+line:b6add8e0	Yea! I do!	그래! 맞아!
+line:b44edd29	Yeaaah I'm not sticking with that one.	그래애, 이 별명은 안 쓸래.
+line:7a471225	Yeaaah.	그러게요오.
+line:5483c5fd	Yeah	네.
+line:3a5d5ca4	Yeah he seems like he'd push some buttons.	그래, 사람 마음 좀 흔들 줄 아는 것 같더라.
+line:63024a1f	Yeah he's improved a lot.	네, 많이 나아졌어요.
+line:5847a779	Yeah I have.	네, 했어요.
+line:f3b5952a	Yeah I'm happy too.	네, 저도 행복해요.
+line:fb47f998	Yeah it go BRRT haha.	네, 부르르 하죠. 하하.
+line:eef9b2bb	Yeah It's fine. Sorry.	네, 괜찮아요. 미안해요.
+line:fbc80e96	Yeah let me get that for you.	네, 열어 드릴게요.
+line:f212b2de	Yeah so I'm all muddy and stuff, love romping around in the public park.	네, 진흙투성이예요. 공원에서 뛰어노는 걸 좋아하거든요.
+line:108de471	Yeah that sounds pretty good.	네, 좋을 것 같아요.
+line:fdd800c2	Yeah! clean as always.	그래! 언제나처럼 깨끗하네.
+line:dee4a32d	Yeah! Conrad, he's adorable. Though he'd hate I said that.	네! 콘래드요. 정말 귀여워요. 본인은 이런 말을 싫어하겠지만요.
+line:ab1bc039	Yeah! I feel clean.	그래! 깨끗해진 것 같아.
+line:6733a3df	Yeah! I'm going on a date with him soon.	네! 곧 콘래드랑 데이트해요.
+line:66727cce	Yeah! It has food that should be good for both of us.	네! 우리 둘 다 먹을 만한 것들이에요.
+line:b482634c	Yeah! its useful.	네! 편리해요.
+line:da9cfdcf	Yeah! Just went on a date with Conrad.	네! 얼마 전에 콘래드랑 데이트했어요.
+line:3f153aaf	Yeah! Just went on a date with Ryan.	네! 얼마 전에 라이언이랑 데이트했어요.
+line:77ca2316	Yeah! Thanks for the food. I'll go get the gate.	네! 음식 고마워요. 문 열고 올게요.
+line:c87d632b	Yeah! That would be amazing.	그래! 그러면 정말 좋겠네.
+line:71c0ee9a	Yeah, ever since the breakup I've been looking for something new.	네, 헤어진 뒤로 새로운 걸 찾고 있어요.
+line:bee397db	Yeah, he's so kind to me.	그래, 나한테 정말 잘해 줘.
+line:4815ddba	Yeah, I've got one.	네, 있어요.
+line:24efaa49	Yeah, me too. He's real nice.	그래, 나도. 정말 좋은 사람이거든.
+line:6fa847ba	Yeah, nah. Mate you gotta get in on this. I'll pay good!	아니, 친구. 그런 걸 해야지. 돈은 잘 줄게!
+line:266f699d	Yeah, taste good!	맞아요, 맛있어요!
+line:67cc394b	Yeah, that was scary at first.	네, 처음엔 무서웠어요.
+line:a9980f5e	Yeah, this has been super nice.	네, 정말 좋은 시간이었어요.
+line:54c44240	Yeah, you're right.	네, 맞아요.
+line:bb1827c7	Yeah- Though only if you want!	그래... 네가 원할 때만!
+line:7311dc01	Yeah.	네.
+line:95e2f7cc	Yeah.	응.
+line:9fd5b834	Yeah. <size=90%>Oh- <size=80%>you know. I'm like... <size=70%>Haha. Yeah. Mhm!	네. <size=90%>아... <size=80%>그러니까. 제가 좀... <size=70%>하하. 네. 그렇죠!
+line:a28a70c6	Yeah. At least I got to meet you because of it.	네. 적어도 그 덕분에 당신을 만났네요.
+line:e5937e30	Yeah. I like fish!	네. 생선 좋아해요!
+line:0372e0d1	Yeah. It wasn't too expensive.	네. 그렇게 비싸지도 않았어요.
+line:6804839d	Yeah. It's hard to unwind groups after something like that.	네. 그런 일을 겪고 나면 친구 관계도 정리하기 어렵죠.
+line:6e0e4e11	Yeah. You two will be cute.	네. 둘이 귀여울 것 같아요.
+line:616121a9	Yeah...	네...
+line:f244d080	Yeah... He's really great.	그래... 정말 좋은 사람이야.
+line:5bab2df8	Yeah... I've never gone on a date with a kobold before.	네... 코볼트랑 데이트하는 건 처음이에요.
+line:8eeb7e28	Yeah... It really isn't.	네... 정말 그렇네요.
+line:039a0c83	Yeah?	네?
+line:2fb3fe55	Yeah?	네?
+line:92bd78f3	Yeah?	네?
+line:3690a3eb	Yeah? I don't even see a mount.	응, 그런 거. 기구도 안 보이는데.
+line:ea2adb20	Yeah? tell me about it!	그래요? 이야기해 줘요!
+line:78eccd9b	Yellow lime.	노란 라임 맛입니다.
+line:5fd7bc69	Yep!	그럼요!
+line:b6c878fa	Yep!	그럼요!
+line:fcff76d4	Yep! I'll get the gate.	네! 문 열어 드릴게요.
+line:3cdcbd4a	Yes	네.
+line:991dc643	Yes	네.
+line:e535cacb	Yes	네.
+line:fb4265f7	Yes	네.
+line:4ab6c5a9	yes	예
+line:db98be35	Yes right this way.	네, 이쪽이에요.
+line:52010e35	YES!	네, 좋아요!
+line:c4310942	Yes!	네!
+line:d5f94e23	Yes!	네!
+line:5592e639	Yes, welcome to Drag'N Wash!	네, Drag'N Wash에 오신 걸 환영해요!
+line:f676b9a8	Yes, welcome to Drag'n wash!	네, Drag'N Wash에 오신 걸 환영해요!
+line:a610ce0b	YES.	네!
+line:85fd5266	Yes.	네.
+line:152cb8ad	Yes. I'm in need of a clean. The situation is rather dire!	네. 몸을 씻어야 합니다. 상황이 아주 급박합니다!
+line:c4595dd5	Yes. It's invigorating to be so candid.	네. 이렇게 솔직해질 수 있으니 기운이 납니다.
+line:d7e50f2d	Yes..	네..
+line:5811655d	Yes... But I believe we need to clean the floors.	네... 하지만 바닥을 청소해야겠군요.
+line:9444cdba	Yip	이프.
+line:14d2c62f	Yip!	이프!
+line:296ff3f4	Yip!	이프!
+line:3d516ddb	Yip!	이프!
+line:3e870ad0	Yip!	이프!
+line:5544e245	Yip!	이프!
+line:5efde4e2	Yip!	이프!
+line:c3e1f198	Yip!	이프!
+line:e662501c	Yip!	이프!
+line:5e181cf4	Yip! <size=70%>(Gate)	이프! <size=70%>(문)
+line:b12a3f31	Yip! <size=70%>(idk)	이프! <size=70%>(몰라요)
+line:a8ee5236	Yip! <size=70%>(It's because the dormant part of your draconic mind is remembering the deep set language bridge between your kind and mine. Which carries the deep meaning and intention of kobold 'Yips' within it. This sudden understanding of yours is simply from our connection growing over time and activating that part of your mind.)	이프! <size=70%>(드래곤의 정신 속에 잠든 부분이 두 종족 사이에 깊이 뿌리내린 언어적 연결을 기억해 내기 때문이에요. 그 연결에는 코볼트의 '이프'에 담긴 깊은 의미와 의도가 들어 있죠. 시간이 흐르며 우리의 유대가 깊어져 그 부분이 활성화됐기 때문에 갑자기 이해할 수 있게 된 거예요.)
+line:5935a413	Yip! <size=70%>(Yes)	이프! <size=70%>(네)
+line:f1c14f75	Yip-Man - The Final Yip	이프 맨: 최후의 이프
+line:4b9046ec	Yip-Man movies are real corny...	이프 맨 영화는 좀 유치하죠...
+line:3d6b2203	You again?	또요?
+line:81416c72	You already are, whats up?	이미 하고 있네요. 뭔데요?
+line:6fbc3c1b	You also do <i>special endings</i> here, yeah?	여기서도 <i>특별 마무리</i> 해 주지?
+line:e553c773	You also introduced me to Conrad.	콘래드도 소개해 줬잖아요.
+line:feb8727e	You always make me feel welcomed.	언제나 환영받는 기분이 들어요.
+line:563d71ba	You are too!	라이언도 귀여워요!
+line:4efafbb0	You are very skilled with your hands	손재주가 무척 좋으시군요.
+line:0dd63830	You brought food in?	음식을 가져왔어요?
+line:38043f6c	You can act however you like around me.	제 앞에서는 편하게 행동하셔도 돼요.
+line:3fbd01fb	You can come in whenever!	언제든 와도 돼요!
+line:0eb37f1a	You can stay here if you want.	원하면 여기 있어도 돼요.
+line:ecc04e16	You decide!	라이언이 정해요!
+line:19698f13	You didn't even open the watermelon.	수박을 가르지도 않았잖아요.
+line:7e8c1ae2	You do know how to use your hands pretty well.	넌 손을 꽤 잘 쓰잖아.
+line:7023b6b4	You don't deserve that.	넌 그런 대우를 받을 이유가 없는데.
+line:c0cc0f2d	You got a medkit?	구급상자 있어?
+line:c2b3c28a	you know about getting back into the dating scene...	다시 연애해 보라는 말 있잖아요...
+line:512df07c	You know what that means.	그럼 이제 뭘 할지 알지.
+line:e613cbe3	You know what that means...	그럼 이제 뭘 할지 알죠...
+line:73e4789c	You know... This environment is rather pleasant. Very... proletarian.	있잖습니까... 이곳 분위기는 제법 쾌적하군요. 아주... 프롤레타리아적입니다.
+line:404b17ef	You look good this clean!	깨끗하니까 멋져요!
+line:780c151c	You needn't worry. The washer's union is... More powerful than I.	걱정하지 마세요. 목욕사 노조는... 저보다 힘이 셉니다.
+line:3fab049a	You probably shouldn't.	안 먹는 게 좋을 거예요.
+line:0bc044da	You ready for this?	준비됐어?
+line:f0a0565a	You ready to go back in to the club?	클럽 안으로 돌아갈 준비 됐어?
+line:c0e34d36	You really ate that entire thing... Woah.	진짜 통째로 먹었네요... 우와.
+line:82cf49aa	You seemed to enjoy yourself.	즐거워 보였어요.
+line:ba66095e	You set a good example.	좋은 본보기가 되어 주시네요.
+line:6c2a1901	You should be all clean!	이제 깨끗할 거예요!
+line:36779352	You should be.	그럴 만하지.
+line:86154a64	You should feel it and check for me	만져 보고 확인해 줘.
+line:20503ab0	You sure? It's not like... fun stuff.	정말요? 그렇게... 재미있는 이야기는 아닌데.
+line:0a0d6bc0	You too! I'll go get the gate.	저도요! 문 열고 올게요.
+line:e3106999	You too. Thanks for the wash.	저도요. 씻겨 줘서 고마워요.
+line:fc97aa74	You too. Thanks for the wash.	저도요. 씻겨 줘서 고마워요.
+line:5e4d645c	You two are really cute together...	둘이 같이 있으니까 정말 귀엽네...
+line:b76a2a43	You were really going at it.	정말 열심히 하시던데요.
+line:83aa1a23	You work at a college?	대학에서 일하세요?
+line:85fa0d03	You'd need a dragon stomach first!	우선 드래곤의 위장부터 있어야겠죠!
+line:ebd2af6b	You'll have to give me all the Ryan details soon.	라이언 이야기는 곧 자세히 해 줘야 해요.
+line:6c71dd83	You'll have to tell me all about it.	다 이야기해 줘야 해요.
+line:91ab30f5	You'll have to tell me how you two work out!	둘이 어떻게 되는지 꼭 말해 줘요!
+line:ffeff59b	You'll have to tell me more inside.	들어와서 더 이야기해 줘요.
+line:5eb243c2	You'll like it.	너도 좋아할 거야.
+line:6acf7c77	You'll need to let them in afterwards of course.	물론 그다음에는 손님을 안으로 들여보내야 합니다.
+line:6b63d2d8	You'll take care of everything?	전부 알아서 해 주시겠습니까?
+line:f2527ed7	You're <i>spotless.	<i>티끌 하나 없이 깨끗해요.
+line:23ae97e6	You're a big deal	대단한 건 너지.
+line:323e546b	You're a good friend too, I'll go get the gate.	라이언도 좋은 친구예요. 문 열고 올게요.
+line:44e97be7	You're always welcome here, Ryan.	라이언은 언제든 환영이에요.
+line:09e5bf43	You're cute by the way.	그런데 당신, 귀여워요.
+line:277d8257	You're fine. Thank you.	괜찮아요. 고마워요.
+line:8c269acb	You're going to love it.	분명 마음에 들 거야.
+line:173782fa	You're good at it.	잘하고 계십니다.
+line:1dca8fa0	You're just a very comfortable person to be around.	그냥 같이 있으면 정말 편해서요.
+line:42124159	You're just a very comfortable person to be around.	그냥 같이 있으면 정말 편해서요.
+line:d3b6d22a	You're kind. It's more than I deserve.	착하네. 나한텐 과분해.
+line:ca72bf2d	You're okay. You're clearly going through a lot.	괜찮아요. 많이 힘든 것 같으니까요.
+line:68887509	You're one of my favorite clients!	제가 제일 좋아하는 손님 중 하나예요!
+line:c4cc497f	You're pretty hot.	너 꽤 섹시하잖아.
+line:b6603dc7	You're right. I shouldn't pry.	맞아요. 제가 너무 캐물으면 안 되죠.
+line:31ab814e	You're right... Theres no way you could.	맞아요... 당신이 알 수는 없죠.
+line:470cd652	You're the first person I've met who's only expectation is for me to be...	당신은 제가 그저...
+line:f718a7eb	You're the professor here. Must be correct.	교수님이시니 맞겠죠.
+line:15f55959	You're very sweet.	참 다정하네요.
+line:bc6cc4d2	You're very sweet.	참으로 다정하시군요.
+line:6289a322	You're very welcome.	천만에요.
+line:39ddd682	You're...	당신은...
+line:6e94f373	You're... cool.	너... 괜찮은 녀석이야.
+line:61c96494	You're... Not that dirty.	그렇게... 더럽지는 않으신데요.
+line:8bab3246	You're... very forward.	정말... 직설적이네요.
+line:3bbab759	You've gotta keep me updated on you and Ryan, yeah?	라이언이랑 어떻게 되는지 계속 알려 줘, 알겠지?
+line:a5a8a9d5	Your crest is cool. What is it?	문장이 멋져요. 어떤 건가요?
+line:3890b91c	Your date with Ryan.	라이언이랑 데이트 말이야.
+line:82109412	Your secret's safe with me.	비밀은 꼭 지켜 드릴게요.
+line:ed8e7994	Yours doesn't. It's nice.	당신의 시선은 그렇지 않아요. 좋군요.
+line:016a65e8	Yuh, that's me.	그래, 나야.
+line:38eb6d26	Yup!	네!
+line:7ac62718	Yup. I like it.	네. 전 좋아요.
