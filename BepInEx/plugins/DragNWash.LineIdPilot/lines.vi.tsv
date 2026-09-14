@@ -1,0 +1,1840 @@
+# line ID	exact English source	translation (English A-Z then ID)
+line:39fd52f1	'Ey big dog.	Chào chó bự.
+line:918d7820	'Ey big kobold.	Chào kobold bự.
+line:155c00eb	'think', 'On the way here'? Then you weren't covered in ink before...	«Nghĩ», «trên đường đến đây»? Vậy trước đó ông chưa dính mực...
+line:15bcd86c	'Yes way', There is nothing I am more certain of.	«Có thể chứ». Không điều gì khiến tôi chắc chắn hơn.
+line:4d49ae72	'Yes way', There is nothing I am more certain of.	«Có thể chứ». Không điều gì khiến tôi chắc chắn hơn.
+line:25f35611	---	---
+line:4b9b3a43	---	---
+line:97ab84a8	---	---
+line:db5b3129	---	---
+line:e2f28daa	---	---
+line:3d2df033	..	..
+line:8c0e2d04	..	..
+line:b36eb839	..	..
+line:03d2f0bb	...	...
+line:045f5836	...	...
+line:1113335e	...	...
+line:227eda5e	...	...
+line:30a74521	...	...
+line:4810891f	...	...
+line:4da86a7a	...	...
+line:610824ef	...	...
+line:6757e4a0	...	...
+line:695ef750	...	...
+line:7426a997	...	...
+line:759a495e	...	...
+line:7e189c92	...	...
+line:812700a5	...	...
+line:848f5cd8	...	...
+line:85f39b27	...	...
+line:9504ba33	...	...
+line:a6531779	...	...
+line:b59e9091	...	...
+line:b7f0551c	...	...
+line:c272e55f	...	...
+line:cdb8d8db	...	...
+line:cfe4b91d	...	...
+line:d6483230	...	...
+line:d90d368f	...	...
+line:d9516fdd	...	...
+line:dd197e7c	...	...
+line:decf872a	...	...
+line:e9d40a5c	...	...
+line:20f87f8d	... A class which I'm teaching rather soon.	...Và sắp tới giờ lên lớp.
+line:4815d919	... Being a bit of a jerk honestly.	...Thật ra là cư xử hơi khốn nạn.
+line:11bfce3b	... I thought we were good friends, we have sex all the time!	...Tôi tưởng chúng tôi là bạn tốt. Chúng tôi làm tình suốt mà!
+line:1bebf328	... Thank you..	...Cảm ơn...
+line:a8eb78ed	... you're done? I'm still dirty..	...Xong rồi? Tôi vẫn bẩn...
+line:ef611d11	... you're done? I'm still soapy..	...Xong rồi? Tôi vẫn đầy xà phòng...
+line:496134bc	...!	...!
+line:7cc45755	...!	...!
+line:6585925d	...<i><size=70%>I have one on him at least.	...<i><size=70%>Ít nhất tôi thích anh ấy.
+line:e2ea4ead	...A wash for our date tonight.	...Tắm cho buổi hẹn tối nay của chúng ta.
+line:048d7f84	...About what I said earlier.	...Về chuyện tôi nói lúc nãy.
+line:55d1f6ef	...and nice.	...Và tốt bụng.
+line:79a1a205	...But not in like a bad weird way.	...Nhưng không theo kiểu xấu hay kỳ quặc đâu.
+line:3592632e	...It's intimidating knowing how much they look up to me.	...Biết họ ngưỡng mộ mình đến đâu cũng khiến tôi sợ.
+line:7e08544c	...It's odd being able to speak so freely with someone.	...Thật lạ khi được nói chuyện thoải mái như thế với ai đó.
+line:f0cb8389	...No	...Không.
+line:92601622	...Okay, come in	...Được, vào đi.
+line:e381559c	...Thank you for this.	...Cảm ơn cậu về chuyện này.
+line:b7b5f7fb	...Thanks.	...Cảm ơn.
+line:dbab7a39	<b><i><size=130%>Did you suggest Ryan to Conrad?	<b><i><size=130%>Bạn đã giới thiệu Ryan với Conrad chưa?
+line:36ff6bd9	<gradient="gold"><b> I know a dragon, Ryan. I could get you two in contact? </b></gradient><size=70%>(Unlocks Conrad/Ryan hookup OR Ryan romance)	<gradient="gold"><b> Tôi biết một con rồng tên Ryan. Hay tôi giới thiệu hai người? </b></gradient><size=70%>(Mở nhánh Conrad/Ryan HOẶC tình cảm với Ryan)
+line:7e9d40e6	<gradient="gold"><b> I wouldn't mind hanging out... </b></gradient><size=70%> (Unlocks Conrad romance)	<gradient="gold"><b> Tôi cũng muốn đi chơi cùng anh... </b></gradient><size=70%> (Mở nhánh tình cảm với Conrad)
+line:a0e49f02	<gradient="gold"><b> I wouldn't mind! </b></gradient><size=70%> (Will lead to Alexander romance!)	<gradient="gold"><b> Tôi sẵn lòng! </b></gradient><size=70%> (Dẫn đến nhánh tình cảm với Alexander!)
+line:0371fb9c	<gradient="gold"><b> I'm going to be busy tonight. Sorry. </b></gradient><size=70%> (Will lead to no romance!)	<gradient="gold"><b> Tối nay tôi bận. Xin lỗi. </b></gradient><size=70%> (Dẫn đến kết thúc không có tình cảm!)
+line:f5a81524	<gradient="gold"><b>I don't have anyone off the top of my head.</b></gradient><size=70%> (Locks in Conrad romance!)	<gradient="gold"><b>Giờ tôi chưa nghĩ ra ai.</b></gradient><size=70%> (Chốt nhánh tình cảm với Conrad!)
+line:bedc761d	<gradient="gold"><b>I know this one red dragon. I think you'd like him! </b></gradient><size=70%> (Hooks up Ryan with Conrad!)	<gradient="gold"><b>Tôi biết một con rồng đỏ. Chắc cậu sẽ thích anh ấy! </b></gradient><size=70%> (Ghép đôi Ryan với Conrad!)
+line:e104b8e4	<gradient="gold"><b>Oh. Uhm. <size=70%> I wouldn't mind... If I was that someone. </b></gradient><size=70%> (Locks in Ryan romance!)	<gradient="gold"><b>Ồ. Ừm. <size=70%> Tôi cũng muốn... được là người đó. </b></gradient><size=70%> (Chốt nhánh tình cảm với Ryan!)
+line:36073321	<gradient="yellow - orange"><size=140%>HEY! </gradient><size=100%>This is the cleaning place, ya?	<gradient="yellow - orange"><size=140%>NÀY! </gradient><size=100%>Chỗ này là chỗ tắm rửa đúng không?
+line:c777ce0c	<i> that feels nice...</i>	<i>Dễ chịu thật...</i>
+line:e56dd423	<i><size=70%>uh oh.. and the books	<i><size=70%>Ôi... Và cả sách.
+line:d67b1098	<i>I like spraying you with water.	<i>Tôi thích xịt nước lên anh.
+line:ad5d633a	<i>Oh...	<i>Ồ...
+line:22b5941e	<i>Oh.</i> I don't think I'm ready for that just yet.	<i>Ồ.</i> Tôi nghĩ mình chưa sẵn sàng cho việc đó.
+line:cacbff51	<i>Ooooh. </i>The mount? Hell yeah, man.	<i>Ồồồ. </i>Cái giá? Đệt, được chứ.
+line:04b7ce44	<i>This</i> isn't your fault, Conrad.	<i>Chuyện này</i> không phải lỗi của anh, Conrad.
+line:72b244b7	<size=100%> That felt damn good!	<size=100%> Đã vãi!
+line:78cc49e8	<size=100%>I mean- Cool.	<size=100%>Ý tôi là... Hay đấy.
+line:e48243c0	<size=140%> FUCK YEAH!	<size=140%> ĐỆT, ĐÚNG RỒI!
+line:f474ffa9	<size=140%>HEY, <size=100%>lookin' for a wash.	<size=140%>NÀY, <size=100%>tôi muốn tắm.
+line:9d458e88	<size=160%>HELL YEAH!	<size=160%>ĐỆT, TUYỆT VỜI!
+line:f5462edf	<size=60%> that's hot.	<size=60%>Gợi cảm thật.
+line:7c745c31	<size=70%> A big dragon giving me control. Woah.	<size=70%>Một con rồng to trao quyền kiểm soát cho tôi. Oa.
+line:53d71f27	<size=70%> And for me.	<size=70%> Và vì tôi.
+line:4fe271cc	<size=70%> woah.	<size=70%>Oa.
+line:e53b1bd3	<size=70%><i> holy shit, I just bagged a date with a dragon.	<size=70%><i>Trời đất, vừa có hẹn với một con rồng.
+line:c4384e8e	<size=70%><i>but it was nice... Thank you.	<size=70%><i>Nhưng dễ chịu lắm... Cảm ơn cậu.
+line:ec0e5330	<size=70%><i>feel free to continue-</i>	<size=70%><i>Cứ tiếp tục nhé...</i>
+line:e77c1f79	<size=70%><i>oah-</i> no that's really cool actually.	<size=70%><i>Ồ...</i> Không, thật ra rất tuyệt.
+line:a618f9c2	<size=70%><i>Woah...	<size=70%><i>Oa...
+line:ad460e4b	<size=70%><i>Yeah?	<size=70%><i>Thật à?
+line:c25d1c85	<size=70%>They're still on my payroll.	<size=70%>Tôi vẫn trả lương cho họ.
+line:22deeef6	==	==
+line:67fa34ad	==	==
+line:a8e2f13e	==	==
+line:ce938344	==	==
+line:e41244bf	==	==
+line:497d3f67	A few days ago...	Mấy ngày trước...
+line:c570a462	A rather good excuse to see my favorite kobold.	Một cái cớ khá hay để gặp kobold tôi yêu quý nhất.
+line:5d2d16e0	A really good friend?	Một người bạn rất thân?
+line:df4d3810	About earlier.	Về chuyện lúc nãy.
+line:1a5e1ba4	Act what way?	Cư xử thế nào?
+line:cc532c02	After his spontaneous conflagration, I made sure to give him privacy.	Sau khi ông ấy tự bốc cháy, tôi đã để ông ấy được riêng tư.
+line:a983ffa3	Again...?	Lại nữa...?
+line:8e34b87d	Agreed, though I'd still like to be let in as soon as convenient.	Đồng ý, nhưng tôi vẫn muốn được vào ngay khi tiện.
+line:934a1d5a	Ah yeah, that's the stuff.. keep at it.	À đúng, thế đấy... Tiếp đi.
+line:e216aee0	Ah, good.	À, tốt.
+line:9b26ac5f	Ah, I see the button there, gotcha!	À, thấy nút bấm đằng kia rồi, hiểu rồi!
+line:7f3fe9f9	Ah, sorry, I'm passionate about such things.	À, xin lỗi, tôi rất say mê những chuyện này.
+line:bf2a8309	Ah, the grime did sting a little, thank you.	À, chỗ bẩn hơi rát, cảm ơn.
+line:ebdb9888	Ah, yeah, those types are pretty cute.	À, ừ, kiểu đó khá dễ thương.
+line:b920f205	Ah. Do not worry.	À. Đừng lo.
+line:a98d068c	Ah. Okay nevermind I'm not sorry then.	À. Thế thôi, tôi không xin lỗi nữa.
+line:6de2c490	Ah...	À...
+line:4d6b365e	Ahh, all cleaned and with a lighter load.	À, vừa sạch vừa nhẹ bớt cả một mẻ.
+line:20f96302	Alexander!	Alexander!
+line:f167e3d7	Alexander!	Alexander!
+line:fe3996b8	Alexander!	Alexander!
+line:af7db134	Alexander...?	Alexander...?
+line:eb7cf9e5	All clean...	Sạch hết...
+line:f57fc630	All done!	Xong hết!
+line:0b734d82	All self respecting washers know how to please a dragon.	Người tắm rửa nào có lòng tự trọng cũng biết chiều rồng.
+line:599ffb25	Already got seats at that bar I mentioned earlier.	Tôi có chỗ ở quán bar đã nhắc rồi.
+line:642ddea3	Alright alright... Then I think I'd like to use it?	Được, được... Vậy chắc tôi muốn dùng?
+line:c7b3a185	Alright! I'll go get the gate.	Được! Tôi mở cổng.
+line:7279121a	Alright! I'll go get you the gate.	Được! Tôi mở cổng cho ông.
+line:4fc4259c	Alright! I'm ready to go.	Được! Tôi sẵn sàng đi rồi.
+line:a722d0fa	Alright, go get the gate and I'll head out to the spot!	Được, cậu mở cổng đi, tôi sẽ đến đó trước!
+line:d04df8f8	Alright, I'll cya!	Rồi, gặp sau!
+line:4766af08	Alrighty! That should be it.	Rồi! Chắc thế là xong.
+line:797ca540	Alrighty. All clean.	Rồi. Sạch hết rồi.
+line:c4cb161a	Although grapes have always hit a specific craving.	Nhưng nho luôn thỏa mãn một cơn thèm rất riêng.
+line:dc237557	Although, the portions might be a bit... dragon sized.	Nhưng khẩu phần có thể hơi... cỡ rồng.
+line:655b8c01	Always happy to have you, Conrad.	Luôn vui được đón anh, Conrad.
+line:afedd1f5	An anomaly.	Một ngoại lệ.
+line:0de4fe62	And I'm glad you have a medkit... You're very prepared.	Và mừng là cậu có hộp sơ cứu... Chuẩn bị chu đáo thật.
+line:0699aef9	And I'm really happy for you and Conrad.	Và tôi thật sự mừng cho cậu với Conrad.
+line:a3a26459	And not just physically.	Và không chỉ ngước nhìn theo nghĩa đen.
+line:507bd2b9	And that's why I'm here! Going to be heading out after this wash to go see him.	Vậy nên tôi mới đến! Tắm xong là đi gặp cậu ấy ngay.
+line:33440e8c	And why you are perfect for this job!	Và vì thế cậu là người hoàn hảo cho việc này!
+line:cacb93ce	And you've tried everything.	Mà cậu đã thử mọi cách.
+line:8cae6240	Another dragon? Usually I don't really get along...	Một con rồng khác? Thường tôi không hợp lắm...
+line:5a7e4fd4	Any chance you can clean me up again?	Cậu tắm lại cho tôi được không?
+line:92d2a30a	Anything. I'm just curious.	Bất cứ điều gì. Tôi chỉ tò mò.
+line:52695aa2	Anything?	Bất cứ điều gì?
+line:8ead9ee9	Anytime, Ryan.	Lúc nào cũng được, Ryan.
+line:6d77feef	Anyway glad you're not finished, lets keep at it!	Dù sao mừng là chưa xong, tiếp tục nào!
+line:bdb4f59c	Anyway, time to get writing!	Dù sao thì cũng đến lúc bắt tay vào viết rồi!
+line:75dd56ae	Anyways,	Dù sao thì.
+line:8980260e	Anyways-	Dù sao thì...
+line:a8e6291c	Anyways- Let me out.	Thôi, cho tôi ra.
+line:493a82ef	Anyways. Could you go get the gate?	Dù sao thì, cậu mở cổng nhé?
+line:926f5f41	Anyways. Gonna use this thing now!	Dù sao thì tôi dùng cái này đây!
+line:ad8ab02e	Anyways...	Dù sao thì...
+line:e767dc51	Anywho, I'll get out of your scales now.	Dù sao thì tôi không làm vướng chân cậu nữa.
+line:e81426c1	Anywho, I'm in need of a clean.	Dù sao thì tôi cần làm sạch.
+line:23e7d518	Approach the dragon entrance, and I will let you in.	Đến lối vào dành cho rồng, tôi sẽ mở cửa.
+line:72a9b5bb	Are you happy?	Ông có hạnh phúc không?
+line:be0118cc	Are you okay?	Anh ổn chứ?
+line:de735c65	Are you open right now?	Giờ có mở cửa không?
+line:9369755d	Are you sure it will fit?	Cậu chắc sẽ vừa chứ?
+line:c35b717a	Are you sure...? In front of the food?	Cậu chắc chứ...? Ngay trước đồ ăn?
+line:cb06d2bf	As am I.	Tôi cũng vậy.
+line:9a48b21c	As in you're unique.	Ý tôi là cậu độc nhất.
+line:1c021ee0	At getting hand jobs.	Chuyên được người khác quay tay cho.
+line:e861b464	At least that's what I've heard anyway.	Ít ra tôi nghe bảo thế.
+line:2f54ceec	At least you can still use your hands. Heh.	Ít ra cậu vẫn dùng tay được. Heh.
+line:cb04e062	At least you can still use your hands. Heh.	Ít ra cậu vẫn dùng tay được. Heh.
+line:97792929	Aw, I'll go get you the gate.	Ôi, để tôi mở cổng cho anh.
+line:c6895517	Aw, Ryan.	Ôi, Ryan.
+line:db997182	Aw, thank you Alexander.	Ôi, cảm ơn ông, Alexander.
+line:7157db26	Aw, thanks Alexander.	Ôi, cảm ơn ông, Alexander.
+line:011f1458	Aw, thanks.	Ôi, cảm ơn.
+line:aea0be6b	Aw, thanks.	Ôi, cảm ơn.
+line:c00d76cd	Aw, thanks. I only look so good 'cause of your washes!	Ôi, cảm ơn. Tôi đẹp thế này nhờ cậu tắm rửa cho đấy!
+line:453ff9be	Aw- Ryan...	Ôi, Ryan...
+line:5340a315	Aw... Thanks!	Ôi... Cảm ơn!
+line:c6202cf2	Aw... Thanks.	Ôi... Cảm ơn.
+line:cb1d1197	Aw... Thanks. Is it weird I consider you...	Ôi... Cảm ơn. Có kỳ không nếu tôi coi cậu là...
+line:2bfa396c	Aw... That's really sweet	Ôi... Ngọt ngào thật.
+line:22053f7f	Awesome!	Tuyệt!
+line:6fdb2c3d	Awesome!	Tuyệt!
+line:70306ba1	Awesome!	Tuyệt!
+line:6126a614	Awesome! Come on in..	Tuyệt! Vào đi...
+line:e85007ac	Awesome! See you later then!	Tuyệt! Vậy gặp sau nhé!
+line:4c7f15d6	Awesome, I'll go get the gate.	Tuyệt, tôi mở cổng.
+line:9d126e4e	Awesome, I'm glad.	Tuyệt, mừng quá.
+line:b60cc4a5	Awesome.	Tuyệt.
+line:59fb47b0	Awww. You don't need to be coverd in ink to say hi!	Ôi. Đâu cần dính đầy mực mới được đến chào!
+line:8e20e028	Be yourself!	Cứ là chính mình!
+line:cd18f73f	Been looking forward to this.	Tôi mong chuyện này lắm.
+line:8f1fccf9	Being muddy is really fun up until it starts drying.	Nghịch bùn vui lắm cho đến khi nó bắt đầu khô.
+line:40783547	Berries.	Quả mọng.
+line:59d4be6a	Berries.	Quả mọng.
+line:61e781c1	Berries.	Quả mọng.
+line:18ae08ef	Bet you had fun.	Chắc vui lắm.
+line:982fd3c7	big C...?	Anh C bự...?
+line:4b3f7c6a	Biology...? <size=70%> <i>I think?	Sinh học...? <size=70%> <i>Chắc vậy?
+line:9be63f47	Bleh. Thank you for grabbing that.	Phù. Cảm ơn đã lấy giúp.
+line:66957ed2	Blue...?	Màu xanh...?
+line:a77c3afd	Both.	Cả hai.
+line:78975048	Brrr! Cold water!	Brrr! Nước lạnh!
+line:8487a2c4	Burnswick Community College of Thaumaturgy	Cao đẳng Cộng đồng Pháp thuật Burnswick
+line:f75126de	But honestly you've helped me a lot.	Nhưng thật lòng, cậu đã giúp tôi rất nhiều.
+line:cab69268	But I already know I'm liking this a lot.	Nhưng tôi đã biết mình rất thích chuyện này.
+line:d9534386	But I know the type... They tend to be big softies on the inside.	Nhưng tôi biết kiểu đó... Bên trong thường rất mềm lòng.
+line:f73ddfbc	But I think its time to get cleaned up.	Nhưng chắc đến lúc rửa sạch rồi.
+line:088ea4a7	But I'm hot shit, so I'll be fine.	Nhưng tôi hấp dẫn vãi, nên sẽ ổn thôi.
+line:c8f8bc22	But I'm only your washer?	Nhưng tôi chỉ tắm rửa cho ông thôi mà?
+line:dda0419b	But I'm sure I'd enjoy it with you!	Nhưng xem cùng cậu chắc chắn tôi sẽ thích!
+line:aa74448a	But not in this sized package, right??	Nhưng không phải trên cơ thể cỡ này, nhỉ??
+line:7d9ffc48	But nothing beats a large gulp!	Nhưng không gì bằng một cú nuốt lớn!
+line:d1ec7684	But that is why I am here!	Nhưng chính vì thế tôi mới đến đây!
+line:b0d9d1e5	But you're the teacher dragon.	Nhưng ông mới là rồng thầy giáo.
+line:2d7e1ab6	But, at least I got to meet you!	Nhưng ít ra tôi đã gặp cậu!
+line:b7f46902	But, I think you've taught me something.	Nhưng tôi nghĩ cậu đã dạy tôi một điều.
+line:b1040415	By the stars! No no. You're excellent.	Trời sao chứng giám! Không không. Cậu rất tuyệt.
+line:3a88a2dd	By the way would you be mad if your partner made a mess at home?	Nhân tiện, cậu có giận nếu người yêu làm bừa bộn ở nhà không?
+line:4199070f	Came in for another wash.	Tôi đến tắm lần nữa.
+line:105cd3e2	Can I ask you a question?	Cho tôi hỏi một câu được không?
+line:535ee717	Can you repeat that?	Ông nhắc lại được không?
+line:835e0c27	Can't sthpeak well.	Khó nói quó.
+line:afa450c0	Come back whenever, Ryan.	Cứ ghé bất cứ lúc nào, Ryan.
+line:0cedfc3d	Conrad can go as long as he needs	Conrad kéo dài bao lâu cũng được.
+line:5462913f	conrad hooked up with ryan	Conrad thành đôi với Ryan.
+line:61cd33c5	conrad hooked up with ryan	Conrad thành đôi với Ryan.
+line:6a7610f3	conrad hooked up with ryan	Conrad thành đôi với Ryan.
+line:bac1ce29	conrad hooked up with ryan	Conrad thành đôi với Ryan.
+line:61c9b7ac	Conrad needs a cleaning, got a slot for 'im?	Conrad cần tắm, còn chỗ cho anh ta không?
+line:405b7ef1	Conrad needs a wash!	Conrad cần tắm!
+line:803c8f0c	Conrad was talking about you during our date.	Conrad có nhắc đến cậu trong buổi hẹn.
+line:f1787092	Conrad!	Conrad!
+line:fd6c6213	Conrad!	Conrad!
+line:484cd04d	Conrad...?	Conrad...?
+line:5b0360ad	Conrad: Actually.. I mean..	Conrad: Thật ra... Ý tôi là...
+line:3ce891ff	Conrad: Conrad just enjoys himself	Conrad: Conrad chỉ đang tận hưởng thôi.
+line:fbe86c06	Conrad: Damn right!	Conrad: Chuẩn luôn!
+line:5660dc8b	Conrad: Don't worry about it!	Conrad: Đừng lo chuyện đó!
+line:c050dbfc	Conrad: I do it all the time	Conrad: Tôi làm suốt mà.
+line:cd3367da	Conrad: I want this to go well	Conrad: Tôi muốn mọi chuyện tốt đẹp.
+line:194c1381	Conrad: I'm ready to blow	Conrad: Tôi sắp bắn rồi.
+line:ce4d0fef	Conrad: Yea	Conrad: Ừ.
+line:42c70daa	Conrad: You feel good	Conrad: Cậu làm tôi đã lắm.
+line:3bc52918	Conrad: You having a good time?	Conrad: Cậu thấy vui chứ?
+line:be0e51af	Cool.	Ngầu.
+line:88c36bc7	Could do that, then get a hotel room... Hmm.	Có thể đến đó rồi thuê phòng khách sạn... Hừm.
+line:b99e1503	Could you ask <i>me</i> a question?	Cậu đặt câu hỏi cho <i>tôi</i> được không?
+line:12bf5baf	Could you get the gate...?	Cậu mở cổng được không...?
+line:3a6afae1	Could you go get the gate?	Cậu đi mở cổng nhé?
+line:9f49d9d4	Could you wash it away?	Cậu xả sạch được không?
+line:7661a0e9	D'aw... thanks.	Ôi... Cảm ơn.
+line:59bc5840	Damn right I do!	Chuẩn luôn, tôi đẹp mà!
+line:64889395	Damn right!	Chuẩn luôn!
+line:95aa0bf4	Damn right!	Chuẩn luôn!
+line:db592d76	Damn right!	Chuẩn luôn!
+line:0fcf9908	Damn right.	Chuẩn luôn.
+line:b964c99b	Damn shame then. Better change that.	Tiếc thật. Nên thay đổi đi.
+line:c6955ecc	Damn, you know how to use your hands.	Đệt, cậu biết dùng tay thật.
+line:eaf45022	Damn, you know how to use your hands.	Đệt, cậu biết dùng tay thật.
+line:684fb29a	Damn... Always feels good.	Đệt... Lúc nào cũng đã.
+line:7023cc94	DATE NIGHT!	ĐÊM HẸN HÒ!
+line:c71df70b	Date night!	Đêm hẹn hò!
+line:b57cc8ad	Depends	Còn tùy.
+line:07bd7f57	Did you do your uh...	Hôm nay cậu làm cái... ừm...
+line:4f38655d	Do I look like I'm okay?	Trông tôi giống đang ổn lắm à?
+line:8147156a	Do it!	Ra đi!
+line:9ab6ddfb	Do you also do "special endings" here?	Ở đây cũng có «kết thúc đặc biệt» chứ?
+line:4c90479c	Do you ask because I'm lavender?	Cậu hỏi vì tôi có màu oải hương à?
+line:3020c97c	Do you believe I am attractive?	Cậu thấy tôi hấp dẫn không?
+line:c5e71850	Do you even need a wash?	Cậu có cần tắm thật không?
+line:1810e75f	Do you have any advice?	Cậu có lời khuyên gì không?
+line:6be807b5	Do you have any plans with ryan?	Cậu có kế hoạch gì với Ryan không?
+line:a0cf6cae	Do you know any cool places, people, I could hang around?	Cậu biết chỗ nào vui, hay ai thú vị để tôi đi chơi cùng không?
+line:412ba249	Do you know any good bars?	Cậu biết quán bar nào hay không?
+line:28ec716a	Do you know anyone I could talk to? Y'know... about relationship stuffs?	Cậu biết ai để tôi nói chuyện không? Kiểu... chuyện tình cảm ấy?
+line:21c0526b	Do you like being big?	Ông thích cơ thể to lớn không?
+line:daa040eb	Do you like purple?	Ông thích màu tím không?
+line:ef052302	Do you like purple?	Cậu thích màu tím không?
+line:d5ed3582	Do you make big dragons, <size=60%>like me, <size=100%>cum here?	Ở đây có làm cho rồng to, <size=60%>như tôi, <size=100%>bắn ra không?
+line:ec64a696	Do you mind double checking if I'm clean?	Cậu kiểm tra lại xem tôi sạch chưa nhé?
+line:647187f1	Do you want to say what happened...?	Anh muốn kể chuyện gì đã xảy ra không...?
+line:807df02d	Do you want to use it?	Ông muốn dùng không?
+line:5c42b85a	Doesn't mean I need to yell at you.	Đâu có nghĩa tôi phải quát cậu.
+line:eefa8ae2	Don't be sorry! Get a mount!	Đừng xin lỗi! Kiếm giá giao phối đi!
+line:dd0f7b1d	Don't worry, dragons are made to eat anything.	Đừng lo, rồng sinh ra để ăn mọi thứ.
+line:b90b01a9	Don't worry, he's real nice.	Đừng lo, cậu ấy rất tốt.
+line:7de2a81c	Don't worry. I will.	Đừng lo. Tôi sẽ kể.
+line:c29d4071	Don't... make it sound like that.	Đừng... nói bằng cái giọng đó.
+line:31bdd33c	Dont talk with your mouth full	Đừng nói khi miệng đang đầy.
+line:8ee41fdc	Dragon history is complex. Ornamental crest <size=85%> are often <size=70%> worn by dragons to <size=55%>signify what family they belong to! <size=40%> It's an interesting mark of their culutral <size=35%> and familial heritage. I've often wondered if I should continue to wear mine. <size=20%> But culutural and familiar ties are considered important within the lore of dragons! so I must adhere to such things. <size=10%> Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then everything changed when the Fire Nation attacked.	Lịch sử rồng rất phức tạp. Gia huy trang trí <size=85%> thường được <size=70%> rồng đeo để <size=55%>biểu thị mình thuộc dòng họ nào! <size=40%> Đó là dấu ấn thú vị của di sản văn hóa <size=35%> và gia đình. Tôi vẫn thường tự hỏi có nên tiếp tục đeo của mình không. <size=20%> Nhưng trong truyền thống rồng, gắn kết văn hóa và gia đình rất quan trọng! Vì thế tôi phải tuân theo. <size=10%> Thủy. Thổ. Hỏa. Khí. Ngày xưa, bốn quốc gia chung sống hòa thuận. Rồi mọi thứ thay đổi khi Hỏa Quốc tấn công.
+line:0a0e6773	Dragon stomachs are a bit more... robust than yours.	Dạ dày rồng hơi... khỏe hơn của cậu.
+line:7e352505	Dragons of the galaxy 2	Những Con Rồng Dải Ngân Hà 2
+line:c2c659d1	Eep!	Í!
+line:0bd1699e	Ehh..	Ờ...
+line:43dd32f5	Er... That's not-	Ờ... Không phải...
+line:93b60dce	Even so. Not this time	Nhưng dù sao, lần này thì không.
+line:573d9362	Even though you were just doing your job... I think it helped him a lot.	Dù cậu chỉ làm việc của mình... Tôi nghĩ nó giúp anh ấy rất nhiều.
+line:a2ba222e	Evening. This establishment takes walk ins, correct?	Chào buổi tối. Chỗ này nhận khách không hẹn trước, đúng chứ?
+line:f98c3b6c	Every ending here is special!	Kết thúc nào ở đây cũng đặc biệt!
+line:bfeaec15	Every self respecting wizard has a phoenix feather handy.	Pháp sư có lòng tự trọng nào cũng để sẵn một chiếc lông phượng hoàng.
+line:57df700d	Everyone's gaze carries an immense weight.	Ánh nhìn của mọi người đều mang sức nặng khủng khiếp.
+line:9ad8d2dd	Excellent!	Tốt quá!
+line:0c997163	Excellent.	Tốt lắm.
+line:1976bc60	Excellent. Then make sure to go greet your customer at the window.	Tốt lắm. Vậy nhớ đến cửa sổ chào khách nhé.
+line:7bbe7ee3	Expectations are laaaame.	Kỳ vọng chán ngắắắt.
+line:f99eb2ff	Ey! The mount! Fuck yeah.	Này! Cái giá! Đệt, tuyệt.
+line:d376acb9	Ey, so. Was thinkin'	Này, tôi đang nghĩ.
+line:85ec0862	Ey, sorry for coming in late.	Này, xin lỗi đến muộn.
+line:12e8ae42	Ey, Use your hands on my cock- it feels good!	Này, dùng tay với con cu tôi đi. Đã lắm!
+line:271a3846	Fair enough. I'll be waiting!	Cũng phải. Tôi chờ!
+line:4789095b	Fair enough. You two do seem cute together.	Cũng được. Hai người trông dễ thương bên nhau.
+line:f5b37855	Felt good sliding down though!	Nhưng cảm giác trôi xuống đã lắm!
+line:274367d7	Figured I'd bring in something nice after all you've done.	Sau mọi điều cậu làm, tôi muốn mang chút gì ngon đến.
+line:aae8afca	Fine with me!	Tôi không ngại!
+line:e98616be	For you!	Vì cậu!
+line:62a82aba	Found this one gryphon. About my size...	Gặp một anh điểu sư. Cỡ tôi...
+line:807fdc76	From what I've heard he sounds like he's improved a lot recently, yeah?	Nghe nói gần đây anh ấy cải thiện nhiều lắm nhỉ?
+line:803bf378	Fuck man, I'm so pumped.	Đệt, tôi phấn khích quá.
+line:f2418086	Fuck no! Shit's embarrassing.	Đéo muốn! Nhục chết đi được.
+line:a7ca3ca8	Fuck something and then get a handjob hopefully.	Đụ thứ gì đó rồi hy vọng được quay tay cho.
+line:203bce10	Fuuuck. You really know how to work a dragon!	Đệệệt. Cậu biết chiều rồng thật!
+line:f7f9b0db	G'day mate!	Chào bạn hiền!
+line:664c994e	Gave me time to think.	Cho tôi thời gian suy nghĩ.
+line:1d9b3531	Get a handjob and fuck this mount.	Được quay tay cho rồi đụ cái giá này.
+line:48afdce4	Give it to me!	Cho tôi đi!
+line:9df043ad	Give me a bit	Cho tôi chút nữa.
+line:e5c7f64a	Glad I'm here to remind you then.	Vậy mừng là tôi đến nhắc cậu.
+line:354170aa	Go for it!	Cứ ra đi!
+line:2d0b6b06	Goin' downtown tonight. Needed to be spotless. Say...	Tối nay đến trung tâm. Phải sạch không tì vết. Này...
+line:dcb506d2	Good as!	Quá tốt!
+line:bcbc6373	Good evening!	Chào buổi tối!
+line:607a5c47	Good, I can't be having the Burnswick Community College of Thaumaturgy know that their best professor Alexander has caused another incident.	Tốt. Tôi không thể để Cao đẳng Cộng đồng Pháp thuật Burnswick biết giáo sư giỏi nhất của họ, Alexander, lại gây ra sự cố.
+line:12b72085	Good, you better. If I come back and there isn't one...	Tốt, nhớ đấy. Nếu tôi quay lại mà vẫn chưa có...
+line:2c851dad	Good.	Tốt.
+line:2712436c	Good. 'Aight, let me out.	Tốt. Rồi, cho tôi ra.
+line:bab51ada	Good... That'd be correct.	Được... Đúng là vậy.
+line:44f2b8cf	Goodbye!	Tạm biệt!
+line:a8e6ac2a	Goodness, thanks to you I have a chance at redeeming this situation.	Trời đất, nhờ cậu tôi còn có cơ hội cứu vãn.
+line:745c3c12	Gosh!	Trời ơi!
+line:6b5c6564	Gotta <i>practice</i> for Ryan if you catch what I mean.	Phải <i>luyện tập</i> cho Ryan, hiểu ý tôi chứ.
+line:e3cef2bc	Gotta make sure you're spotless!	Phải đảm bảo anh sạch không tì vết!
+line:b01b2159	Great, so uh,	Tuyệt, vậy, ừm...
+line:43c94954	Grouse as! Excited to see you work!	Đỉnh thật! Mong được xem cậu làm!
+line:9de16ee9	Ha!	Ha!
+line:88d7e1e2	Haah. This is the best fuckin' wash.	Hà... Đây là chỗ tắm đã nhất mẹ nó luôn.
+line:cc6e7856	Hah! There's the mount!	Ha! Cái giá đây rồi!
+line:90dd6d9d	Hah, eager as always.	Ha, vẫn nhiệt tình như mọi khi.
+line:9542e7a6	Hah, good. Let's break this thing in!	Ha, tốt. Khai trương nó nào!
+line:fe21109b	Hah, he seems like the wild type.	Ha, trông anh ấy đúng là kiểu hoang dã.
+line:e8bc1d95	Hah, I imagine it would be.	Ha, tôi cũng đoán vậy.
+line:acbf628d	Hah, it is a motivator.	Ha, đúng là động lực.
+line:65b23418	Hah, okay. I'm game.	Ha, được. Tôi đi.
+line:058d9d5c	Hah, yeah. Conrad is definitely experienced...	Ha, ừ. Conrad chắc chắn có kinh nghiệm...
+line:8b878971	Hah, yeah. He sounds fun.	Ha, ừ. Nghe có vẻ thú vị.
+line:e3ed51d9	Hah. Conrad, you look good too.	Ha. Conrad, anh cũng đẹp.
+line:f8b2e23b	Hah. Fine.	Ha. Được thôi.
+line:ea23c5f9	Hah. If only there was a kobold that could clean me.	Ha. Giá mà có một kobold tắm cho tôi.
+line:c9bb2a93	Hah. Yeah. <size=70%><i>It's cool that you learn to jerk off dragons in cleaning school...	Ha. Ừ. <size=70%><i>Hay thật, trường dạy tắm rửa còn dạy quay tay cho rồng...
+line:50a559bb	Hah... <size=70%> yeah.	Ha... <size=70%>Ừ.
+line:4d4d9986	Hah... Gonna jerk me off now? That's fine.	Ha... Giờ quay tay cho tôi à? Được thôi.
+line:4e920759	Hah... Yeah I'm excited.	Ha... Ừ, tôi háo hức.
+line:b36365ce	Hah... Yeah...	Ha... Ừ...
+line:b8724c64	Hah... you do like that noise.	Ha... Cậu thích kêu thế thật.
+line:c8cde395	Haha, 'Yip' indeed.	Haha, đúng là «chíp».
+line:680991cf	Haha, yes. Happy to see you.	Haha, phải. Rất vui được gặp cậu.
+line:4c27b031	Haha, you certainly are!	Haha, đúng là cậu rồi!
+line:c3a2e14e	Haha, you certainly are!	Haha, đúng là cậu rồi!
+line:9ec40945	Haha. 'Yip' to you too.	Haha. Cũng «chíp» lại với cậu nhé.
+line:5e91e0a7	Haha... Yeah. I'm not really used to complimenting.	Haha... Ừ. Tôi không quen khen người khác lắm.
+line:44689f21	Happy to be back.	Vui được quay lại.
+line:2672f65d	Happy to be here.	Vui được đến đây.
+line:192fcb8e	Happy to get it off.	Mừng được rửa sạch.
+line:3517b28e	Have a productive day.	Chúc một ngày làm việc hiệu quả.
+line:7c1adc57	He called me, we met up. He's really damn nice.	Cậu ấy gọi, chúng tôi gặp nhau. Cậu ấy tốt thật sự.
+line:e71f9a0b	HE DIED!?	ÔNG ẤY CHẾT RỒI!?
+line:ed6c9afb	He hadn't been... Well, cared about in a long time from what I could gather.	Theo tôi hiểu, đã lâu lắm rồi anh ấy không... được quan tâm.
+line:de25de6e	He just... Knew what to say to snap me out of all that.	Cậu ấy cứ... biết phải nói gì để tôi tỉnh ra.
+line:a035a3fd	He prefers 'vertically challenged'... But yes.	Anh ấy thích gọi là «hạn chế chiều cao» hơn... Nhưng đúng.
+line:04b29e42	He really is.	Đúng vậy.
+line:c7e1b369	He really is.	Đúng vậy.
+line:c64bd5ce	He said I was chill, we planned a date...	Cậu ấy bảo tôi dễ chịu, rồi chúng tôi lên kế hoạch hẹn...
+line:e8a91447	He's a lot. But, I like it.	Anh ấy hơi dữ dội. Nhưng tôi thích.
+line:a7181b1a	He's a red dragon. I think you two would like eachother!	Anh ấy là rồng đỏ. Tôi nghĩ hai người sẽ thích nhau!
+line:8245fe2b	He's already back to work. Thanks for helping with all that.	Ông ấy đã đi làm lại rồi. Cảm ơn cậu giúp xử lý mọi chuyện.
+line:aaea8391	He's been way nicer recently.	Gần đây anh ấy tốt hơn nhiều.
+line:7363c004	He's great.	Anh ấy tuyệt lắm.
+line:c13d4e24	He's hot.	Cậu ấy hấp dẫn lắm.
+line:675d7e37	He's like. SUPER hung.	Anh ấy có hàng SIÊU to.
+line:7deb9fff	He's like... a big softy surrounded by sharp pointy bits.	Anh ấy như... một người mềm lòng nằm giữa toàn gai nhọn.
+line:800c553d	He's my dream dragon.	Cậu ấy là con rồng trong mơ của tôi.
+line:4b3c70d9	He's snappy, but tender too!	Anh ấy hơi cộc, nhưng cũng dịu dàng!
+line:31281c6d	He's this REALLY cute red drake who goes to the wash!	Một con rồng đỏ CỰC KỲ dễ thương hay đến tắm!
+line:4c11c83e	He's tiny, I like being eye level with him.	Anh ấy nhỏ, tôi thích được nhìn ngang tầm mắt.
+line:b9ce2f3c	He's... Considerate. Real understanding too.	Cậu ấy... chu đáo. Cũng rất thấu hiểu.
+line:8e9e0f98	Heard about you and the big blue guy. Ryan was it?	Nghe chuyện cậu với anh chàng xanh bự rồi. Ryan nhỉ?
+line:ca4a9672	Heeeey Ryan.	Chàoooo Ryan.
+line:24ce37ec	Heeeey.	Chàoooo.
+line:bb70c1ed	Heh. Yeah.	Heh. Ừ.
+line:3fa80829	Heh. Yeah. I like you too.	Heh. Ừ. Tôi cũng thích cậu.
+line:20393ff6	Heh. Yeah. That's me.	Heh. Ừ. Tôi đây.
+line:ac769d93	heh.. yea.. sorry..	Heh... Ừ... Xin lỗi...
+line:5246ceea	Heh... alright.	Heh... Được thôi.
+line:75fef5cb	Heh... Damn right.	Heh... Chuẩn luôn.
+line:5f0edcb2	Heh... Handsy today, huh?	Heh... Hôm nay thích động tay nhỉ?
+line:2f55b3aa	Hehe	Hehe.
+line:7e991330	Hehe yeah.	Hehe, ừ.
+line:3223473f	Hehe, I'm excited to get into the dating scene again.	Hehe, tôi mong quay lại hẹn hò lắm.
+line:4a137220	Hehe, thanks. It has stuff that should be good for both of us.	Hehe, cảm ơn. Có mấy món chắc hợp với cả hai ta.
+line:1a3e2a73	Hell yea	Đệt, tuyệt!
+line:93f67490	Hell yeah	Đệt, được đấy.
+line:389e4033	Hell yeah I did!	Đương nhiên rồi, đệt!
+line:17dbb9b7	Hell yeah.	Đệt, tuyệt.
+line:4b7b33d9	Hello!	Xin chào!
+line:c3d3da41	Hello!	Xin chào!
+line:4183ca7e	Hello, <i>'Drag'n wash franchise 223'...</i> Have you figured out how to interact yet?	Xin chào, <i>«chi nhánh Drag'n'wash số 223»...</i> Bạn đã biết cách tương tác chưa?
+line:a99c515c	Hello, <i>'Drag'n wash franchise 223'...</i> Have you spoken to your first customer yet?	Xin chào, <i>«chi nhánh Drag'n'wash số 223»...</i> Bạn đã nói chuyện với vị khách đầu tiên chưa?
+line:b7cce838	Hello.	Xin chào.
+line:a8779ebf	Hello?	Có ai không?
+line:dd4b34ae	Hello?	Có ai không?
+line:1954aab7	Help the developers out please..	Hãy giúp nhà phát triển nhé...
+line:db9c3a5c	Help the developers out please..	Hãy giúp nhà phát triển nhé...
+line:f7f7f5a1	Help the developers out please..	Hãy giúp nhà phát triển nhé...
+line:fc461784	Help the developers out please..	Hãy giúp nhà phát triển nhé...
+line:ee3398a6	Hey big guy.	Chào anh bạn bự.
+line:0090c7b0	Hey Conrad!	Chào Conrad!
+line:3d0a5aeb	Hey Conrad!	Chào Conrad!
+line:a2b4acea	Hey conrad!	Này Conrad!
+line:975a629f	Hey Conrad.	Chào Conrad.
+line:21235886	Hey could you come up front where I can see you?	Này, cậu ra phía trước để tôi thấy nhé?
+line:533532c4	Hey fine by me!	Này, tôi không ngại!
+line:1538bc7e	Hey good lookin'	Chào người đẹp.
+line:0121c874	Hey hey. Glad you're open.	Này này. Mừng là cậu mở cửa.
+line:71b651dd	Hey I have something to say!	Này, tôi muốn nói vài câu!
+line:0d4e0ecf	Hey kobold!	Chào kobold!
+line:af3f02c9	Hey Ryan, what do you have there?	Này Ryan, cậu có gì đó?
+line:6374414d	Hey thanks for being here for me...	Này, cảm ơn vì ở bên tôi...
+line:bf5ff483	Hey there, happy to be back.	Chào, vui được quay lại.
+line:c38b7fa6	Hey there, Ryan!	Chào cậu, Ryan!
+line:2d5fc8a2	Hey there- Maybe you can get 'hands on' later?	Này... Chuyện «động tay» để sau được không?
+line:1b6c7f75	Hey there.	Chào cậu.
+line:5dacf226	Hey there.	Chào cậu.
+line:82698bd1	Hey there.	Chào cậu.
+line:ab3a5d9c	Hey there.	Chào.
+line:3d2bc74e	Hey uh, do you think Ryan and I will <i>actually</i> work out?	Này, cậu nghĩ tôi với Ryan <i>thật sự</i> sẽ đến được với nhau chứ?
+line:04501155	Hey uh, I just need a cleaning.	Này, ừm, tôi chỉ cần tắm.
+line:2a29842a	Hey uh... Not now.	Này, ừm... Không phải bây giờ.
+line:8caa3196	Hey uhm, thanks once again.	Này, ừm, cảm ơn lần nữa nhé.
+line:5c7a9105	Hey!	Chào!
+line:eed2cc64	Hey!	Chào!
+line:2f3f5508	Hey! He's just... 'vertically challenged'.	Này! Anh ấy chỉ... «hạn chế chiều cao» thôi.
+line:55bb78d1	Hey! I'm here for a wash.	Chào! Tôi đến tắm.
+line:33480903	Hey, Alexander!	Chào Alexander!
+line:21fcef4f	Hey, Alexander.	Chào ông, Alexander.
+line:14598ca6	Hey, big guy!	Chào anh bạn bự!
+line:e7353d24	Hey, I've got a question for you.	Này, tôi có câu hỏi.
+line:674877e5	Hey, nothin' wrong with asking!	Này, hỏi thì có gì sai!
+line:d2589856	Hey, welcome back!	Chào, mừng ông quay lại!
+line:0d3e4054	Hey.	Chào cậu.
+line:aa0dda7b	Hey.	Này.
+line:7f2e2736	Hey... little guy!	Chào... anh bạn nhỏ!
+line:933efa6d	Hi again!	Lại chào cậu!
+line:873a2b9a	Hi again..	Lại chào cậu...
+line:83ac5b68	Hi Conrad.	Chào Conrad.
+line:050efd1a	Hi, Ryan!	Chào Ryan!
+line:06ed6aea	Hiiiii! Hiii!	Chàoooo! Chào!
+line:5a632b75	His physical form is currently reconstituting in the staff lounge.	Cơ thể ông ấy đang tái tạo trong phòng nghỉ giảng viên.
+line:6bd91ca7	Hm, I think I'll pass on the mount.	Ừm, chắc tôi không dùng giá giao phối đâu.
+line:370d719b	Hm?	Hửm?
+line:3c3ddd0c	Hm?	Hửm?
+line:44658d73	Hmm...	Hừm...
+line:bf059ff3	Hmm...	Hừm...
+line:730b1ca4	Hmm?	Hử?
+line:fc571337	Hmmm, maybe something else?	Hừm, hay món khác?
+line:19207e44	Hold on a little longer for me?	Ông cố giữ thêm chút vì tôi nhé?
+line:f2ae89c4	Honestly, I'm surprised how nice this is.	Thật tình, không ngờ lại dễ chịu thế này.
+line:a2ff0176	Hope it went well.	Mong là mọi chuyện tốt đẹp.
+line:b17360a0	Hope that's alright?	Hy vọng không sao chứ?
+line:ae08853f	Hope you're doing alright!	Mong cậu vẫn ổn!
+line:e1fa2461	Hopefully! I'll go get the gate.	Mong vậy! Tôi mở cổng.
+line:99931b37	Hopefully.	Hy vọng thế.
+line:d9c91bca	How about you though? have you been seeing anyone?	Còn cậu thì sao? Có đang gặp ai không?
+line:4ec92454	How about you? Anyone exciting?	Còn anh? Có ai thú vị không?
+line:86bde306	How are you with seafood?	Cậu thấy hải sản thế nào?
+line:7fb611c9	How come you brought this all in?	Sao cậu mang tất cả đến đây?
+line:af0d0972	How come you're covered in ink?	Sao ông dính đầy mực vậy?
+line:e385b7f3	How did it go?	Thế nào rồi?
+line:c0161bbc	How did it taste?	Vị thế nào?
+line:262b262e	how do I get in?	Làm sao để vào trong?
+line:676b0638	how do I get in?	Làm sao để vào trong?
+line:8308bb09	How do I look?	Trông tôi thế nào?
+line:4f172746	How do you even digest that?	Sao cậu tiêu hóa được thế?
+line:28d390ac	How so?	Cụ thể là thế nào?
+line:4ef9fe65	How so?	Cụ thể là thế nào?
+line:ea66b5af	How so?	Nghĩ thế nào?
+line:4b29790b	How was the sex.	Làm tình thế nào?
+line:7736270c	How was your date with Conrad?	Buổi hẹn với Conrad thế nào?
+line:18d418ab	However, it's ornamental! My family crest. You see...	Nhưng nó là đồ trang trí! Gia huy của nhà tôi. Cậu biết đấy...
+line:1f250062	However, My <i>image</i> is far more permanent than Igwyx's fleeting physical forms.	Tuy nhiên, <i>hình ảnh</i> của tôi lâu bền hơn nhiều so với những cơ thể phù du của Igwyx.
+line:ae34381b	However, that respect comes with an expectation to act as I look. It's incredibly stressful.	Nhưng sự tôn trọng ấy đi kèm kỳ vọng tôi phải cư xử đúng với vẻ ngoài. Căng thẳng vô cùng.
+line:d2baf9e2	However...	Tuy nhiên...
+line:fb8401c3	Huff...	Phù...
+line:b54ee04d	huff... Thank you for that.	Phù... Cảm ơn về chuyện đó.
+line:16420ca7	Huff... Thanks for that.	Phù... Cảm ơn nhé.
+line:45507089	Huff... That was nice... Made a bit of a mess though.	Phù... Đã thật... Nhưng hơi bừa bộn rồi.
+line:ae83cfb6	huh...?	Hả...?
+line:0c78b56b	Huh?	Hả?
+line:e96114a2	Huh? ofcourse not!	Hả? Tất nhiên không phải!
+line:836c079c	I <i>think </i> I must've spilled an inkwell <i>on the way here</i>. Rather clumsy of me!	Tôi <i>nghĩ</i> chắc đã làm đổ lọ mực <i>trên đường đến đây</i>. Vụng về thật!
+line:d37175c7	I act tough but am a small dragon...	Tôi tỏ ra cứng rắn, nhưng chỉ là một con rồng nhỏ...
+line:b4e27683	I agree	Tôi đồng ý.
+line:68ebf07b	I allowed him, as my stature provides ample height.	Tôi cho phép, vì tầm vóc của tôi đủ cao.
+line:a051821a	I already feel a lot better.	Tôi đã thấy đỡ hơn nhiều rồi.
+line:49bfbfbe	I already have spot at the club reserved.	Tôi đặt chỗ ở câu lạc bộ rồi.
+line:14ff4edd	I always do~	Lúc nào tôi chẳng hăng thế~
+line:b05c6259	I always look forward to seeing you. I'll go get the gate.	Lúc nào tôi cũng mong gặp cậu. Tôi mở cổng.
+line:52bf5ede	I am THE kobold. Yip!	Tôi chính là KOBOLD ĐÓ. Chíp!
+line:141c006f	I am too.	Tôi cũng vậy.
+line:363f6f6a	I am too.	Tôi cũng vậy.
+line:405b9622	I am too.	Tôi cũng vậy.
+line:d4c5faea	I am too.	Tôi cũng vậy.
+line:556897bf	I am! Even better now that you're here.	Tôi ổn! Ông đến thì còn tốt hơn.
+line:e499b2cc	I am.	Có.
+line:5ec8bb55	I believe that's in part because of you.	Tôi nghĩ một phần là nhờ cậu.
+line:9883786d	I booked the night.	Tôi thuê cả đêm rồi.
+line:eae85bf9	I broke up with my partner...	Tôi chia tay bạn gái rồi...
+line:ffcfee20	I brought watermelon, bread, grapes, and some other stuff.	Tôi mang dưa hấu, bánh mì, nho và vài thứ nữa.
+line:e8aa18f4	I can digest pretty much anything.	Tôi tiêu hóa được gần như tất cả.
+line:7f543c2a	I can let loose whenever you are ready	Tôi có thể xả ra khi cậu sẵn sàng.
+line:c83a6a0d	I can't believe Igwix would make a mistake like this!	Không thể tin Igwix lại mắc lỗi thế này!
+line:e051a79e	I consider you a good friend too	Tôi cũng coi cậu là bạn thân.
+line:f382336f	I could get us the <i>nicest</i> spots for their show.	Tôi lấy được chỗ <i>đẹp nhất</i> để xem biểu diễn.
+line:2602b8c6	I could use a wash.	Tôi cần tắm một chút.
+line:c66153d3	I couldn't help but notice the... device over there.	Tôi không thể không chú ý đến... thiết bị đằng kia.
+line:b71f0756	I decided to try baking.	Tôi quyết định thử làm bánh.
+line:e62b989c	I decided to try baking.	Tôi quyết định thử làm bánh.
+line:efea7148	I decided to try baking.	Tôi quyết định thử làm bánh.
+line:98f800d3	I didn't know anyone could like me that much so easily.	Tôi không biết ai có thể dễ dàng thích mình đến vậy.
+line:4116f001	I didn't know what the button did.	Tôi không biết nút đó làm gì.
+line:7a5c7f54	I didn't mean to fluster you!	Tôi không định làm cậu bối rối!
+line:55542a9b	I do enjoy the color. Though I believe its unrelated to my own hue.	Tôi thích màu đó. Dù tôi nghĩ chẳng liên quan đến màu da của mình.
+line:f9c800f2	I do!	Có chứ!
+line:ad9c1ada	I do. But, what happened?	Có. Nhưng đã xảy ra chuyện gì?
+line:a45ccf3a	I don't believe I can hold back any longer	Tôi không nghĩ mình nhịn thêm được.
+line:8c6e1cd3	I don't get it! Why do I have to act this way?	Tôi không hiểu! Sao cứ phải cư xử thế này?
+line:cc4e48a3	I don't know where they went but I feel dirty again.	Không biết nhà giả kim ấy đi đâu, nhưng tôi lại thấy bẩn.
+line:71127249	I don't mean to be rude, but I must decline	Tôi không có ý bất lịch sự, nhưng phải từ chối.
+line:f5696cc4	I don't need to tell you.	Tôi không phải kể cho cậu.
+line:878fc94c	I don't understand..	Tôi không hiểu...
+line:4f3d31f8	I don't want your pitty!	Tôi không cần cậu thương hại!
+line:8fc36ab7	I enjoy being a part of so many individuals lives in a positive way.	Tôi thích việc mình góp phần tích cực vào cuộc sống của nhiều cá nhân.
+line:14653182	I enjoy parts of it. The respect is pleasant...	Có những mặt tôi thích. Được tôn trọng thì dễ chịu...
+line:bd4bb1b9	I enjoy that I do not fear failure around you.	Tôi thích việc ở bên cậu, tôi không sợ thất bại.
+line:c108ed4f	I enjoy when you tell me what to do with a pat of your hand.	Tôi thích khi cậu vỗ tay lên người để bảo tôi phải làm gì.
+line:6db406b4	I enjoyed this quite a lot.	Tôi rất thích chuyện này.
+line:e838533b	I feel as I could say anything to you.	Tôi thấy mình có thể nói với cậu bất cứ điều gì.
+line:9b9567ec	I feel much better.	Tôi thấy khá hơn nhiều.
+line:ed6be68f	I feel spotless as always.	Lúc nào cũng thấy sạch không tì vết.
+line:938be2fb	I forget the ignorance of a layman. I apologize.	Tôi quên mất người ngoài ngành không biết chuyện này. Xin lỗi.
+line:63837f22	I forgot to bite into it so... Nothing?	Tôi quên cắn, nên... chẳng có vị gì?
+line:fe3484ea	I get how you'd feel that way after a breakup, yeah.	Ừ, tôi hiểu sau chia tay cậu sẽ cảm thấy thế.
+line:adf1550f	I give my other bipedal friends rides all the time.	Tôi vẫn thường chở các bạn hai chân khác.
+line:9a68366f	I got a mount.	Tôi có giá giao phối rồi.
+line:78a54cae	I got back home a bit dirty. And she yelled at me.	Tôi về nhà hơi bẩn. Thế là cô ấy quát tôi.
+line:22a9094a	I guess so!	Chắc vậy!
+line:28d6c0aa	I hate that I'm always getting into situations like this.	Tôi ghét việc mình cứ vướng vào chuyện thế này.
+line:366a7f73	I have a question.	Tôi có một câu hỏi.
+line:82b63c18	I have something to say!	Tôi có chuyện muốn nói!
+line:fd68807c	I have to say, you did as good a job as private washers.	Phải nói là cậu làm tốt không kém người tắm rửa riêng.
+line:761f413a	I heard a loud bang	Tôi nghe tiếng nổ lớn.
+line:9d7cc63c	I heard a loud bang, I don't think Igwix made it.	Tôi nghe tiếng nổ lớn. Chắc Igwix không qua khỏi.
+line:7ede5030	I heard there was kobolds down here that could wash me up?	Tôi nghe nói dưới này có kobold tắm rửa cho tôi được?
+line:efb2d4af	I heard there were kobolds down here that could wash me up?	Tôi nghe nói dưới này có kobold có thể tắm rửa cho tôi?
+line:2f9b499a	I honestly don't know how you are doing that.	Thật lòng tôi không hiểu sao cậu làm được.
+line:6f5dbc90	I hope he's okay too.	Tôi cũng mong anh ấy ổn.
+line:cd0197ed	I hope I can learn from that.	Mong tôi học được điều đó.
+line:cf50dbcc	I hope it all works out.	Mong mọi chuyện suôn sẻ.
+line:b2dfad3e	I hope so.	Tôi hy vọng vậy.
+line:0477b0d7	I hope so. I really want a fresh start with someone.	Mong thế. Tôi thật sự muốn bắt đầu lại với ai đó.
+line:7429dab7	I hope that you'll help me prove them wrong!	Mong cậu giúp tôi chứng minh không phải!
+line:be5feb3e	I hope things get better.	Mong mọi chuyện sẽ khá hơn.
+line:114ac9a0	I hope you're right.	Mong cậu nói đúng.
+line:06744c7e	I just don't like that she takes it out on me.	Tôi chỉ không thích bị cô ấy trút giận.
+line:1fb02179	I just don't like that she takes it out on me.	Tôi chỉ không thích bị cô ấy trút giận.
+line:c8a1e7d0	I Just need a quick wash... Maybe the mount would be nice too.	Tôi chỉ cần tắm nhanh... Có lẽ dùng giá một chút cũng được.
+line:95ff1bed	I just wish for you to ask me a question. Any question.	Tôi chỉ muốn cậu hỏi tôi một câu. Câu nào cũng được.
+line:f716a163	I knew you were too busy, so I figured I'd bring the date to you!	Biết cậu bận quá nên tôi mang buổi hẹn đến luôn!
+line:2461773d	I knew you'd have my back	Tôi biết cậu sẽ bênh tôi.
+line:6a671440	I know a decent equine-kin place by the pier.	Tôi biết một quán của tộc ngựa khá ngon gần bến tàu.
+line:50102b85	I know he can be a bit hot headed and forget to thank folks.	Tôi biết anh ấy hơi nóng tính và hay quên cảm ơn.
+line:83c55e2e	I know things can be tough.	Tôi biết đôi khi mọi chuyện rất khó khăn.
+line:2ffb026d	I know you need to close down shop. I'll make sure you get the address and we can meet up there, yeah?	Tôi biết cậu cần đóng tiệm. Tôi sẽ gửi địa chỉ, rồi gặp nhau ở đó nhé?
+line:ded99a0c	I know, I'll reserve your spot!	Tôi biết, tôi giữ chỗ cho cậu!
+line:59e503b2	I know. But the ability to open up to someone, even occasionally-	Tôi biết. Nhưng được mở lòng với ai đó, dù chỉ đôi lúc...
+line:d30ffec9	I know. I know I shouldn't be dumping this on you.	Tôi biết. Tôi biết không nên trút hết lên cậu.
+line:875048ca	I know. I know.	Tôi biết. Tôi biết.
+line:7b59e4d6	I like how sure of yourself you are. Even if it just has to do with washing.	Tôi thích sự tự tin của cậu. Dù chỉ là chuyện tắm rửa.
+line:46061aae	I like it! I think you'd enjoy it too.	Tôi thích lắm! Chắc cậu cũng thích.
+line:f4ad8ea6	I like taking care of you.	Tôi thích chăm sóc ông.
+line:8ffedb47	I like the mount you chose. Mind grabbing it?	Tôi thích cái giá cậu chọn. Lấy ra nhé?
+line:5c86951f	I like you a lot.	Tôi rất thích cậu.
+line:a91980fc	I like you for who you are.	Tôi thích con người thật của ông.
+line:bdca3e1b	I like... him.	Tôi thích... anh ấy.
+line:2b65bf83	I love bubbles, they tickle!	Tôi thích bọt, nhột lắm!
+line:f8a4f404	I mean it. Really.	Tôi nói thật. Thật lòng.
+line:ae719afc	I need to be better. I <i>want </i>to be better.	Tôi cần tốt hơn. Tôi <i>muốn</i> tốt hơn.
+line:a0373456	I need to be spotless. Seems that's what you're for. <size=70%> Ha.	Tôi cần sạch bong. Chắc việc của cậu là thế. <size=70%>Ha.
+line:3da2dd1d	I never expected myself to confide such embarrassing things in someone.	Tôi chưa từng nghĩ mình sẽ tâm sự chuyện đáng xấu hổ thế này với ai.
+line:0c986dec	I never expected you to be the type to be so messy!	Tôi không ngờ ông lại để mình bẩn thế này!
+line:95db900b	I never miss a spot.	Tôi không bỏ sót chỗ nào.
+line:d620d41a	I never thought someone like him would be my type...	Tôi chưa bao giờ nghĩ người như cậu ấy lại là gu của mình...
+line:67592de1	I probably need to head out though.	Nhưng chắc tôi phải đi rồi.
+line:e41c6dc5	I really do hope it all works out!	Tôi thật sự mong mọi chuyện suôn sẻ!
+line:a722aada	I really think it was this time...	Lần này tôi thật sự nghĩ là lỗi của mình...
+line:e80e5edd	I see what you're doing, thank you.	Tôi hiểu ý cậu rồi, cảm ơn.
+line:cc6ec337	I see..	Ra vậy...
+line:d57520b1	I seem to have gotten myself covered in ink!	Hình như tôi làm mình dính đầy mực rồi!
+line:3b161cf3	I still need more!	Tôi vẫn cần thêm!
+line:47dc71f3	I suppose I understand disliking the mess it may cause.	Tôi hiểu vì sao cậu không thích cảnh bẩn thỉu do mưa gây ra.
+line:234ccfda	I suppose it depends on the circumstances.	Chắc còn tùy hoàn cảnh.
+line:910706c0	I think a movie could be fun!	Tôi nghĩ xem phim sẽ vui!
+line:99bbb171	I think he was in a bad environment. He's doing better now.	Tôi nghĩ môi trường trước đây không tốt. Giờ anh ấy khá hơn.
+line:9247b7a0	I think he'd like the new you!	Tôi nghĩ cậu ấy sẽ thích con người mới của anh!
+line:f4982dcd	I think he's got a crush on me.	Chắc anh ấy thích tôi.
+line:fc6fdd10	I think I can still feel some explosion grime on me...	Chắc tôi vẫn còn dính ít bẩn từ vụ nổ...
+line:4efc873f	I think I like being taken care of?	Tôi nghĩ mình thích được chăm sóc?
+line:f5d36d9a	I think I might be close..	Chắc tôi sắp rồi...
+line:52fc4e08	I think I'd like that!	Chắc tôi sẽ thích đấy!
+line:5c78099a	I think I'd like to meet him!	Tôi nghĩ mình muốn gặp anh ấy!
+line:14e0edf6	I think I'd like to try!	Tôi nghĩ mình muốn thử!
+line:164df75a	I think I'd like to use it?	Tôi nghĩ mình muốn dùng?
+line:4f6168aa	I think I'd like to use it?	Tôi nghĩ mình muốn dùng?
+line:ab314624	I think I'd like to?	Tôi nghĩ mình muốn thử?
+line:170c6aa3	I think I'd like you to be that someone aswell.	Tôi nghĩ mình cũng muốn cậu là người đó.
+line:8f46bb17	I think I've got it!	Chắc tôi biết rồi!
+line:a5e128e0	I think she's upset about something else...	Tôi nghĩ cô ấy bực vì chuyện khác...
+line:bc2545e7	I think she's upset about something else...	Tôi nghĩ cô ấy bực vì chuyện khác...
+line:335c5156	I think so!	Tôi nghĩ vậy!
+line:3292625e	I think that would make a decent place! They put on good shows every night.	Tôi nghĩ chỗ đó hợp đấy! Tối nào cũng có biểu diễn hay.
+line:eaafe671	I think you got every spot!	Chắc cậu làm sạch hết rồi!
+line:1760e5d5	I think you got every spot.	Chắc cậu đã làm sạch mọi chỗ.
+line:341175f7	I think you got every spot.	Chắc cậu đã làm sạch mọi chỗ.
+line:770e7473	I think you got every spot.	Chắc cậu đã làm sạch mọi chỗ.
+line:f4a8f7fc	I think you helped him a lot more than you realize.	Tôi nghĩ cậu đã giúp anh ấy nhiều hơn cậu tưởng.
+line:f28fd15d	I think you missed a few spots still...	Chắc cậu vẫn bỏ sót vài chỗ...
+line:77509e74	I think you're cool too. Self improvement is hard.	Tôi cũng thấy anh tuyệt. Thay đổi bản thân đâu dễ.
+line:763c6a82	I think you're good looking.	Tôi thấy ông đẹp.
+line:69e7dbb3	I think you're pretty cool, Conrad.	Tôi thấy anh khá tuyệt mà, Conrad.
+line:9c393f61	I think you're special too.	Tôi cũng thấy anh đặc biệt.
+line:7d5ae3b4	I usually make do with a hose down at home...	Bình thường tôi chỉ xịt vòi nước ở nhà cho xong...
+line:c4fc9b28	I wanna talk face to face!	Tôi muốn nói chuyện mặt đối mặt!
+line:548dc375	I want to be more open. It feels good.	Tôi muốn cởi mở hơn. Cảm giác rất tốt.
+line:e02f464d	I was helping the alchemist reach a high shelf	Tôi đang giúp nhà giả kim với tới kệ cao.
+line:fa97376e	I was helping the alchemist reach a high shelf	Tôi đang giúp nhà giả kim với tới kệ cao.
+line:bb015b1b	I was romping around the forest	Tôi chạy nhảy trong rừng.
+line:78e2cb13	I was thinking about what you said,	Tôi nghĩ về lời cậu nói.
+line:b8282714	I was thinking.	Tôi đang nghĩ.
+line:ca616238	I was thinking. We could go out some time next week?	Tôi nghĩ tuần sau ta có thể đi chơi hôm nào đó?
+line:a13d76ec	I was thinking...	Tôi đang nghĩ...
+line:c1a4edf0	I wasn't making her happy either.	Cô ấy ở bên tôi cũng chẳng hạnh phúc.
+line:a4214fe6	I went out of my way for a discrete washing, I was sure I wasn't followed.	Tôi đã cất công tìm chỗ tắm kín đáo, cứ chắc rằng không ai theo mình.
+line:db5cd152	I went out with some friends.	Tôi đi chơi với vài người bạn.
+line:b6b9dc33	I will pay double. Triple- This is a job only you can do!	Tôi trả gấp đôi. Gấp ba! Việc này chỉ cậu mới làm được!
+line:0c31345e	I will, thanks.	Tôi sẽ ghé, cảm ơn.
+line:fa41daf4	I will. I just need a quick wash, and wouldn't mind using the mount today.	Sẽ kể. Tôi chỉ cần tắm nhanh, hôm nay cũng muốn dùng giá.
+line:399457b7	I wish it was easy as it is in movies.	Ước gì mọi chuyện dễ như trong phim.
+line:2185f08c	I won't.	Tôi không kể đâu.
+line:45950848	I would like that!	Tôi thích thế!
+line:099ec7fd	I would love to.	Tôi rất muốn.
+line:e6006cd6	I wouldn't mind!	Tôi không ngại đâu!
+line:81905be1	I'd like to go out to eat.	Tôi muốn ra ngoài ăn.
+line:75b152eb	I'd love to talk more, truly, but class is soon.	Tôi thật sự muốn trò chuyện thêm, nhưng sắp đến giờ lên lớp.
+line:2fe8a558	I'd love to!	Tôi rất sẵn lòng!
+line:87ba56cc	I'll be back again, yeah?	Tôi sẽ quay lại nhé?
+line:ca035ef2	I'll be back again. It's nice having you as a friend.	Tôi sẽ quay lại. Thật tốt khi có cậu làm bạn.
+line:0fcd9c26	I'll be back soon, yeah? Thanks for the wash.	Tôi sẽ sớm quay lại nhé? Cảm ơn đã tắm cho tôi.
+line:d9f422eb	I'll be waiting at the bar for you tonight!	Tối nay tôi chờ cậu ở quán bar!
+line:69dff2ec	I'll be waiting for the gate!	Tôi chờ cậu mở cổng!
+line:ae4d09f6	I'll be waiting for the gate!	Tôi chờ cậu mở cổng!
+line:ab616aac	I'll definitely keep this place in mind.	Chắc chắn tôi sẽ nhớ chỗ này.
+line:b122441b	I'll get one ordered I promise!	Tôi sẽ đặt một cái, hứa đấy!
+line:1642b6f1	I'll get out of your scales now. Thank you for the wash.	Giờ tôi không làm vướng chân cậu nữa. Cảm ơn đã tắm cho tôi.
+line:707d2693	I'll get out of your scales...	Tôi không làm vướng chân cậu nữa...
+line:ca480eed	I'll get you two in contact then.	Vậy tôi giúp hai người liên lạc nhé.
+line:59416000	I'll go get the gate for ya'	Tôi đi mở cổng cho cậu.
+line:6aa7ad03	I'll go get the gate for ya'	Tôi đi mở cổng cho cậu.
+line:2a6d7e7d	I'll go get the gate for you.	Tôi đi mở cổng cho anh.
+line:8107858d	I'll go get the gate for you.	Tôi đi mở cổng cho ông.
+line:d1755010	I'll go get the gate for you.	Tôi đi mở cổng cho cậu.
+line:4d692a01	I'll go get the gate.	Tôi đi mở cổng.
+line:a75bb519	I'll go get the gate.	Tôi đi mở cổng.
+line:8689a124	I'll happily get that for you.	Tôi rất vui được lấy nó cho ông.
+line:48e99d7b	I'll have to close up shop first-	Tôi phải đóng tiệm trước...
+line:f2b894e2	I'll have to reserve your spot while you close up.	Tôi sẽ giữ chỗ trong lúc cậu đóng tiệm.
+line:6c5e2459	I'll keep that in mind. I'm used to things being transactional.	Tôi sẽ ghi nhớ. Tôi quen với việc mọi thứ đều phải có qua có lại.
+line:956a0f47	I'll make sure to ask him next time I see him.	Lần tới gặp cậu ấy tôi sẽ hỏi.
+line:e64d21e4	I'll make sure to come back.	Nhất định tôi sẽ quay lại.
+line:7c9fe106	I'll make sure to get out of your scales.	Tôi không làm vướng chân cậu nữa.
+line:87006442	I'll make sure to tell others about this place	Tôi sẽ giới thiệu chỗ này với mọi người.
+line:1db78e06	I'll make sure to tell you how it goes, yeah?	Tôi sẽ kể cho cậu kết quả nhé?
+line:49b6a167	I'll make sure you're <i>spotless.	Tôi sẽ làm anh <i>sạch không tì vết.
+line:96981b61	I'll manage.	Tôi sẽ vượt qua.
+line:9aa97614	I'll need this to be swift, students won't teach themselves.	Tôi cần nhanh một chút, sinh viên đâu tự dạy mình được.
+line:9ef857c8	I'll need to resurrect Igwix, oh how embarrassing!	Tôi phải hồi sinh Igwix. Xấu hổ quá!
+line:90a9a98e	I'll see you next time I come in, yeah?	Hẹn lần tới tôi ghé nhé?
+line:d0f6a49a	I'll see you next time I come in, yeah?	Hẹn lần tới tôi ghé nhé?
+line:160bf40f	I'll start prepping for it.	Tôi bắt đầu chuẩn bị đây.
+line:8af64cb8	I'll take care of this, don't you worry.	Tôi sẽ lo chuyện này, đừng lo.
+line:e20c6391	I'll tell you in a bit. Could you just get the gate for now?	Lát nữa tôi kể. Giờ cậu mở cổng trước được không?
+line:04c62f9b	I'm <i>spotless</i>.	Tôi <i>sạch không tì vết</i>.
+line:629f8cff	I'm a bit of a big deal around there.	Tôi cũng có số má ở đó.
+line:d9272031	I'm a dragon.	Tôi là rồng.
+line:675e7284	I'm a rule breaker!	Tôi thích phá luật!
+line:afcd5586	I'm a... kobold.	Tôi là... kobold.
+line:5d41b5d6	I'm all dirty still!	Tôi vẫn bẩn khắp người!
+line:2f6eb3c3	I'm all soapy still!	Tôi vẫn đầy xà phòng!
+line:18707b19	I'm always happy to give you a wash!	Tôi luôn vui được tắm cho cậu!
+line:3b01eb3b	I'm always happy to give you a wash!	Tôi luôn vui được tắm cho cậu!
+line:d82b1a7d	I'm always happy to help. <i><size=70%> especially a big dragon.	Tôi luôn sẵn lòng giúp. <i><size=70%>Nhất là một con rồng to.
+line:46c6a3ed	I'm always happy to see you Ryan.	Tôi luôn vui được gặp cậu, Ryan.
+line:75206eee	I'm always happy to see you Ryan.	Tôi luôn vui được gặp cậu, Ryan.
+line:fa6e232e	I'm always happy to see you. I'll go get the gate for you.	Tôi luôn vui khi gặp ông. Tôi mở cổng cho ông nhé.
+line:07e5fc05	I'm amazed!	Tôi ấn tượng thật đấy!
+line:4586d55d	I'm an asshole. I know I am.	Tôi là thằng khốn. Tôi biết chứ.
+line:a6d46685	I'm certain he also finds you pleasant!	Chắc chắn anh ấy cũng thích ở bên cậu!
+line:ef399e26	I'm doing good!	Tôi vẫn ổn!
+line:a6c1f2f4	I'm excited for you!	Tôi cũng thấy háo hức thay cậu!
+line:94fbdbf0	I'm excited for you. I'll get the gate!	Tôi mừng cho anh. Tôi mở cổng!
+line:f83e4966	I'm excited to hear about it!	Tôi mong được nghe!
+line:bd55b8f4	I'm excited to see them washing down the drain though.	Nhưng cũng mong thấy chúng trôi xuống cống.
+line:24832f01	I'm excited.	Tôi háo hức lắm.
+line:69f406a6	I'm excited.	Tôi háo hức lắm.
+line:a00f681d	I'm excited.	Tôi háo hức lắm.
+line:a0479425	I'm excited.	Tôi háo hức lắm.
+line:b5d7d26f	I'm excited.	Tôi háo hức lắm.
+line:d66b9155	I'm excited.	Tôi háo hức lắm.
+line:4e1b1d0a	I'm glad you derive enjoyment from this as well.	Tôi mừng là cậu cũng thấy thích thú.
+line:5db47405	I'm glad you enjoy him. I'm certain he finds you pleasant.	Mừng là cậu thích anh ấy. Chắc anh ấy cũng thích ở bên cậu.
+line:c56ee060	I'm glad you enjoy my crest.	Mừng là cậu thích gia huy của tôi.
+line:f44a1493	I'm glad you trust me.	Tôi mừng vì ông tin tưởng tôi.
+line:3a2ed5ef	I'm glad you two are working out though.	Nhưng tôi mừng vì hai người tiến triển tốt.
+line:c0972e81	I'm glad you two are working out.	Tôi mừng vì hai người tiến triển tốt.
+line:34ba77b1	I'm glad you were able to make the choice that was best for you.	Mừng là cậu đã chọn được điều tốt nhất cho mình.
+line:d5a90e1c	I'm glad!	Tôi mừng lắm!
+line:286fec49	I'm glad.	Tôi mừng lắm.
+line:42f5fd9d	I'm glad.	Tôi mừng lắm.
+line:99b6dc81	I'm glad.	Tôi mừng lắm.
+line:570d4953	I'm happy for you!	Tôi mừng cho cậu!
+line:ac6d5bd3	I'm happy for you!	Tôi mừng cho cậu!
+line:ed5c40ca	I'm happy for you!	Tôi mừng cho cậu!
+line:79099951	I'm happy to be here too.	Tôi cũng vui được ở đây.
+line:99fd9b51	I'm happy to give you a place you can relax.	Tôi mừng vì có thể cho ông nơi để thư giãn.
+line:5d36d5c8	I'm happy to have met you.	Tôi mừng vì đã gặp cậu.
+line:ce21622a	I'm happy to hear that.	Tôi mừng khi nghe vậy.
+line:69963a6c	I'm happy you feel comfy here.	Mừng là ông thấy thoải mái ở đây.
+line:38388248	I'm here for a wash.	Tôi đến để tắm.
+line:a6974256	I'm here if you need someone to talk to.	Tôi ở đây nếu anh cần người nói chuyện.
+line:6690512d	I'm impressed.	Ấn tượng đấy.
+line:2e424b13	I'm in need of another wash.	Tôi lại cần tắm.
+line:ef91a572	I'm Jealous!	Tôi ghen tị đấy!
+line:a79b8639	I'm just happy I don't feel judged here.	Tôi chỉ mừng vì không bị phán xét ở đây.
+line:8076eb95	I'm just here for a wash though.	Nhưng tôi chỉ đến tắm thôi.
+line:c2caa0b7	I'm just here to bring you food!	Tôi chỉ đến mang đồ ăn cho cậu!
+line:ec6c7823	I'm just... Happy.	Tôi chỉ... hạnh phúc thôi.
+line:ed4b0d48	I'm kind of excited.	Tôi thấy hơi háo hức.
+line:266c652e	I'm looking forward to seeing you again	Tôi mong gặp lại cậu.
+line:e91e2041	I'm not <i>that</i> little-	Tôi đâu nhỏ <i>đến thế</i>...
+line:cf05a364	I'm not certain why I suddenly understand your 'Yips'	Tôi không rõ sao mình bỗng hiểu tiếng «chíp» của cậu.
+line:dcc4774b	I'm not too sure. It was on sale at WingCo.	Tôi cũng không rõ. Nó được giảm giá ở WingCo.
+line:5b31909a	I'm only doing what I think is right.	Tôi chỉ làm điều mình nghĩ là đúng.
+line:7fe349d7	I'm profoundly embarrassed by this whole ordeal.	Toàn bộ chuyện này khiến tôi vô cùng xấu hổ.
+line:cfaffc52	I'm pumped.	Tôi háo hức lắm.
+line:c0a140f8	I'm really fond of letting folks ride on my back.	Tôi rất thích cho người khác cưỡi trên lưng.
+line:1a5e6184	I'm really looking forward to this.	Tôi rất mong chuyện này.
+line:8b43a434	I'm really sorry you got hurt. Who did this?	Rất tiếc vì anh bị thương. Ai đã làm vậy?
+line:69ffe957	I'm so excited about this date!	Tôi háo hức với buổi hẹn này quá!
+line:e6290003	I'm so excited. I'll get you two in contact!	Háo hức quá. Tôi sẽ giúp hai người liên lạc!
+line:e8611ad0	I'm sorry for dumping that all on you earlier.	Xin lỗi vì lúc nãy trút hết chuyện đó lên cậu.
+line:e613b1c3	I'm sorry I snapped at you earlier.	Xin lỗi vì lúc nãy gắt với cậu.
+line:de208e68	I'm sorry you got hurt...	Tôi rất tiếc vì anh bị thương...
+line:4843bb47	I'm still very muddy, if you could soap me up that'd be great.	Tôi vẫn còn nhiều bùn, cậu xoa xà phòng giúp thì tốt.
+line:51d4e418	I'm such an idiot.	Tôi đúng là thằng ngu.
+line:32114891	I'm sure nobody will know...	Chắc không ai biết đâu...
+line:17a05c96	I'm sure we'll figure something out! just meet me at the pier!	Chắc chắn sẽ nghĩ ra gì đó! Cứ gặp tôi ở bến tàu!
+line:8136ef1a	I'm surprised how nice it is.	Tôi ngạc nhiên vì dễ chịu đến vậy.
+line:722c6ab2	I'm thinking a date soon.	Tôi nghĩ sớm hẹn một buổi.
+line:3471e9b1	I'm trying my best.	Tôi đang cố hết sức.
+line:01492e5e	I'm trying not to be pushy.	Tôi đang cố không ép người khác.
+line:4d6cd625	I'm trying to get away from the house for a bit.	Tôi muốn ra khỏi nhà một lát.
+line:c1ef777a	I'm unsure why speaking with you is so easy.	Không rõ vì sao nói chuyện với cậu lại dễ dàng thế.
+line:822c0718	I'm very excited.	Tôi háo hức lắm.
+line:ddab3d34	I'm very satisfied with these results..	Tôi rất hài lòng với kết quả...
+line:03eb977c	I'm well aware. A deep clean has a distinct feel!	Tôi biết rõ. Làm sạch kỹ đem lại cảm giác khác hẳn!
+line:f9193c0d	I'm willing to do it. But I'd like something new.	Tôi sẵn lòng làm. Nhưng tôi muốn điều gì mới.
+line:63981253	I'm... Happy.	Tôi... hạnh phúc.
+line:f80bd44b	I'm... not certain I'd like to use this today.	Tôi... không chắc hôm nay mình muốn dùng thứ này.
+line:d422462e	I'm... not sure I can answer that for you.	Tôi... không chắc mình trả lời thay cậu được.
+line:8f107933	I'm... Rather close now	Tôi... sắp ra rồi.
+line:24c52c54	I'm... wondering...	Tôi... đang tự hỏi...
+line:6bbd7f1d	I've always hated the rain.	Tôi luôn ghét mưa.
+line:b4353808	I've always loved giving my biped friends rides...	Tôi luôn thích chở những người bạn đi hai chân...
+line:9541fceb	I've been considering asking you this for a while now.	Tôi đã nghĩ đến việc hỏi cậu một thời gian rồi.
+line:505154a4	I've been thinking...	Tôi đang nghĩ...
+line:58b4f5fb	I've been told it's polite to talk to smaller folk face to face.	Tôi được dặn nói với người nhỏ hơn thì nên mặt đối mặt cho lịch sự.
+line:2c560e29	I've been trying to get into the social sciences aswell.	Tôi cũng đang cố tìm hiểu thêm khoa học xã hội.
+line:b4a29141	I've got a guy who can drop a gift by tomorrow that would spruce things up.	Tôi biết người có thể mang quà đến ngày mai, làm chỗ này khá hơn.
+line:212f0021	I've had a lot of free time lately.	Dạo này tôi có nhiều thời gian rảnh.
+line:701b9feb	I've had a lot of free time lately.	Dạo này tôi có nhiều thời gian rảnh.
+line:79da763f	I've had a lot of free time lately.	Dạo này tôi có nhiều thời gian rảnh.
+line:3c4443fd	I've seen bigger	Tôi từng thấy to hơn.
+line:d7a90078	I...	Tôi...
+line:393d0e05	I... hm.	Tôi... ừm.
+line:0da5609b	I... Know this is unprompted.	Tôi... biết nói thế này hơi đường đột.
+line:5cfb94b9	If a relationship is <i>so</i> bumpy and you know its going to end.	Nếu một mối quan hệ trắc trở <i>đến vậy</i>, và cậu biết sớm muộn cũng kết thúc.
+line:b2f52b23	If I could uhm...	Liệu tôi có thể, ừm...
+line:b4990e3d	If I'm honest. I've had a crush on you for a bit.	Nói thật, tôi thích cậu một thời gian rồi.
+line:7c13c28e	If only.	Giá mà.
+line:a56c5621	If someone like Ryan is interested, you're doing great.	Người như Ryan có hứng thú thì anh làm rất tốt rồi.
+line:52f28749	If we're caught violating another policy my reputation would be in ruins!	Nếu bị bắt gặp vi phạm quy định lần nữa, danh tiếng tôi sẽ tan nát!
+line:83f511d2	If ya' place the mount for me I'll have at it.	Cậu đặt cái giá ra là tôi xử ngay.
+line:7ead92b1	If you could come up front so I could talk.	Cậu ra phía trước cho tôi nói chuyện nhé.
+line:e78656aa	If you could come up to where I can see you.	Cậu đến chỗ tôi nhìn thấy được nhé.
+line:9a013329	If you wanna talk about it more, I've got a minute.	Nếu muốn nói thêm, tôi còn chút thời gian.
+line:3d014153	If you want to use it that's fine!	Nếu ông muốn dùng thì được thôi!
+line:a9eb9a76	if you're seeing this please grab nael or submit a bug report	Nếu thấy dòng này, vui lòng tìm nael hoặc gửi báo cáo lỗi.
+line:b9ab4eed	Im not complaining though.	Nhưng tôi không phàn nàn.
+line:27340362	In a bad way?	Theo nghĩa xấu?
+line:2019bb85	In a good way?	Theo nghĩa tốt?
+line:91d5fb72	Incredible!	Không thể tin được!
+line:61c8781b	Indeed! You're the only kobold I wish to wash me now.	Đúng thế! Giờ tôi chỉ muốn được một kobold tắm cho, là cậu.
+line:a5979ac9	Indeed, you must know of my crest! I teach alchemy.	Đúng vậy, hẳn cậu nhận ra gia huy của tôi! Tôi dạy giả kim thuật.
+line:dd9d30d2	Indeed. I'm glad you were able to help.	Đúng thế. Tôi mừng vì cậu giúp được.
+line:fd5ddfcb	Indeed. You're an excellent person to be around.	Đúng thế. Ở bên cậu rất dễ chịu.
+line:78c9b5cc	Is everything okay?	Mọi chuyện ổn chứ?
+line:bea8f1f7	Is something on your mind?	Cậu đang bận tâm điều gì?
+line:6b6dd8bc	Is that a good thing...?	Thế là tốt à...?
+line:848727f2	Is that a threat...?	Anh đang đe dọa à...?
+line:db302830	Is that why you came in the first time?	Vậy nên lần đầu cậu mới đến đây?
+line:00e41343	Is this good?	Thế này được không?
+line:7982d3d8	Is this the right place?	Đúng chỗ này chứ?
+line:c48f59a9	Is this the right place?	Đúng chỗ này chứ?
+line:b05f6eea	Isn't that... Wood?	Đó không phải... gỗ à?
+line:bf137cb4	It arrived this morning, it should be near the gate.	Hàng đến sáng nay, chắc ở gần cổng.
+line:5080b6dd	It depends! Dragon thing.	Tùy thôi! Chuyện của rồng mà.
+line:34cf0601	It did! Thanks for asking.	Có! Cảm ơn đã hỏi.
+line:900dca3c	It does wonders.	Cũng tạo nên điều kỳ diệu.
+line:cfd504c5	It does wonders.	Cũng tạo nên điều kỳ diệu.
+line:ac13bf68	It is indeed rather cool.	Đúng là khá thú vị.
+line:ea445b46	It is rather novel isn't it?	Khá mới mẻ, đúng không?
+line:56d34a41	It is? Good to know...	Thật à? Biết vậy cũng hay...
+line:b058318f	It means you're doing a good job in kobold.	Trong tiếng kobold, nghĩa là anh làm tốt đấy.
+line:13c906c7	It really has been. You're wonderful.	Đúng vậy. Cậu thật tuyệt.
+line:b032bfb1	It turns out baking is messy!	Hóa ra làm bánh bẩn thật!
+line:da4f12a1	It turns out baking is messy!	Hóa ra làm bánh bẩn thật!
+line:e106207b	It turns out baking is messy!	Hóa ra làm bánh bẩn thật!
+line:e0c8c57b	It was good. We had sex.	Tốt. Chúng tôi làm tình.
+line:681117ec	It was great. Conrad is wild. Good wild.	Tuyệt lắm. Conrad hoang dã. Theo nghĩa tốt.
+line:28eee9f5	It went great!	Tuyệt lắm!
+line:92bfe06c	It went great!	Tuyệt lắm!
+line:a5d2b991	It went well.	Mọi chuyện tốt đẹp.
+line:1ab5969b	It would be a... date. As most would say.	Đó sẽ là... một buổi hẹn. Theo cách mọi người gọi.
+line:8440a3f4	It's a regrettable state I find myself in...	Thật đáng tiếc khi rơi vào tình trạng này...
+line:1706e86d	It's also new to me...	Với tôi cũng mới...
+line:c1b8e62b	It's always good when a kobold knows what they like.	Kobold biết mình thích gì thì lúc nào cũng tốt.
+line:deffce5c	It's crazy how much your neck can handle.	Không ngờ cổ cậu chứa được nhiều thế.
+line:2e182063	It's difficult to find folks that are outside of my current bubble.	Khó làm quen người ngoài nhóm quen biết hiện tại quá.
+line:48cfc92b	It's endearing!	Đáng yêu thật!
+line:5b6f00bd	It's fine.	Không sao đâu.
+line:13dc0f15	It's fine. I close in about an hour.	Không sao. Khoảng một tiếng nữa tôi mới đóng cửa.
+line:23ac92c8	It's freeing. I'll be back, yeah?	Thật nhẹ nhõm. Tôi sẽ quay lại nhé?
+line:de9fdb93	It's hard to hold back..	Khó nhịn quá...
+line:9ebea3d0	It's hard to not be nervous after everything...	Sau tất cả, khó mà không hồi hộp...
+line:ec8243d8	It's interesting; you bipeds tend to savor your meals.	Thú vị thật, các cậu đi hai chân thường nhẩn nha thưởng thức từng miếng.
+line:d50cb509	It's just that something happened to Conrad, I hope he's okay.	Chỉ là Conrad gặp chuyện, mong anh ấy ổn.
+line:bee6c7dd	It's just that...	Chỉ là...
+line:3b76093c	It's made for eating things whole.	Nó sinh ra để nuốt nguyên mọi thứ mà.
+line:19f36dc0	It's my dream.	Đó là ước mơ của tôi.
+line:18db795f	It's never easy to end things.	Chấm dứt một mối quan hệ chưa bao giờ dễ.
+line:049fb01f	It's nice to have friends to rely on.	Có bạn để dựa vào thật tốt.
+line:ed69e3a1	It's nice to relinquish control, even for a moment.	Thật dễ chịu khi buông quyền kiểm soát, dù chỉ một lúc.
+line:e9d34ea0	It's no biggie. It sounds like everyone is fine.	Không có gì nghiêm trọng. Nghe có vẻ mọi người đều ổn.
+line:7e511da7	It's okay!	Không sao mà!
+line:b14d8520	It's okay, you sound like you need it.	Không sao, có vẻ cậu cần tâm sự.
+line:50b95260	It's okay. I needed to. She wasn't making me happy.	Không sao. Tôi cần phải làm vậy. Ở bên cô ấy tôi không hạnh phúc.
+line:47455767	It's okay. I'll figure something out.	Không sao. Tôi sẽ tìm cách.
+line:9287c933	It's starting to feel like it's <i>my</i> fault.	Bắt đầu có cảm giác đó là lỗi của <i>tôi</i>.
+line:7ab244af	It's the best way to enjoy food.	Đó là cách thưởng thức đồ ăn tuyệt nhất.
+line:0b7589ff	It's the mount you asked for.	Là cái giá anh yêu cầu.
+line:a5780e74	It's wonderful to be back!	Thật tuyệt khi quay lại!
+line:649e8eb3	Its a nice get away from everything out there.	Ở đây giúp tôi tạm quên hết mọi chuyện ngoài kia.
+line:d0361dd9	Its like an equine fusion thing...	Kiểu ẩm thực kết hợp của tộc ngựa...
+line:df86a610	Jokes aside, your wash is definitely the best.	Đùa đủ rồi, chỗ cậu chắc chắn tắm thích nhất.
+line:7fe40d2b	Just a rough day. Hoping this helps!	Chỉ là một ngày khó khăn. Mong là tắm sẽ giúp được!
+line:ce77a00e	Just did!	Vừa xong!
+line:7c93c604	Just doing my job!	Tôi chỉ làm việc của mình thôi!
+line:fa0a9fbb	Just having fun.	Chỉ vui thôi mà.
+line:9e9425cd	Just possibly...	Biết đâu...
+line:1d73a343	Just some drake at the bar. Was stupid... Couldn't shut my mouth.	Chỉ là một con rồng ở quán bar. Tôi ngu quá... Không chịu ngậm miệng.
+line:ecb9a15d	Just touch me with your hand and I'll try to help.	Chỉ cần chạm tay, tôi sẽ cố giúp.
+line:14209365	Just uhm... Don't tell anyone I'm saying all this.	Chỉ là, ừm... Đừng kể ai là tôi nói những điều này.
+line:3bac1dad	Just... open the gate.	Cứ... mở cổng đi.
+line:4f826403	Keep going a little longer please	Xin cứ tiếp thêm chút nữa.
+line:087039ba	Keep going.	Tiếp đi.
+line:d8f92323	Kinda! I've been getting out more.	Cũng có! Tôi ra ngoài nhiều hơn.
+line:b965b4dd	Knock that off, we're not done yet. Right?	Dừng lại, ta chưa xong mà. Đúng chứ?
+line:d9d276bb	Kobolds always seem enamored by me eating.	Kobold lúc nào cũng mê mẩn khi nhìn tôi ăn.
+line:0274cacd	Kobolds are very flexible. It will fit.	Kobold dẻo dai lắm. Sẽ vừa thôi.
+line:20cb68b9	lemme in?	Cho tôi vào nhó?
+line:41d5085a	Let go whenever you are ready.	Cứ thả ra khi ông sẵn sàng.
+line:29a77d09	Let me give it a try!	Cho tôi thử đi!
+line:265e14cb	Let me know when you're finished rinsing.	Báo tôi khi xả sạch xong.
+line:0e1fd4b0	Let the <i>big C</i> out of this place!	Cho <i>anh C bự</i> ra nào!
+line:f7382398	Let's get going~!	Bắt đầu nào~!
+line:c50535b3	Let's have it!	Cho tôi đi!
+line:9accd60e	Lets wash it off for our date tonight then.	Vậy rửa sạch cho buổi hẹn tối nay nhé.
+line:7ce1b833	Like what?	Ăn thế nào?
+line:cb91e703	Like, I love those around me, but there's a lot of baggage there.	Tôi quý những người xung quanh, nhưng có quá nhiều chuyện cũ gắn với họ.
+line:aa1c54ab	Like, in general.	Mà là mọi chuyện nói chung.
+line:bbe51f87	Like, in general.	Mà là mọi chuyện nói chung.
+line:7b7b0a3f	Like, the future of my relationships.	Kiểu như tương lai chuyện tình cảm ấy.
+line:db79a905	Like... a lemon?	Giống... chanh vàng?
+line:ffd7dcc4	Like... An asshole? I know I'm miserable to be around.	Như... thằng khốn ấy? Tôi biết ở cạnh mình chẳng dễ chịu gì.
+line:a0a0a49c	Like... sexual stuff?	Ý anh là... chuyện tình dục?
+line:9becd177	Look at me! I'll be the laughing stock of my students.	Nhìn tôi đi! Sinh viên sẽ cười vào mặt tôi.
+line:9711cf03	Lookin' for a hose down. Wouldn't mind using the mount aswell.	Tôi muốn được xịt rửa. Dùng cả giá nữa cũng được.
+line:abdb5822	Looking forward to seeing ya'	Mong sớm gặp cậu.
+line:5c335985	Looking forward to seeing you soon.	Mong sớm gặp lại ông.
+line:1d0abc80	Looking forward to the wash.	Tôi mong được tắm.
+line:646279a0	Looks like it.	Có vẻ vậy.
+line:b6093881	Looks like ya' got a shipment, eh?	Hình như cậu mới nhận hàng nhỉ?
+line:f1fc3e3c	Luckily death via spontaneous combustion is a concept we have thoroughly curtailed in the modern world.	May thay, trong thế giới hiện đại, chúng ta đã hạn chế rất hiệu quả việc chết do tự bốc cháy.
+line:d2ba8ba9	Made a bit of a mess... Still worth it.	Hơi bừa bộn... Nhưng vẫn đáng.
+line:301e8665	Make haste! My reputation is on the line.	Nhanh lên! Danh tiếng của tôi đang bị đe dọa.
+line:5072cc60	Make sure you're very clean. <size=70%><i>hehe.	Nhớ phải thật sạch nhé. <size=70%><i>Hehe.
+line:da21cf49	Makes sense! Yeah tiny drakes are fun.	Hợp lý! Ừ, rồng nhỏ vui lắm.
+line:22b2643b	Makes sense.	Cũng hợp lý.
+line:e7f0e9ed	Makes sense.	Cũng hợp lý.
+line:89c9a73b	Many think it's part of my body.	Nhiều người tưởng đó là một phần cơ thể tôi.
+line:d7bcbe29	Max says I'm a clumsy dragon,	Max bảo tôi là con rồng vụng về.
+line:db986d0d	May you open the gate?	Cậu mở cổng được chứ?
+line:76a97730	Maybe later...?	Có lẽ để sau...?
+line:08a422ba	Maybe like...	Có lẽ như...
+line:6f293b7a	Maybe someone new...	Có lẽ là một người mới...
+line:d2558a04	Maybe someone?	Có lẽ là ai đó?
+line:67a46ddc	Maybe we can hang out later?	Hay lát nữa ta đi chơi?
+line:5691478f	Maybe we could just... Walk?	Hay chỉ... đi dạo?
+line:7734bf93	Me too, thanks!	Tôi cũng vậy, cảm ơn!
+line:627a13e4	Me too.	Tôi cũng thế.
+line:d3c733f5	Me too.	Tôi cũng thế.
+line:ffa63d1b	Me too.	Tôi cũng thế.
+line:040ee2a7	me too.	Tôi cũng vậy.
+line:d13cd125	Me.	Chính mình.
+line:14e7b293	Me?	Tôi?
+line:b9cb051a	Means I'm ready to go on a date with a certain kobold.	Nghĩa là tôi sẵn sàng đi hẹn với một kobold nào đó.
+line:e5da247d	Means you know how to get hands on!	Thế thì biết dùng tay chứ!
+line:171707d2	Mhm!	Ừm!
+line:11306335	Mhm! Come back anytime.	Ừm! Cứ ghé bất cứ lúc nào.
+line:69dd6a73	Mhm! he's trying to meet new people.	Ừm! Anh ấy đang muốn gặp người mới.
+line:da17b746	Mhm! I'm <i>the</i> kobold!	Ừm! Tôi chính là <i>kobold đó</i>!
+line:a0cb3f78	Mhm! that's him.	Ừm! Đúng anh ấy.
+line:164fdb01	Mhm, he's trying.	Ừm, anh ấy đang cố.
+line:1a663dcf	Mhm, right this way.	Ừm, mời lối này.
+line:3cd8a8bd	Mhm... Thank you.	Ừm... Cảm ơn.
+line:4546abce	Might seem kinda weird to ask now. Buuuut.	Hỏi bây giờ có vẻ hơi kỳ. Nhưng mààà.
+line:57d8b72a	Mind opening the gate to let me out?	Cậu mở cổng cho tôi ra nhé?
+line:b2a507ab	Mind opening the gate to let me out?	Cậu mở cổng cho tôi ra nhé?
+line:6d726280	Mind washing more?	Cậu rửa thêm nhé?
+line:c8281b83	Mmm, I understand that to mean you'll get the gate?	Ừm, tôi hiểu nghĩa là cậu sẽ mở cổng?
+line:dd0c77ae	Mmm, Yeah I know the type.	Ừm, tôi biết kiểu đó.
+line:d8cafcc7	mmm..	Ừm...
+line:729cea0c	Mmmhm, I always do my best.	Ừm, tôi luôn cố hết sức.
+line:f36b8b76	Mmmhm. I'll work on my sleep schedule...	Ừừm. Tôi sẽ sửa lại giờ ngủ...
+line:d38efb75	Mmmmhm, gotta prep for a date with him.	Ừừm, phải chuẩn bị cho buổi hẹn với anh ấy.
+line:a78dd44b	mmph! (Yea!)	Ưm! (Ừ!)
+line:b132719c	Mmph- Hm?	Ưm... Hử?
+line:16ee6b14	Money... mmm...	Tiền... Ừm...
+line:d8cc8048	Most people do!	Phần lớn mọi người đều thích!
+line:3d723db0	Must mean you two are a good match.	Hẳn hai người rất hợp nhau.
+line:9ca994a5	My bad	Lỗi tôi.
+line:aaecba3d	My bad	Lỗi tôi.
+line:fedbf70c	My colleague, professor Igwyx, wished to use me as a platform.	Đồng nghiệp của tôi, giáo sư Igwyx, muốn dùng tôi làm bục đứng.
+line:08af3902	My date with Ryan was...	Buổi hẹn với Ryan...
+line:116b5405	My date with Ryan was...	Buổi hẹn với Ryan...
+line:e26c3b65	My first ever Yarn script in Unity!	Kịch bản Yarn đầu tiên của tôi trong Unity!
+line:f15b014f	My names Ryan. So...	Tôi tên là Ryan. Vậy...
+line:e4aced7b	My students could learn a thing or two from your work ethic!	Sinh viên của tôi nên học hỏi tinh thần làm việc của cậu!
+line:dfe74420	My-	Ôi...
+line:9b915bf2	Nah.	Không.
+line:c3642dec	Nah.	Không.
+line:393c128a	Never cleaned a teacher dragon... woah.	Tôi chưa từng tắm cho rồng làm thầy giáo... Oa.
+line:a99b03ed	Never tried it.	Tôi chưa thử bao giờ.
+line:6df809e1	Nevermind. Could you get the gate?	Thôi. Cậu mở cổng nhé?
+line:d3a50f3f	Next time I come in for a wash we'll go.	Lần tới tôi đến tắm thì ta đi.
+line:ac5afd96	Next time I come in I'll have reservations!	Lần tới đến là tôi đặt chỗ xong rồi!
+line:8990fcc9	Nice! Whats with all the... Gloop?	Hay quá! Mấy thứ... nhầy nhụa này là sao?
+line:1d4b8528	Nice. Gotta open the gate though. Let Conrad in!	Tốt. Nhưng phải mở cổng đã. Cho Conrad vào nào!
+line:acab92d4	Nnf... I believe I needed that. Thank you.	Ưf... Chắc tôi cần thế lắm. Cảm ơn.
+line:8fe11008	Nnnf... That was way better than those berries.	Ưưf... Đã hơn mấy quả mọng nhiều.
+line:b251704a	No	Không
+line:e05c2dca	No	Không
+line:dc86c2de	no	không
+line:5794ea87	No amount of justification makes it feel good though.	Nhưng có bao nhiêu lý do đi nữa cũng không bớt đau.
+line:5a5ec440	No I actually just got it	Không, thật ra tôi vừa có nó.
+line:cd5f07ca	No more excuses.	Không viện cớ nữa.
+line:4b38230f	No need for thanks. I'll get the gate.	Không cần cảm ơn. Tôi mở cổng.
+line:11604fbd	No need to be nervous, Alexander!	Không cần hồi hộp, Alexander!
+line:eefef647	No need to be.	Ông không cần xấu hổ đâu.
+line:73ea230a	No no, you're a certified cleaner yeah?	Không không, cậu là người tắm rửa có chứng chỉ mà?
+line:743c64e6	No not really.	Không, thật ra không ổn.
+line:50feefe8	No problem!	Không có gì!
+line:1a9a36e1	No problem! Can't wait for you to meet Conrad.	Không có gì! Tôi mong cậu gặp Conrad lắm.
+line:0a9993d2	No problem, thanks!	Không sao, cảm ơn!
+line:10bdb3a4	No problem, thanks!	Không sao, cảm ơn!
+line:3a8f65fa	No problem.	Không vấn đề gì.
+line:ee3d0ee4	No problem. Let me get that gate for ya'!	Không sao. Để tôi mở cổng cho ông!
+line:eedccaec	No way.	Không thể nào.
+line:f0351f0c	No way.	Không thể nào.
+line:d726f776	No worries,	Đừng lo.
+line:12b7a5b3	No! I mean, yes, but for the sake of my reputation could you please keep my incursion here to yourself.	Không! Ý tôi là có, nhưng vì danh tiếng tôi, hãy giữ kín lần tôi đến đây.
+line:f7f963e3	No, I am.	Có, đúng là bẩn thế đấy.
+line:54faa7c0	No, I don't think I do.	Không, chắc không cần.
+line:38419d8b	No, it's not. No more excuses.	Không, có sao đấy. Không viện cớ nữa.
+line:cd9b2a8f	No, thank you. I'm... Really excited.	Không, tôi mới phải cảm ơn. Tôi... háo hức lắm.
+line:1af1ad05	No, we don't offer things like that here.	Không, ở đây không cung cấp dịch vụ như vậy.
+line:cb7e94e5	no.	Không.
+line:6128a09c	No. A lime that is yellow.	Không. Là quả chanh xanh có vỏ màu vàng.
+line:de25dacd	No. I'm not. Do you have a medkit or not?	Không. Không ổn. Có hộp sơ cứu hay không?
+line:1cc64bcf	No.. No it's fine... thank you.	Không... Không sao... Cảm ơn.
+line:525f5744	Nope	Không.
+line:fbd2c3e7	Nope.	Chưa.
+line:5406ba8e	Normally I'd say yes to a mount. But, not right now.	Thường thì tôi sẽ dùng giá giao phối. Nhưng giờ thì không.
+line:ab92da6a	Not anymore at least!	Ít nhất giờ thì không còn nữa!
+line:0cfcd179	Not for a date though.	Nhưng không hợp đi hẹn.
+line:d1b90e2c	Not sure yet.	Chưa chắc nữa.
+line:e9643b5d	Not yet.	Chưa đâu.
+line:326cc84d	Not yet. a little longer.	Chưa. Thêm chút nữa.
+line:56a729f6	Nothing more attractive than a man who can improve!	Không gì hấp dẫn hơn người đàn ông biết cải thiện bản thân!
+line:b5dabf9f	Nothing more attractive than a man who can improve!	Không gì hấp dẫn hơn người đàn ông biết cải thiện bản thân!
+line:8a321997	Now I'm eyeballing the mount...	Giờ tôi đang ngắm cái giá...
+line:5e0a6d7a	Now I'm out here, agh!	Giờ tôi phải ra tận đây, trời ạ!
+line:564a9606	Now they'll never need to know!	Giờ họ sẽ không cần biết!
+line:d66b7986	Now!	Giờ thì!
+line:63596bb3	Now, do you have a medkit or not?	Giờ có hộp sơ cứu hay không?
+line:eefc4e9f	Now, lemme in! I want to try that thing out!	Giờ cho tôi vào! Tôi muốn thử ngay!
+line:0554966a	Now, more food?	Giờ ăn thêm nhé?
+line:3fb3f8d4	Now, round two!	Giờ đến hiệp hai!
+line:12e6043e	Now... Food?	Giờ... Ăn nhé?
+line:5f8b2de4	oah. <size=70%>okay.	À. <size=70%>Được.
+line:13223129	Of course	Tất nhiên.
+line:283e56d8	Of course I am! I know I'm very...	Tất nhiên! Tôi biết mình rất...
+line:5788e15c	Of course I do. I'm a <i>professional</i>.	Tất nhiên. Tôi là <i>dân chuyên</i> mà.
+line:0b226939	Of course it is!	Tất nhiên không sao!
+line:f21dd9d4	Of course it is!	Tất nhiên không sao!
+line:642255fc	Of course!	Dĩ nhiên rồi ạ!
+line:76f8c20c	Of course!	Tất nhiên!
+line:877aced7	Of course!	Tất nhiên!
+line:d2401e75	Of course!	Tất nhiên!
+line:f9eb2b4a	Of course! Right this way!	Tất nhiên! Ngay lối này!
+line:0d20d327	Of course! Thank you for the food.	Tất nhiên! Cảm ơn về đồ ăn.
+line:4da976f5	Of course! You run a fine establishment.	Tất nhiên! Cậu điều hành một cơ sở rất tốt.
+line:b629bcf2	Of course! You're wonderful.	Tất nhiên! Cậu tuyệt vời.
+line:b6c96475	Of course, you run a fine establishment.	Tất nhiên, cậu điều hành một cơ sở rất tốt.
+line:dd082478	Of course.	Dĩ nhiên.
+line:203cc3d2	Of course. One moment!	Tất nhiên. Chờ chút!
+line:fd145efe	Of course. Sorry you're going through all this.	Tất nhiên. Tiếc là cậu phải trải qua những chuyện này.
+line:7305cdbc	Oh cool!	Ồ, hay đấy!
+line:eb6ae4c3	Oh cool!	Ồ, hay đấy!
+line:77c996e8	Oh damn! You really are adventurous!	Ôi đệt! Cậu liều thật đấy!
+line:3fdb9d01	Oh fcuk something went wrong	Ôi đệt, có lỗi rồi.
+line:9e403ecd	Oh fuck yeah.	Ôi, đệt, đúng rồi.
+line:13c39c50	Oh fudge, forget I said that!	Ôi chết, quên lời tôi vừa nói đi!
+line:e722753e	Oh goodness no..	Ôi trời, không...
+line:55e3dd36	Oh hi! um..	Ồ, chào! Ừm...
+line:e8ee5747	Oh hi! um..	Ồ, chào! Ừm...
+line:b90f527f	Oh huh, that's the tiny drake I saw coming in a bit back yeah?	Ồ, là con rồng bé xíu tôi thấy đến đây hồi trước nhỉ?
+line:001ab950	Oh I heard good things about that.	Ồ, tôi nghe nhiều lời khen phim đó.
+line:0a4a28c0	Oh I see the button there, gotcha!	Ồ, thấy nút bấm đằng kia, hiểu rồi!
+line:c6b0b1aa	Oh like, swallowing things whole?	Ồ, như nuốt nguyên thứ gì đó?
+line:10254d13	Oh my	Ôi trời.
+line:39f6c77d	Oh my bad	Ồ, lỗi tôi.
+line:79511a66	Oh my bad	Ồ, lỗi tôi.
+line:8cfbd75d	Oh my bad	Ồ, lỗi tôi.
+line:cb71b2a1	Oh my bad	Ồ, lỗi tôi.
+line:7d13eca0	Oh my- I didn't expect you to be so... hands on	Ôi... Tôi không ngờ cậu lại... mạnh dạn dùng tay thế.
+line:c60c65e8	Oh my. I suppose I could use the mount!	Ôi. Tôi nghĩ mình dùng giá cũng được!
+line:433cb27e	Oh no! Do you want to talk about it?	Ôi không! Cậu muốn kể không?
+line:d908622a	Oh no, Conrad. are you okay?	Ôi không, Conrad. Anh ổn chứ?
+line:bf977a7e	Oh okay. I'll go grab it.	Ồ, được. Tôi đi lấy.
+line:7428755b	Oh so it's new for both of us!	Ồ, vậy cả hai đều mới!
+line:513bed5a	Oh so it's new to both of us!	Ồ, vậy chuyện này vẫn còn mới với cả hai ta!
+line:4bad37a5	Oh that's good. I'm happy he's okay.	Ồ, tốt quá. Mừng là ông ấy ổn.
+line:7d791906	Oh this is better, but I still feel dirty.	Ồ, khá hơn rồi, nhưng tôi vẫn thấy bẩn.
+line:63926ecd	Oh we're done?	Ồ, xong rồi à?
+line:546d1bf2	Oh wow, you're really covered in it!	Ôi, ông dính đầy thật!
+line:b2d99a43	Oh wow..	Ôi, oa...
+line:e8052272	Oh yeah I liked the first one.	Ồ ừ, tôi thích phần đầu.
+line:a4a26529	Oh yeah, there's this nice place downtown called wings.	Ồ có, ở trung tâm có chỗ hay tên Wings.
+line:d4d3ecd5	Oh yeah.	Ồ phải.
+line:059142a3	Oh Yeah?	Ồ, vậy à?
+line:71053a53	Oh Yeah?	Ồ, vậy à?
+line:1121309c	Oh yeah?	Ồ, vậy à?
+line:2b560f59	Oh yeah?	Ồ, vậy à?
+line:2d2820b0	Oh yeah?	Ồ, vậy à?
+line:6e82e54c	Oh yeah?	Ồ, vậy à?
+line:b9d8a22f	Oh yeah?	Ồ, vậy à?
+line:d8ce8566	Oh yeah?	Ồ, vậy à?
+line:f103a4a8	Oh yeah?	Ồ, vậy à?
+line:4f6344f1	Oh yeah? He sounds like a bit of a hothead.	Ồ vậy à? Nghe có vẻ hơi nóng tính.
+line:60cdf456	Oh yeah? The little red drake?	Ồ vậy à? Con rồng đỏ nhỏ ấy?
+line:a9253dd8	Oh yeah? The sky blue drake I've seen around?	Ồ vậy à? Con rồng xanh da trời tôi từng thấy quanh đây?
+line:762882b4	Oh yeeeaaah?	Ồ, vậyyyy à?
+line:5d737ca7	Oh yes	Ồ đúng.
+line:1c90fb6d	Oh you. Gonna make me blush.	Cậu thật là. Làm tôi đỏ mặt mất.
+line:7e3e59aa	Oh!	Ồ!
+line:3605a48a	Oh! I think I've seen him. The tiny one, yeah?	Ồ! Chắc tôi thấy rồi. Con rồng bé xíu nhỉ?
+line:3bc15278	Oh! No it wouldn't be. It's fun!	Ồ! Không đâu. Vui mà!
+line:c95a153d	Oh! nothing. I'll get the gate.	À! Không có gì. Tôi mở cổng.
+line:b6fb6fce	Oh! Okay. I'll get the gate!	Ồ! Được. Tôi mở cổng!
+line:4d3233a1	Oh! That's cold!	Ôi! Lạnh quá!
+line:403f2ab7	Oh! Then I better let you in. I'll go get the gate.	Ồ! Vậy tôi nên cho ông vào. Tôi mở cổng đây.
+line:0f2dc134	Oh! Yeah that makes sense...	Ồ! Ừ, hợp lý...
+line:1270a483	Oh, and I apologize for being absolutely filthy.	À, xin lỗi vì người tôi bẩn kinh khủng.
+line:7b5be1f8	Oh, and I've figured it where to go.	Ồ, tôi nghĩ ra chỗ đi rồi.
+line:52fb116d	Oh, and seems I got some on my face. woops.	Ồ, hình như dính ít trên mặt rồi. Ối.
+line:73a37947	Oh, awesome. I'm a big salmon guy.	Ồ, tuyệt. Tôi là anh chàng mê cá hồi.
+line:74c9c07b	Oh, like... working class?	Ồ, kiểu... tầng lớp lao động?
+line:e048566b	Oh, no.	Ồ, không.
+line:1a9e6537	Oh, no. Ryan is a sweetheart.	Ồ không. Ryan hiền lắm.
+line:5f6a124a	Oh, okay. Thanks.	Ồ, được. Cảm ơn.
+line:17716b05	Oh, right. Sorry.	Ồ, đúng rồi. Xin lỗi.
+line:82ba64bf	Oh, sorry-	Ồ, xin lỗi...
+line:956e5c91	Oh, sorry.	Ồ, xin lỗi.
+line:54a8bb22	Oh, sure. Come on in.	Ồ, được. Vào đi.
+line:270276eb	Oh, that's my favorite part!	Ồ, đó là phần tôi thích nhất!
+line:1ff9a04c	Oh, the crest around my head?	Ồ, gia huy quanh đầu tôi à?
+line:ffed6d04	Oh, wonderful. Seem's we're similar.	Ồ, tuyệt. Có vẻ chúng tôi giống nhau.
+line:30e6b801	Oh, yeah!	Ồ, ừ!
+line:bedeee82	Oh- Eager!	Ồ, háo hức thế!
+line:38b3c8c1	Oh- I mean. I'll go open the gate!	À, ý tôi là... Tôi đi mở cổng đây!
+line:714c180e	Oh- I'm glad!	Ồ, mừng quá!
+line:ccf87ea9	Oh- I'm not too interested in using that right now.	Ồ, giờ tôi chưa hứng thú dùng cái đó lắm.
+line:963981e4	Oh- I'm sorry for making a mess...	Ồ, xin lỗi vì làm bừa bộn...
+line:8e407c6e	Oh- Not just the wash.	Ồ, không chỉ chuyện tắm.
+line:ad31ec4c	Oh- Not just the wash.	Ồ, không chỉ chuyện tắm.
+line:6866c2c9	Oh- Right now? 'aight I'm down.	Ồ, ngay bây giờ? Được, tôi chơi.
+line:9a6dca4b	Oh- Ya. On it.	À, ừ. Tôi làm ngay.
+line:3b6d644d	Oh.	Ồ.
+line:4399096b	Oh.	Ồ.
+line:8441bf7b	Oh.	Ồ.
+line:87233429	Oh.	Ồ.
+line:e90fee8e	Oh.	Ồ.
+line:ebd9b4d3	Oh.	Ồ.
+line:8a79f72c	Oh. And one other thing.	Ồ. Còn một chuyện nữa.
+line:e8289be5	Oh. good.	Ồ. Tốt.
+line:5442e228	Oh. Okay I'll go get the gate.	Ồ. Được, tôi mở cổng.
+line:0da15c85	Oh. Okay.	Ồ. Được.
+line:73f7f13d	OH. RIGHT.	Ồ. ĐÚNG RỒI.
+line:c35890c8	Oh. That's... Wonderful!	Ồ. Thật... tuyệt!
+line:0ce8d5aa	Oh. Then yeah, we're open.	Ồ. Vậy thì có, chúng tôi mở cửa.
+line:52ed140c	Oh. Uhm. <size=70%>Good.	Ồ. Ừm. <size=70%>Tốt.
+line:780d0993	Oh. yeah. Sorry.	Ồ. Vâng. Xin lỗi.
+line:7f5113d5	OH. You're not used to eating them whole.	Ồ. Cậu không quen ăn nguyên quả.
+line:45bc649d	Oh...	Ồ...
+line:0a093816	Oh... hah. I like that.	Ồ... Ha. Tôi thích thế.
+line:f885f11d	Oh... I suppose this is alright~	Ồ... Tôi nghĩ thế này cũng ổn~
+line:7cd85c8e	Oh... I'm so sorry.	Ôi... Tôi rất tiếc.
+line:8cc1aa72	Oh... yeah we don't have one.	Ồ... Ừ, ở đây không có.
+line:f16d7940	Oh... Yeah, tinier dragons tend to... Compensate.	Ồ... Ừ, rồng nhỏ thường... bù trừ.
+line:1d491283	Oh?	Ồ?
+line:21c46e75	Oh?	Ồ?
+line:fd8d786a	Oh?	Ồ?
+line:0ce8d3c2	ohmygod I thought the egg was decorative.	Trời ơi, tôi tưởng quả trứng để trang trí.
+line:d9b26374	Ok I can do that	Được, tôi làm được.
+line:1777121d	Ok I got this..	Được, tôi làm được...
+line:f3af3ce8	Ok just tell me if you get uncomfortable or anything.	Được, cứ nói nếu thấy khó chịu hay gì nhé.
+line:6c3a98cc	Ok lets wash it off for our date tonight then.	Được, vậy rửa sạch cho buổi hẹn tối nay.
+line:7a54a1e1	Okay	Được.
+line:f64a5b30	Okay	Được.
+line:249500dc	Okay!	Được!
+line:a327b5f9	Okay!	Được!
+line:ccaabca3	Okay!	Được!
+line:82d0ea81	Okay! I'll be back later then.	Được! Vậy tôi quay lại sau.
+line:3deb5f55	Okay! I'll go get the gate for you.	Được! Tôi đi mở cổng cho cậu.
+line:9c3d6cb7	Okay! I'll see you soon.	Được! Hẹn sớm gặp lại.
+line:72e0348e	Okay, bye!	Được, tạm biệt!
+line:255362b9	Okay, Conrad.	Được, Conrad.
+line:0d16ab28	Okay, I'll be waiting. Thanks.	Được, tôi chờ. Cảm ơn.
+line:155d1c64	Okay, I'll open the gate!	Được, tôi mở cổng đây!
+line:886f5df2	Okay, I'll see you later!	Được, gặp sau nhé!
+line:585d6a08	Okay, thank you.	Được, cảm ơn.
+line:c298bc55	Okay, thank you.	Được, cảm ơn.
+line:6acf71a3	Okay, thanks.	Ừ, cảm ơn.
+line:8ed5a204	Okay- okay. I'll go get the gate.	Được, được. Tôi mở cổng.
+line:10b9a653	Okay- Thanks.	Được, cảm ơn.
+line:00a81c16	Okay. I hope you're doing alright though.	Được. Nhưng tôi mong cậu vẫn chịu đựng được.
+line:118a51bb	Okay. I should probably get out of your scales.	Được rồi. Chắc tôi nên ngừng làm vướng chân cậu.
+line:a62e8112	Okay. I'll open up shop. Give me a sec.	Được. Tôi sẽ mở tiệm. Chờ chút.
+line:9d434af5	Okay. I'll order a mount.	Được. Tôi sẽ đặt một cái.
+line:2f3b06de	Okay. Then I think I'd like to try.	Được. Vậy tôi muốn thử.
+line:54ad4706	Okay...	Được...
+line:28311fbb	Omg you're hurt!	Trời ơi, anh bị thương!
+line:8b3abbf7	On it!	Tôi làm ngay!
+line:42e3eba2	Once I'm cleaned up I'm gonna head out and get our spot ready.	Tắm xong tôi sẽ đi chuẩn bị chỗ cho hai ta.
+line:1d4b8a1c	One thing led to another...	Chuyện này dẫn đến chuyện kia...
+line:c70bea2d	Only been cleaning for a few weeks now!	Tôi mới làm nghề được vài tuần thôi!
+line:5188bd4a	Only If that's alright-	Chỉ khi không phiền...
+line:01505282	Only realized how much of a mess I made after Max yelled at me, haha.	Đến khi Max quát tôi mới nhận ra mình làm bẩn đến đâu, haha.
+line:828eed25	Oof... Needed that. Thank you.	Phù... Tôi cần thế lắm. Cảm ơn.
+line:2d40c69a	Oooh, alrighty.	Ồ, được thôi.
+line:99ff9e7f	Ooooh must be a big deal then.	Ồ, thế chắc phải có số má thật.
+line:e8ad4791	Ooooh.	Ồồồ.
+line:64bfd62a	Oops, my bad.	Ối, lỗi tôi.
+line:0fa31c40	Our first meeting went great though!	Nhưng lần đầu gặp nhau rất tuyệt!
+line:77cebc41	People tell me I've got a fat cock, is that true?	Mọi người bảo cu tôi to lắm, đúng không?
+line:80de6c63	Perfectly clean again. Thank you for taking me in at this hour.	Lại sạch hoàn toàn. Cảm ơn vì nhận tôi vào giờ này.
+line:f212528b	Phew! I had an accident that needs to be taken care of... discretely.	Phù! Tôi gặp tai nạn cần xử lý... kín đáo.
+line:b3c35166	Phew, I was worried I'd make another mess of things.	Phù, tôi lo lại làm mọi thứ bừa bộn.
+line:314c3d8a	physically or emotionally?	Về thể chất hay tinh thần?
+line:156e0b50	Picnic bathket-	Giỏ píc-níc...
+line:0d9de1a1	player hooked up with conrad	Người chơi thành đôi với Conrad.
+line:2cf1c95e	player hooked up with conrad	Người chơi thành đôi với Conrad.
+line:c2529648	player hooked up with conrad	Người chơi thành đôi với Conrad.
+line:f7fd34b2	player hooked up with conrad	Người chơi thành đôi với Conrad.
+line:66e08b22	player hooked up with ryan	Người chơi thành đôi với Ryan.
+line:78039fd1	player hooked up with ryan	Người chơi thành đôi với Ryan.
+line:96a0c0c7	player hooked up with ryan	Người chơi thành đôi với Ryan.
+line:9bade6d6	player hooked up with ryan	Người chơi thành đôi với Ryan.
+line:0ddcd600	Please scrub Igwix off my back would you?	Làm ơn chà Igwix khỏi lưng tôi nhé?
+line:0632acbf	Plus they feel really nice.	Với lại cũng thoải mái lắm.
+line:c7b8ba3d	Possibly...?	Có lẽ...?
+line:637629a8	Pretty sure I can digest anything.	Chắc tôi tiêu hóa được mọi thứ.
+line:65a41bc5	Pretty sure I'm all clean!	Chắc tôi sạch hết rồi!
+line:3750bbf0	Pretty sure that was everything.	Chắc thế là hết rồi.
+line:960707b0	Primarily alchemy. Occasionally world history.	Chủ yếu là giả kim thuật. Đôi khi là lịch sử thế giới.
+line:1475f95c	Professor Igwyx- My colleague who self-immolated earlier.	Giáo sư Igwyx, đồng nghiệp tự bốc cháy của tôi lúc trước ấy.
+line:26e9d692	Professor, but yes. You have.	Giáo sư, nhưng đúng, cậu đã dạy tôi.
+line:af0c15fd	Professor- But, yes. I usually don't go to public washes.	Giáo sư. Nhưng đúng vậy. Tôi thường không đến chỗ tắm công cộng.
+line:962abe27	Project Scale mary	Project Scale mary
+line:e5d47feb	prole- <i><size=70%>wuh?	Vô... <i><size=70%>Gì cơ?
+line:c7b73162	Psst..!	Suỵt...!
+line:9addfb4a	Ready!	Sẵn sàng!
+line:875b5372	Really damn good!	Tuyệt vãi luôn!
+line:9e9f3e75	Really damn good!	Tuyệt vãi luôn!
+line:9364911d	Really looking forward to finding new people.	Tôi rất mong được gặp người mới.
+line:8b0b222c	Really sets the mood.	Rất có không khí.
+line:4010d36d	Really well honestly.	Thật ra rất tốt.
+line:cfcb40c7	Really?	Thật sao?
+line:0ec807a4	Really? Aw, That's really sweet.	Thật à? Ôi, ngọt ngào quá.
+line:630fed1b	Remove this barrier at once so I may enter.	Dỡ ngay vật chắn này để tôi vào.
+line:65deb150	Right after this wash!	Ngay sau khi tắm xong!
+line:0caa6657	Right, I'll get that for you ASAP.	Rồi, tôi mở ngay cho cậu.
+line:1271b80c	Right.	Phải.
+line:3ede5541	Right.	Phải.
+line:6a2e4e0d	Right. I'll get to it.	Rồi. Tôi bắt đầu đây.
+line:29daeb62	Right. Phoenix feather. Obviously.	Đúng rồi. Lông phượng hoàng. Tất nhiên.
+line:51d1b41e	Ryan is a sweetheart	Ryan rất dịu dàng.
+line:202fce0c	RYAN THE BONE!	RYAN, CÁI XƯƠNG!
+line:93bd9a2b	Ryan!	Ryan!
+line:9b7e09b8	Ryan!	Ryan!
+line:b76f49cd	Ryan!	Ryan!
+line:1fa0fbbe	Ryan! I met him.	Ryan! Tôi gặp cậu ấy rồi.
+line:f0427bb9	Ryan! this is so sweet.	Ryan! Cậu chu đáo quá.
+line:92829935	Ryan's such a nice dragon.	Ryan là con rồng tốt thật.
+line:13ca0a74	Ryan, you're not supposed to eat the stems-	Ryan, không ăn cuống đâu...
+line:7a01d265	Ryan: I guess it is pretty exciting	Ryan: Cũng khá kích thích thật.
+line:e1526934	Ryan: I like that a lot	Ryan: Tôi thích thế lắm.
+line:a430a2ff	Ryan: I think I am close too..	Ryan: Chắc tôi cũng sắp rồi...
+line:77626e43	Ryan: I would say it is going great	Ryan: Tôi thấy đang rất tuyệt.
+line:f5f5b815	Ryan: I've never done this outside before	Ryan: Tôi chưa từng làm ngoài trời.
+line:6dd86b71	Ryan: This was nice	Ryan: Thật dễ chịu.
+line:41b9659f	Ryan: Wow.. Your stature is really the only thing small about you.	Ryan: Oa... Đúng là chỉ có vóc dáng anh nhỏ thôi.
+line:aad89688	Ryan: Yea definitely. Worried about me?	Ryan: Ừ, chắc chắn. Lo cho tôi à?
+line:ce6d6d7f	Ryan? you sure everything is okay...?	Ryan? Cậu chắc mọi chuyện ổn chứ...?
+line:1d3b255b	Save your mood setting for tonight!	Để tối hãy tạo không khí!
+line:3ed6ab5d	Say do you remember the name of the college I work at?	Này, cậu nhớ tên trường tôi làm việc không?
+line:a05a7804	Say...	Này...
+line:82d7b5e4	Says who?	Ai bảo?
+line:6c193ba9	Scales different today? <size=70%><i>is that a thing...? </i><size=100%>You look good today.	Vảy khác đi à? <size=70%><i>Có làm thế được không nhỉ...? </i><size=100%>Hôm nay cậu đẹp đấy.
+line:426f40ff	See you again soon, yeah?	Sớm gặp lại nhé?
+line:3112d78d	See you soon.	Hẹn gặp sớm.
+line:8072b186	See you tonight.	Hẹn tối nay.
+line:0d3b23da	Sheesh.	Chà.
+line:48435b12	Shh! I'm not from around here...	Suỵt! Tôi không phải người vùng này...
+line:0f86dbf6	So am I!	Tôi cũng vậy!
+line:3063100e	So am I.	Tôi cũng vậy.
+line:a241eec6	So far so good though, yeah?	Nhưng đến giờ vẫn ổn nhỉ?
+line:813c6dd4	So is this like... our first date?	Vậy đây kiểu như... buổi hẹn đầu tiên của chúng ta?
+line:9b10d450	So this Conrad guy, seems like you like him?	Vậy anh chàng Conrad này, có vẻ cậu thích anh ấy?
+line:0c5dcd3c	So uh, gate?	Vậy, ừm, cổng?
+line:84d8a935	So uh, mind opening the gate?	Vậy, ừm, cậu mở cổng nhé?
+line:7da41ecd	So uhh, let me know if you need me to move.	Vậy, ừm, cứ bảo nếu cần tôi di chuyển.
+line:3a469ae4	So yeah, I had a mishap..	Thì tôi gặp chút sự cố...
+line:a6d6bf76	So you and Ryan huh?	Vậy cậu với Ryan hả?
+line:31fa3bdf	So you came in just to...	Vậy anh đến chỉ để...
+line:5f64c352	So you're a certified dragon washer huh?	Vậy cậu là người tắm rửa cho rồng có chứng chỉ hả?
+line:c9e7bb1e	So you're a certified dragon washer huh?	Vậy cậu là người tắm rửa cho rồng có chứng chỉ hả?
+line:aedb6a51	So, coming in for a wash?	Vậy đến tắm à?
+line:1c856f1c	So, how was your date?	Buổi hẹn của cậu thế nào?
+line:3cda84e6	So, tell me more about conrad!	Vậy kể thêm về Conrad đi!
+line:c10d9415	So, thanks on his behalf for caring.	Vậy thay anh ấy, cảm ơn cậu đã quan tâm.
+line:e6aa9d20	So, with... relationships.	Chuyện... tình cảm ấy.
+line:a99c5c88	So. How about a date?	Vậy. Hẹn hò nhé?
+line:c2f44537	So. My girlfriend was home before me. she's a work-from-home dragon.	Thì bạn gái tôi ở nhà trước khi tôi về. Cô ấy làm việc tại nhà.
+line:d9652dff	So. Our date tonight...	Vậy. Buổi hẹn tối nay của chúng ta...
+line:b983f922	So. Tonight.	Vậy. Tối nay.
+line:28c51dbf	So... A date. I think I'd like to go on one soon!	Vậy... Một buổi hẹn. Tôi nghĩ mình muốn sớm có một buổi!
+line:7c56b2d8	So... I was thinking about my relationships.	Tôi đang nghĩ về chuyện tình cảm của mình.
+line:5a5e7f21	So<size=90%>o<size=80%>o<size=70%>o<size=60%>o... <size=100%>I 'aint dirty. But I am <i>~dirty~</i> y'know?	Thì<size=90%>ì<size=80%>ì<size=70%>ì<size=60%>ì... <size=100%>Người tôi không bẩn. Nhưng đầu óc thì <i>~bẩn~</i>, hiểu chứ?
+line:8a35fb7b	So<size=90%>o<size=80%>o<size=70%>o<size=60%>o... <size=100%>Was wonderin'	Thì<size=90%>ì<size=80%>ì<size=70%>ì<size=60%>ì... <size=100%>Tôi muốn hỏi.
+line:5230bdfd	Soap, then rinse!	Xoa xà phòng rồi xả nước!
+line:c374e532	Somehow that feels more honest than anything anyone else says.	Chẳng hiểu sao nghe còn chân thật hơn mọi lời người khác nói.
+line:2898f680	Something happened last night	Tối qua có chuyện xảy ra.
+line:4dac3d2b	Something went wrong with flags!	Có lỗi với cờ trạng thái cốt truyện!
+line:61c7f2d6	Something went wrong with flags!	Có lỗi với cờ trạng thái cốt truyện!
+line:6d5ba814	Something went wrong with flags!	Có lỗi với cờ trạng thái cốt truyện!
+line:8f64adc0	Something went wrong with flags!	Có lỗi với cờ trạng thái cốt truyện!
+line:19cedc30	Sooo. You gonna jerk me off?	Thế... Cậu sẽ quay tay cho tôi chứ?
+line:1646ece2	Sorry for coming in late. My sleeps borked.	Xin lỗi đến muộn. Giờ ngủ tôi loạn hết.
+line:b2b32876	Sorry I'm bad at flirting. Could you get the gate?	Xin lỗi, tôi tán tỉnh dở lắm. Cậu mở cổng nhé?
+line:13ba93ef	sorry!	Xin lỗi!
+line:e2f9c70c	Sorry, I meant to say I enjoy your wash.	Xin lỗi, ý tôi là tôi thích chỗ tắm của cậu.
+line:78ca8d95	Sorry...	Xin lỗi...
+line:4af15fc3	Sounds good to me!	Tôi thấy được đấy!
+line:8c6e66f3	Sounds good!	Nghe hay đấy!
+line:1ef36cb0	Sounds like a date then!	Vậy chốt buổi hẹn nhé!
+line:d71ba53e	Sounds like a date then!	Vậy chốt buổi hẹn nhé!
+line:5fc277a9	Sounds like a date then! Seafood then we play it by ear.	Vậy chốt hẹn nhé! Ăn hải sản rồi tính tiếp.
+line:0e643191	Sounds like a date then, I'm excited.	Vậy coi như chốt buổi hẹn nhé, háo hức quá.
+line:c4642c9c	Sounds like a date then. I'm excited.	Vậy chốt buổi hẹn. Tôi háo hức lắm.
+line:ffc401d1	Sounds like a plan.	Quyết vậy nhé.
+line:c4dd137b	Sounds like it was good then.	Vậy nghe có vẻ tốt đấy.
+line:7b6c47bd	Sounds like it.	Nghe cũng đúng.
+line:5c51654f	Sounds nice.	Nghe hay đấy.
+line:3a23b81f	Sounds really cool.	Nghe thú vị thật.
+line:1dbf50b3	Sure	Ừ.
+line:c14ceb34	Sure is!	Đúng rồi!
+line:de7cd73a	Sure it is. Thanks to Conrad for having me get it.	Tất nhiên không phiền. Nhờ Conrad bảo tôi mua nó đấy.
+line:05c673e7	Sure!	Được chứ!
+line:52542beb	Sure!	Được chứ!
+line:67f14802	Sure!	Được chứ!
+line:a2dc4ac0	Sure! I'll go get the gate.	Được! Tôi mở cổng.
+line:dbb68858	Sure! I'll go get the gate.	Được! Tôi mở cổng.
+line:601e1b38	Sure! I'm excited to tell you about Conrad.	Được! Tôi muốn kể về Conrad lắm.
+line:7b5c9d8c	Sure, but he needed someone who cared in that moment.	Đúng, nhưng lúc đó anh ấy cần có người quan tâm.
+line:709a9a57	Sure.	Được chứ.
+line:4af4703c	Tasted real good though!	Nhưng ngon lắm!
+line:048fe71b	TELL ME ABOUT YOU AND CONRAD!	KỂ TÔI NGHE CHUYỆN CẬU VỚI CONRAD!
+line:2b84f2eb	Test line 1	Câu thoại thử nghiệm 1
+line:7a22b4d3	Test line 10	Câu thoại thử nghiệm 10
+line:ec12b3a4	Test line 11	Câu thoại thử nghiệm 11
+line:4f87d73a	Test line 12	Câu thoại thử nghiệm 12
+line:d9b7d04d	Test line 13	Câu thoại thử nghiệm 13
+line:63e6d9d4	Test line 14	Câu thoại thử nghiệm 14
+line:f5d6dea3	Test line 15	Câu thoại thử nghiệm 15
+line:64cb6133	Test line 16	Câu thoại thử nghiệm 16
+line:f2fb6644	Test line 17	Câu thoại thử nghiệm 17
+line:1772a124	Test line 18	Câu thoại thử nghiệm 18
+line:88119675	Test line 2	Câu thoại thử nghiệm 2
+line:1e219102	Test line 3	Câu thoại thử nghiệm 3
+line:a470989b	Test line 4	Câu thoại thử nghiệm 4
+line:32409fec	Test line 5	Câu thoại thử nghiệm 5
+line:a35d207c	Test line 6	Câu thoại thử nghiệm 6
+line:356d270b	Test line 7	Câu thoại thử nghiệm 7
+line:5643ba3d	Test line 8	Câu thoại thử nghiệm 8
+line:c073bd4a	Test line 9	Câu thoại thử nghiệm 9
+line:394db643	Thank the stars you're open.	Tạ ơn các vì sao, cậu còn mở cửa.
+line:f1946aab	Thank you for cleaning me!!	Cảm ơn đã tắm cho tôi!!
+line:75b5b084	Thank you for getting me and Ryan in contact.	Cảm ơn đã giúp tôi liên lạc với Ryan.
+line:189d999e	Thank you for listening.	Cảm ơn vì đã lắng nghe.
+line:3398aea2	Thank you for that.	Cảm ơn cậu vì điều đó.
+line:875f0961	Thank you for the clean!	Cảm ơn đã làm sạch!
+line:acb8a5aa	Thank you for the quick clean!	Cảm ơn đã tắm nhanh cho tôi!
+line:8512365e	Thank you!	Cảm ơn ông!
+line:bbca8a46	Thank you!	Cảm ơn nhé!
+line:e449156d	Thank you!	Xin cảm ơn!
+line:bb4e1dc1	Thank you, Ryan. I'm happy I got to meet you too	Cảm ơn, Ryan. Tôi cũng rất vui vì đã gặp cậu.
+line:3b568c14	Thank you.	Xin cảm ơn.
+line:6b245989	Thank you.	Cảm ơn cậu.
+line:836d1b13	Thank you.	Xin cảm ơn.
+line:d60f2dc0	Thank you.	Xin cảm ơn.
+line:035a0830	Thank you. I'd really appreciate it	Cảm ơn. Tôi sẽ biết ơn lắm.
+line:f3e7a8fe	Thank you. Look good feel good!	Cảm ơn. Đẹp bên ngoài, vui bên trong!
+line:d2d97c90	Thank you. You make this a whole lot easier to go through.	Cảm ơn. Cậu giúp tôi vượt qua chuyện này dễ hơn nhiều.
+line:3027bcf7	Thanks for asking. It's enjoyable to be asked personal questions.	Cảm ơn đã hỏi. Được hỏi chuyện riêng tư thật dễ chịu.
+line:aaf3066d	Thanks for cleaning me!	Cảm ơn đã tắm cho tôi!
+line:8150e2a2	Thanks for helping me out.	Cảm ơn đã giúp tôi.
+line:a2217280	Thanks for helping me out.	Cảm ơn đã giúp tôi.
+line:7db0baf0	Thanks for introducing me to him.	Cảm ơn đã giới thiệu cậu ấy.
+line:c6cee89f	Thanks for letting me in so late.	Cảm ơn đã cho vào muộn thế này.
+line:079b3782	Thanks for sharing food with me, You're a great friend.	Cảm ơn đã chia đồ ăn. Cậu là bạn tốt.
+line:85f901b0	Thanks for sharing food with me...	Cảm ơn đã chia đồ ăn với tôi...
+line:a39fd5a9	Thanks for that. Felt pretty damn good.	Cảm ơn nhé. Đã thật sự.
+line:505e150f	Thanks for the clean.	Cảm ơn đã làm sạch.
+line:a40e531c	Thanks for the food! I'll go get the gate.	Cảm ơn đồ ăn! Tôi mở cổng.
+line:f1692a96	Thanks for the suggestion!	Cảm ơn đã gợi ý!
+line:81ebbec0	Thanks for the wash so late in the night.	Cảm ơn đã tắm cho tôi muộn thế này.
+line:a9df4c5e	Thanks I'll be waiting!	Cảm ơn, tôi chờ!
+line:f73a3fc7	Thanks mate, see you tomorrow then.	Cảm ơn, bạn hiền. Hẹn mai nhé.
+line:30f1f583	Thanks!	Cảm ơn!
+line:3484ab9d	Thanks!	Cảm ơn!
+line:44701902	Thanks!	Cảm ơn!
+line:4d868f2f	Thanks!	Cảm ơn!
+line:70190774	Thanks!	Cảm ơn!
+line:8b8f57c4	Thanks!	Cảm ơn!
+line:ab5b2574	Thanks!	Cảm ơn!
+line:b588bf4c	Thanks!	Cảm ơn cậu!
+line:bc5d790a	Thanks!	Cảm ơn!
+line:c07a9171	Thanks!	Cảm ơn!
+line:e7e57d9c	Thanks!	Cảm ơn!
+line:fa293cde	Thanks! Whats with all the... Gloop?	Cảm ơn! Mấy thứ... nhầy nhụa này là sao?
+line:e1609903	Thanks, but I'll be better. I promise.	Cảm ơn, nhưng tôi sẽ tốt hơn. Hứa đấy.
+line:02cbdc87	Thanks, I'm excited too.	Cảm ơn, tôi cũng háo hức.
+line:37c9d915	Thanks, You're pleasant too!	Cảm ơn, ở bên ông cũng dễ chịu!
+line:cb847372	Thanks, You're pleasant too!	Cảm ơn, ở bên ông cũng dễ chịu!
+line:188d4359	Thanks.	Cảm ơn.
+line:316bb26e	Thanks.	Cảm ơn.
+line:34ec4db7	Thanks.	Cảm ơn.
+line:5183a6f2	Thanks.	Cảm ơn.
+line:c642cb17	Thanks.	Cảm ơn.
+line:cf716777	Thanks.	Cảm ơn cậu.
+line:e00c6df5	Thanks.	Cảm ơn.
+line:e521db76	Thanks.	Cảm ơn cậu.
+line:f62e1c4f	Thanks.	Cảm ơn cậu.
+line:fbba1293	Thanks.	Cảm ơn cậu.
+line:8bfa88d7	Thanks. I like being around you too.	Cảm ơn. Tôi cũng thích ở bên cậu.
+line:df0a8598	Thanks. I'm always happy to be here.	Cảm ơn. Tôi luôn vui khi ở đây.
+line:084e3cbc	Thanks. See you soon.	Cảm ơn. Hẹn sớm gặp lại.
+line:71d57aeb	Thanks. That's kind of you to say.	Cảm ơn. Ông nói thế thật tử tế.
+line:a1f9de62	Thanks. That's kind of you to say.	Cảm ơn. Ông nói thế thật tử tế.
+line:9a9a6120	Thankth!	Cảm ơn nhó!
+line:e721d512	That brings me to my next question...	Điều đó dẫn đến câu hỏi tiếp theo...
+line:215a2d34	That felt <i>good</i>.	Cái đó <i>đã thật</i>.
+line:89150715	That is rather kind of you to say.	Cậu nói thế thật tử tế.
+line:a57409fb	That is the source of my worry...	Đó mới là điều tôi lo...
+line:ad261b84	That just makes it harder!	Thế chỉ càng khó nhịn!
+line:7111d265	That makes me feel a lot more sure of myself then.	Vậy tôi thấy tự tin hơn nhiều.
+line:3fac5bff	That makes me feel good to hear.	Nghe thế thấy vui thật.
+line:1c49f05b	That makes me happy to hear.	Nghe thế tôi thấy vui.
+line:a8b70da7	That must mean it is! I'm glad.	Chắc nghĩa là được rồi! Mừng quá.
+line:5738ea38	That nice to hear... But, I mean being taken care of more... Primally?	Nghe thật vui... Nhưng ý tôi là được chăm sóc theo cách... bản năng hơn?
+line:8f598864	That one was almost too big-	Cái đó suýt thì quá to...
+line:5960dcbb	That should be all though, could you go get the gate?	Nhưng chắc xong rồi, cậu mở cổng nhé?
+line:116f0e16	That should be every spot.	Chắc đã sạch mọi chỗ.
+line:90444b09	That sounds like an over-reaction on her part.	Nghe như cô ấy phản ứng hơi quá.
+line:f07c9e39	That sounds like an over-reaction on her part.	Nghe như cô ấy phản ứng hơi quá.
+line:c78cf81f	That sounds lovely!	Nghe tuyệt đấy!
+line:eaa3c173	That they are...	Đúng là vậy...
+line:f4b9a455	That was much nicer than a hose.	Dễ chịu hơn xịt vòi nước nhiều.
+line:78cef130	That was never a concern. I'm a rather risk averse dragon.	Điều đó chưa bao giờ đáng lo. Tôi là con rồng khá thận trọng.
+line:22d271f4	That was really fun.	Vừa rồi vui lắm.
+line:019b83df	That was wonderful! I feel so much better about dating.	Tuyệt quá! Tôi thấy tự tin chuyện hẹn hò hơn nhiều.
+line:d7bf167b	That was... Nicer than I expected.	Vừa rồi... Dễ chịu hơn tôi nghĩ.
+line:577cec43	That's a mount, no?	Đó là giá giao phối, đúng không?
+line:825536f5	That's a tricky question to answer.	Câu đó khó trả lời đấy.
+line:66fb84fe	That's all I want to ask.	Tôi chỉ muốn hỏi vậy thôi.
+line:ac1ed298	That's all you can ask for, right?	Cũng chỉ mong được thế thôi nhỉ?
+line:6605187b	That's an appeal to authority fallacy. But, yes. I'm correct.	Đó là ngụy biện viện dẫn thẩm quyền. Nhưng đúng, tôi nói đúng.
+line:52f81dde	That's cute!	Dễ thương quá!
+line:45befc02	That's exciting!	Thích quá!
+line:13cd5511	That's fast... But I think so!	Nhanh thế... Nhưng tôi nghĩ là được!
+line:4ff91cbd	That's fine!	Không sao!
+line:163c524a	That's good to hear.	Nghe vậy mừng thật.
+line:33e2bee6	That's good to hear.	Nghe vậy mừng thật.
+line:30e461f2	That's good. You deserve a decent man.	Tốt. Cậu xứng đáng với một người đàn ông tử tế.
+line:aeae4744	That's good... Now what?	Tốt... Giờ sao nữa?
+line:f3eeb627	That's great! whens your first date?	Tuyệt quá! Bao giờ hẹn lần đầu?
+line:215f4eba	That's me.	Tôi đây.
+line:cf8c5f37	That's not a thing... But thank you!	Không làm thế được... Nhưng cảm ơn!
+line:3f29878b	That's rather nice of you to say.	Cậu nói thế thật tử tế.
+line:d38c63ea	That's really cute.	Dễ thương thật.
+line:6474d7f7	That's really nice!	Thật tốt quá!
+line:c5001a4c	That's the best way to eat'em!	Ăn thế mới ngon nhất!
+line:2a5cc3a5	That's very sweet.	Nghe ấm lòng thật.
+line:7052576b	That's what I like to hear.	Đó là điều tôi thích nghe.
+line:2a154290	That's what I thought too.	Tôi cũng nghĩ vậy.
+line:33d12f97	That's what I thought too.	Tôi cũng nghĩ vậy.
+line:2b7bb6ce	That's what's terrifying.	Chính điều đó mới đáng sợ.
+line:36fb380f	That's wonderful, he's cute!	Tuyệt quá, anh ấy dễ thương!
+line:266836f8	That's... the first time you've yipped for me.	Đó là... lần đầu cậu kêu chíp vì tôi.
+line:9b0b24ad	That.	Cái đó.
+line:6ff80785	That... makes me feel a lot more sure of myself then.	Vậy... tôi thấy tự tin hơn nhiều.
+line:cc6d631b	That... makes me feel a lot more sure of myself then.	Vậy... tôi thấy tự tin hơn nhiều.
+line:ecf6206f	Thats awesome. I'm glad you two are working out.	Tuyệt quá. Mừng vì hai người tiến triển tốt.
+line:0f8bb606	Thats good to hear.	Nghe vậy thật tốt.
+line:f5324d68	Thats really good to hear.	Nghe vậy vui thật.
+line:063dcd4b	The ability to open up to someone, even occasionally...	Được mở lòng với ai đó, dù chỉ đôi lúc...
+line:8919009a	The ambiance is nice.	Không khí dễ chịu thật.
+line:08c850bf	The apothecary will tarnish my name for months.	Dược sĩ sẽ bêu tên tôi suốt mấy tháng.
+line:01b4161e	The breakup I went through earlier was rough.	Lần chia tay trước thật khó khăn.
+line:c932c99d	The breakup I went through earlier was rough.	Lần chia tay trước thật khó khăn.
+line:dd06ed39	The Burnswick Community College of Thaumaturgy, of course!	Tất nhiên là Cao đẳng Cộng đồng Pháp thuật Burnswick!
+line:515099ec	The button on the wall, I mean.	Ý tôi là nút trên tường.
+line:7fe73572	The clean was fine.	Tắm rửa cũng được.
+line:e8a38ed0	The college cannot find out about this okay?	Trường không được biết chuyện này, rõ chứ?
+line:1a169dbc	The lights in the area are great too.	Đèn đóm khu đó cũng đẹp.
+line:610dd8cb	The markers were fun.	Nghịch bút lông vui thật.
+line:4b36ea4e	The most prestigious college hosting prestigious professors like me:	Ngôi trường danh giá nhất với các giáo sư danh giá như tôi:
+line:ec00a1fe	The mount? I... suppose!	Cái giá? Tôi... chắc là được!
+line:94e04dcf	The mount? Sure!	Cái giá? Được!
+line:d8273d7f	The night 'aint gonna start itself!	Đêm vui đâu tự bắt đầu được!
+line:1f2907ed	The rain has been unrelenting today!	Hôm nay mưa mãi không dứt!
+line:1804bf0a	The rain is nice.	Mưa thích thật.
+line:7e9a1f83	The stem is just extra food.	Cuống chỉ là thêm đồ ăn thôi.
+line:c88244b5	The vibe at night is fuckin' great.	Không khí ban đêm ở đó tuyệt vãi.
+line:d8a2002e	Then I better let you out!	Vậy tôi nên cho anh ra!
+line:d7b3cd09	Then- Have a productive day.	Vậy... Chúc một ngày làm việc hiệu quả.
+line:448afe95	There was a fault in his method.	Phương pháp của ông ấy có sai sót.
+line:48d4a45a	There's this one red dragon, Conrad. He's... Hot headed, but cute.	Có một con rồng đỏ tên Conrad. Anh ấy... nóng tính, nhưng dễ thương.
+line:f4af8b88	Theres this club downtown. 'Wings'. It's an old favorite of mine.	Có câu lạc bộ Wings ở trung tâm. Tôi thích chỗ đó từ lâu.
+line:972f132f	These washes really make things easier.	Những lần đến tắm giúp tôi dễ chịu hơn nhiều.
+line:352d1d6f	They cum	Họ xuất tinh.
+line:d78962e8	They cum	Họ xuất tinh.
+line:3200a588	They keep going	Họ tiếp tục.
+line:a31d1a18	They keep going	Họ tiếp tục.
+line:035e5be6	They seem cute!	Có vẻ dễ thương đấy!
+line:454172b0	They took it too far.	Họ đi quá xa rồi.
+line:d7b49fb8	They were! The stem is my favorite part though.	Ngon mà! Nhưng tôi thích cuống nhất.
+line:d156a87f	Think that's every spot.	Chắc không sót chỗ nào.
+line:fa1a1e76	Think that's it.	Tôi nghĩ xong rồi.
+line:3112adad	This drake at the bar... I was stupid. Couldn't shut my mouth.	Một con rồng ở quán bar... Tôi ngu quá. Không chịu ngậm miệng.
+line:bfd70320	This feels scandalous	Cảm giác thật tai tiếng.
+line:cb437bd0	This is a common practice?	Đây là chuyện thường làm sao?
+line:831cbfda	This is a job only you can do.	Việc này chỉ cậu mới làm được.
+line:4944dbda	This is delicious!	Ngon quá!
+line:088893da	This is my first time with a Kobold.	Đây là lần đầu tôi với một kobold.
+line:e218722c	This is my first time, actually!	Thật ra đây là lần đầu của tôi!
+line:9eb894ad	This is really nice..	Dễ chịu quá...
+line:c7e4e36f	This is the kind of shit I try to avoid!	Đây là cái thứ khốn nạn tôi luôn cố tránh!
+line:22929636	This place could use a makeover, I know would it could use!	Chỗ này cần sửa sang. Tôi biết thiếu gì rồi!
+line:b06e13bc	This soap isn't fitting for a professor don't you think?	Loại xà phòng này không hợp với giáo sư lắm, cậu thấy không?
+line:97841169	This was a nice escape.	Ở đây giúp tôi tạm quên được.
+line:5f02ceea	This was a wonderful escape...	Đây là nơi trốn mọi lo toan thật tuyệt...
+line:d45f4788	This was nice...	Thật dễ chịu...
+line:418498cf	Those grapes looked good.	Mấy quả nho trông ngon thật.
+line:e9d73205	Though every other wash I've been to at least has a mount	Nhưng ít nhất mấy chỗ khác tôi từng đến đều có giá giao phối.
+line:29e70457	Though I can't say I am not curious	Dù không thể nói tôi không tò mò.
+line:9c3e6004	Though you probably shouldn't eat them.	Nhưng cậu chắc không nên ăn.
+line:f1ca33da	title: Alexander_Done	title: Alexander_Done
+line:3ed2f649	title: Conrad_OutroDone	title: Conrad_OutroDone
+line:74c28add	title: ConradBeatup_OutroDone	title: ConradBeatup_OutroDone
+line:722243c8	title: RyanDate_OutroDone	title: RyanDate_OutroDone
+line:b4eee981	title: RyanExploded_OutroDone	title: RyanExploded_OutroDone
+line:6298f08b	Told me about the time he got beat up.	Kể tôi nghe lần anh ấy bị đánh.
+line:ee954bd9	Told me to go to a wash, and was acting extremely offended.	Bảo tôi ra tiệm tắm, rồi tỏ ra cực kỳ khó chịu.
+line:c66e1278	Tonight- on campus. The library is the large blue spire building.	Tối nay, trong khuôn viên trường. Thư viện là tòa nhà lớn có tháp nhọn màu xanh.
+line:434527c6	Truly terrible, no?	Thật khủng khiếp, đúng không?
+line:5a5d646c	Truly?	Thật sao?
+line:e3aa4e29	Truth be told, I got dirty to come here.	Nói thật thì tôi làm mình bẩn để đến đây.
+line:0979dea3	Uh, I'm still really soapy!	Ừm, tôi vẫn đầy xà phòng!
+line:05bbe58c	Uh-huh, I'll go get the gate	Vâng, tôi đi mở cổng.
+line:7de638fb	Uh... Hello?	Ừm... Xin chào?
+line:7de9b3a4	Uh... uhm...	Ờ... ừm...
+line:159c5c1f	Uh... Yeah.	Ờ... Ừ.
+line:2089db44	Uhhhm we're not exactly.	Ừm, thật ra không hẳn.
+line:3ed62e6b	Uhm, no, I'll just be REALLY upset.	Ờ, không, tôi chỉ RẤT bực thôi.
+line:f0a579a5	Uhm...	Ừm...
+line:cc295885	uhm... <size=60%>no?	Ừm... <size=60%>Không?
+line:29237bc3	Use the crowbar to open and place it in storage, would you?	Dùng xà beng mở thùng rồi đưa vào kho nhé?
+line:1ec0dc6a	Use the sprayer on the wall to wash me off.	Dùng vòi xịt trên tường rửa cho tôi.
+line:a716d3b8	Uunf. T-that was... Rather undignified.	Ưf. V-vừa rồi... Không được trang nhã cho lắm.
+line:a37177dd	V-very well. I'll try.	Đ-được. Tôi sẽ cố.
+line:209ddf97	Very cool	Rất ngầu.
+line:2f10f572	Very well. Don't let me interrupt the wash then!	Được lắm. Vậy tôi không làm gián đoạn việc tắm nữa!
+line:7678511c	Wah- huh- <size=80%>oah. <size=60%>we don't-	Gì... hả... <size=80%>À. <size=60%>Chúng tôi không...
+line:82e2c158	Wait a sec, I need to open the gate.	Chờ chút, tôi cần mở cổng.
+line:9c7a2fb7	Wait a sec, I need to open the gate.	Chờ chút, tôi cần mở cổng.
+line:8ab5686b	Was great! Ryan is a sweetheart.	Tuyệt! Ryan rất dịu dàng.
+line:d8c9f912	Was just doing my job!	Tôi chỉ làm việc của mình thôi!
+line:148a63c8	Was just trying to play along. Happy to see you!	Tôi chỉ muốn đùa theo thôi. Vui được gặp cậu!
+line:56261ccb	Was still good though! I like how it feels sliding down.	Nhưng vẫn thích! Tôi thích cảm giác nó trôi xuống.
+line:4d002f47	Was... <i>Really</i> upset I was muddy.	Cô ấy... <i>Rất</i> tức vì tôi dính bùn.
+line:014b5da5	Watch where those paws are going would you?	Cẩn thận xem tay cậu đang sờ vào đâu nhé?
+line:3028feb5	We also had sex after our date.	Sau buổi hẹn chúng tôi còn làm tình.
+line:d132db41	We can just lay here...	Chúng ta cứ nằm đây...
+line:4da8b942	We can make an opening.	Sắp xếp được chỗ cho anh.
+line:8c563ab8	We can make an opening.	Sắp xếp được chỗ cho anh.
+line:33a79dbe	We do! Are you... from the college...?	Có! Ông... ở trường cao đẳng...?
+line:b83ec453	We got your request for the mount!	Chúng tôi đã nhận yêu cầu cấp giá giao phối!
+line:8b7b8d6b	We went out to eat. Had some good conversation.	Chúng tôi đi ăn, nói chuyện rất hợp.
+line:74706bb3	We will need to clean the floors...	Chúng ta cần lau sàn...
+line:df8fb8c9	We'll be going out to this seafood place-	Chúng tôi sẽ đến một quán hải sản...
+line:110a2ced	Welcome back!	Mừng cậu quay lại!
+line:b042f12a	Welcome back!	Mừng cậu quay lại!
+line:c46f5033	Well great, I appreciate your discretion, I'll be headed off to the apothecary.	Tốt, cảm ơn cậu kín miệng. Tôi sẽ đi gặp dược sĩ.
+line:08f40e32	Well I had a good time, see you later then!	Tôi thấy vui lắm, hẹn gặp lại!
+line:c1e8b05d	Well I had a good time, see you later then!	Tôi thấy vui lắm, hẹn gặp lại!
+line:fcff7b00	Well, go to the window and speak with your customer.	Vậy hãy đến cửa sổ nói chuyện với khách.
+line:fc1e497a	Well, good luck getting your hands around all of me.	Chúc may mắn ôm hết của tôi bằng tay nhé.
+line:60f14972	Well, I do enjoy the color. But I believe that is unrelated to my hue.	Tôi thích màu đó. Nhưng tôi nghĩ chẳng liên quan đến màu da của mình.
+line:c9f270de	Well, I'm a dragon- but... You know what I mean.	À, thật ra là rồng, nhưng... Cậu hiểu ý tôi mà.
+line:f7f87f6c	Well, That's why I'm here!	Vậy nên mới có tôi ở đây!
+line:629d89d1	Well, yes. I mean more... Primally?	Ừ, đúng. Ý tôi là theo cách... bản năng hơn?
+line:8aa0fc1a	Well, you are one hell of a catch.	Cậu đúng là người đáng hẹn hò mà.
+line:5d34e715	Well, you better get one then!	Thế thì lo kiếm một cái đi!
+line:f16e75f3	Well...	Thì...
+line:a71a8385	Went to the bar... Things got spicy. You can imagine what happened next... <size=70%>Hah...	Rồi đến quán bar... Mọi thứ nóng lên. Cậu hình dung được chuyện tiếp theo mà... <size=70%>Ha...
+line:2e0ec324	Wha..?	Gì..?
+line:29ec93b2	Whaaat. Nothing wrong with it! figured you'd like to know.	Saoooo? Có gì sai đâu! Tôi nghĩ cậu muốn biết.
+line:18e5a573	Whaaat? It's good to make sure you're warmed up!	Saoooo? Khởi động trước thì tốt mà!
+line:bd66082e	What about a movie?	Xem phim thì sao?
+line:ee3c126b	What about your private washers?	Còn những người tắm rửa riêng của ông?
+line:871137eb	What about?	Chuyện gì vậy?
+line:bb3b6c71	What brings you in so late?	Sao anh đến muộn vậy?
+line:2dd518f0	What do you mean?	Ý cậu là sao?
+line:2fae1274	What do you mean?	Ý ông là sao?
+line:3c2c53dc	What do you mean?	Ý cậu là sao?
+line:838cdf1b	What do you think of me?	Ông nghĩ gì về tôi?
+line:c2bdc402	What does the number 7 taste like?	Số 7 có vị gì?
+line:56fc085a	What happened!?	Chuyện gì xảy ra vậy!?
+line:0bc56d4d	what happened?	Chuyện gì xảy ra vậy?
+line:8c3b76ea	What is it?	Là gì?
+line:44b711a0	What is..	Đây là...
+line:53301d3b	What kind of egg was that?	Đó là trứng gì?
+line:073701b7	What kind of movie are you thinking?	Cậu đang nghĩ phim gì?
+line:03cf1c9a	What kind of question?	Câu hỏi kiểu gì?
+line:003700c7	What kinds of classes do you teach?	Ông dạy những môn gì?
+line:e2406cc4	What now?	Giờ sao?
+line:0c583118	What was in those opened crates?	Trong mấy thùng đã mở có gì thế?
+line:5a195ff2	What!? that's terrible! You don't even have a mount...?	Cái gì!? Tệ vậy! Đến cả giá giao phối cũng không có...?
+line:8ebd442e	What's got you looking so happy?	Có gì khiến anh vui thế?
+line:fc7aaaa0	What's teaching like?	Dạy học là như thế nào?
+line:f99840cd	What's that?	Là gì vậy?
+line:1a0b719d	What's up?	Có chuyện gì vậy?
+line:29359884	What's up?	Có chuyện gì vậy?
+line:8d5c7802	What's up?	Có chuyện gì vậy?
+line:712f9d7c	what?	Gì cơ?
+line:766c2abd	What? All the best places do it!	Gì? Chỗ xịn nào chẳng có!
+line:159a1d54	What? I'm a professor! Can't you tell from my crest?	Gì? Tôi là giáo sư! Không nhận ra từ gia huy sao?
+line:9aa86a9b	What? There is no harm caused by a genuine compliment!	Sao? Một lời khen chân thành đâu hại ai!
+line:b2fe309b	Whats got you in a good mood?	Sao anh vui thế?
+line:93a145d4	Whats up, big guy?	Có chuyện gì, anh bạn bự?
+line:4efe8211	Whats up?	Có chuyện gì?
+line:866cd495	Whats up?	Có chuyện gì?
+line:bfc04b3a	Whats up?	Có chuyện gì?
+line:e01885c3	Whats up?	Có chuyện gì?
+line:f7d786b6	Whats with all the... Gloop?	Mấy thứ... nhầy nhụa này là sao?
+line:c4c81aa9	Whats your favorite part about him?	Cậu thích nhất điều gì ở anh ấy?
+line:ff6ef027	When do you actually end the relationship?	Thì khi nào mới thật sự nên chấm dứt?
+line:2ffe284b	When I met him at first I was falling back on my old script.	Lúc mới gặp, tôi lại giở kiểu cũ.
+line:eb019075	When you're done go ahead and hit the button.	Làm xong thì cứ bấm nút nhé.
+line:5d4e9392	Where did he go...?	Ông ấy đi đâu rồi...?
+line:7af04961	Where would you like to go?	Cậu muốn đi đâu?
+line:7e9389a7	Which college?	Trường nào?
+line:2d315c6c	Who knew a dragon could get so dirty, huh?	Ai ngờ rồng lại bẩn được thế này nhỉ?
+line:a97338b0	Who knew places such as this existed so readily available to the public!	Ai ngờ lại có nơi như thế này mở cửa rộng rãi cho công chúng!
+line:8b7915f4	Who's that?	Ai vậy?
+line:ebd63f8c	Who's there?	Ai đó?
+line:eea7573f	Whoa! Cold!	Oa! Lạnh!
+line:1acbd02a	Whoops	Ối.
+line:5a6c0d31	Whoops	Ối.
+line:afc6c00a	Whoops	Ối.
+line:c30013ff	Whoops	Ối.
+line:9df56a3a	why are you here so late?	Sao ông đến muộn thế?
+line:bb8583c1	With Ryan, I'm pretty sure we're gonna go on a date tonight.	Chắc tối nay tôi với Ryan sẽ đi hẹn hò.
+line:c236bdf9	Woah. Uhm.	Ồ. Ừm.
+line:390f05be	Woah... What is that in your mouth?	Oa... Cậu ngậm gì thế?
+line:4b93b009	Woah... You want me to use that? Even with the food? Alright!	Oa... Cậu muốn tôi dùng cái đó? Dù có đồ ăn ở đây? Được!
+line:4cacfab8	Wonderful to hear you're seeing someone!	Thật vui khi biết cậu đang gặp gỡ ai đó!
+line:f6fdf321	Wonderful to hear you're seeing someone!	Thật vui khi biết cậu đang gặp gỡ ai đó!
+line:7e2421b6	Wonderful to hear.	Nghe thật tốt.
+line:36d49875	Wonderful!	Tuyệt quá!
+line:6046bedf	Wonderful!	Tuyệt quá!
+line:ab423ac7	Wonderful!	Tuyệt quá!
+line:5a9abbd4	Wonderful. Have a <i>productive</i> day.	Tuyệt. Chúc một ngày <i>hiệu quả</i>.
+line:ec771552	Woops.	Ối chà.
+line:51bcff68	Would that interest you?	Cậu có hứng thú không?
+line:8c8591ec	Would you care to join me at the college library this evening...?	Tối nay cậu có muốn đến thư viện trường cùng tôi không...?
+line:985436e6	Wouldn't that be degrading?	Thế có hạ thấp cậu không?
+line:1e027369	Wow thanks, that feels good.	Oa, cảm ơn, dễ chịu lắm.
+line:737184f5	Wow!	Chà!
+line:ead1bf44	Wow, it's an experience seeing you eat like that.	Oa, nhìn cậu ăn vậy thật mở mang tầm mắt.
+line:5da1e074	Y'know?	Cậu hiểu chứ?
+line:79352475	Ya.	Ừ.
+line:f6c14e05	Ya.	Ừ.
+line:b6add8e0	Yea! I do!	Ừ! Đúng thế!
+line:b44edd29	Yeaaah I'm not sticking with that one.	Ừừừ, tôi không dùng biệt danh đó nữa đâu.
+line:7a471225	Yeaaah.	Ừừừ.
+line:5483c5fd	Yeah	Ừ
+line:3a5d5ca4	Yeah he seems like he'd push some buttons.	Ừ, cậu ấy có vẻ đúng gu cậu đấy.
+line:63024a1f	Yeah he's improved a lot.	Ừ, anh ấy thay đổi nhiều lắm.
+line:5847a779	Yeah I have.	Rồi, tôi nói chuyện rồi.
+line:f3b5952a	Yeah I'm happy too.	Ừ, tôi cũng vui.
+line:fb47f998	Yeah it go BRRT haha.	Ừ, nó kêu BRRT đấy haha.
+line:eef9b2bb	Yeah It's fine. Sorry.	Ừ, ổn mà. Xin lỗi.
+line:fbc80e96	Yeah let me get that for you.	Ừ, để tôi mở cho cậu.
+line:f212b2de	Yeah so I'm all muddy and stuff, love romping around in the public park.	Ừ, tôi đầy bùn đất, tôi thích chạy nhảy trong công viên công cộng.
+line:108de471	Yeah that sounds pretty good.	Ừ, nghe khá hay.
+line:fdd800c2	Yeah! clean as always.	Ừ! Sạch như mọi khi.
+line:dee4a32d	Yeah! Conrad, he's adorable. Though he'd hate I said that.	Có! Conrad, anh ấy đáng yêu lắm. Dù chắc anh ấy ghét tôi nói vậy.
+line:ab1bc039	Yeah! I feel clean.	Ừ! Tôi thấy sạch rồi.
+line:6733a3df	Yeah! I'm going on a date with him soon.	Ừ! Tôi sắp đi hẹn với anh ấy.
+line:66727cce	Yeah! It has food that should be good for both of us.	Ừ! Có đồ ăn chắc hợp với cả hai ta.
+line:b482634c	Yeah! its useful.	Ừ! Hữu ích lắm.
+line:da9cfdcf	Yeah! Just went on a date with Conrad.	Có! Tôi vừa hẹn hò với Conrad.
+line:3f153aaf	Yeah! Just went on a date with Ryan.	Có! Tôi vừa hẹn hò với Ryan.
+line:77ca2316	Yeah! Thanks for the food. I'll go get the gate.	Ừ! Cảm ơn đồ ăn. Tôi mở cổng.
+line:c87d632b	Yeah! That would be amazing.	Ừ! Thế thì tuyệt.
+line:71c0ee9a	Yeah, ever since the breakup I've been looking for something new.	Ừ, từ khi chia tay tôi luôn tìm kiếm điều gì mới.
+line:bee397db	Yeah, he's so kind to me.	Ừ, cậu ấy tử tế với tôi lắm.
+line:4815ddba	Yeah, I've got one.	Có, tôi có một hộp.
+line:24efaa49	Yeah, me too. He's real nice.	Ừ, tôi cũng thế. Cậu ấy tốt lắm.
+line:6fa847ba	Yeah, nah. Mate you gotta get in on this. I'll pay good!	Không được rồi. Cậu phải thử vụ này đi. Tôi trả hậu!
+line:266f699d	Yeah, taste good!	Ừ, ngon lắm!
+line:67cc394b	Yeah, that was scary at first.	Ừ, lúc đầu sợ thật.
+line:a9980f5e	Yeah, this has been super nice.	Ừ, chuyện này tuyệt lắm.
+line:54c44240	Yeah, you're right.	Ừ, cậu nói đúng.
+line:bb1827c7	Yeah- Though only if you want!	Ừ, nhưng chỉ khi cậu muốn!
+line:7311dc01	Yeah.	Ừ.
+line:95e2f7cc	Yeah.	Ừ.
+line:9fd5b834	Yeah. <size=90%>Oh- <size=80%>you know. I'm like... <size=70%>Haha. Yeah. Mhm!	Ừ. <size=90%>Ồ... <size=80%>Cậu biết đấy, tôi kiểu... <size=70%>Haha. Ừ. Ừm!
+line:a28a70c6	Yeah. At least I got to meet you because of it.	Ừ. Ít nhất nhờ thế mà tôi gặp cậu.
+line:e5937e30	Yeah. I like fish!	Ừ. Tôi thích cá!
+line:0372e0d1	Yeah. It wasn't too expensive.	Ừ. Cũng không đắt lắm.
+line:6804839d	Yeah. It's hard to unwind groups after something like that.	Ừ. Sau chuyện như thế, khó gỡ các mối quan hệ chung ra.
+line:6e0e4e11	Yeah. You two will be cute.	Ừ. Hai người sẽ dễ thương lắm.
+line:616121a9	Yeah...	Ừ...
+line:f244d080	Yeah... He's really great.	Ừ... Cậu ấy tuyệt lắm.
+line:5bab2df8	Yeah... I've never gone on a date with a kobold before.	Ừ... Tôi chưa từng hẹn hò với kobold.
+line:8eeb7e28	Yeah... It really isn't.	Ừ... Thật sự không dễ.
+line:039a0c83	Yeah?	Ừ?
+line:2fb3fe55	Yeah?	Ừ?
+line:92bd78f3	Yeah?	Ừ?
+line:3690a3eb	Yeah? I don't even see a mount.	Thật à? Tôi còn chẳng thấy giá giao phối đâu.
+line:ea2adb20	Yeah? tell me about it!	Thật à? Kể tôi nghe!
+line:78eccd9b	Yellow lime.	Vị chanh xanh nhưng vỏ vàng.
+line:5fd7bc69	Yep!	Ừ!
+line:b6c878fa	Yep!	Có chứ!
+line:fcff76d4	Yep! I'll get the gate.	Ừ! Tôi mở cổng.
+line:3cdcbd4a	Yes	Được chứ.
+line:991dc643	Yes	Có
+line:e535cacb	Yes	Có
+line:fb4265f7	Yes	Được chứ.
+line:4ab6c5a9	yes	có
+line:db98be35	Yes right this way.	Có, ngay lối này.
+line:52010e35	YES!	ĐƯỢC!
+line:c4310942	Yes!	Được!
+line:d5f94e23	Yes!	Được!
+line:5592e639	Yes, welcome to Drag'N Wash!	Đúng rồi, chào mừng đến với Drag'N Wash!
+line:f676b9a8	Yes, welcome to Drag'n wash!	Đúng rồi, chào mừng đến với Drag'N Wash!
+line:a610ce0b	YES.	CÓ.
+line:85fd5266	Yes.	Có.
+line:152cb8ad	Yes. I'm in need of a clean. The situation is rather dire!	Đúng vậy. Tôi cần được làm sạch. Tình hình khá nghiêm trọng!
+line:c4595dd5	Yes. It's invigorating to be so candid.	Phải. Thẳng thắn như vậy thật sảng khoái.
+line:d7e50f2d	Yes..	Vâng...
+line:5811655d	Yes... But I believe we need to clean the floors.	Phải... Nhưng chắc chúng ta cần lau sàn.
+line:9444cdba	Yip	Chíp.
+line:14d2c62f	Yip!	Chíp!
+line:296ff3f4	Yip!	Chíp!
+line:3d516ddb	Yip!	Chíp!
+line:3e870ad0	Yip!	Chíp!
+line:5544e245	Yip!	Chíp!
+line:5efde4e2	Yip!	Chíp!
+line:c3e1f198	Yip!	Chíp!
+line:e662501c	Yip!	Chíp!
+line:5e181cf4	Yip! <size=70%>(Gate)	Chíp! <size=70%>(Cổng)
+line:b12a3f31	Yip! <size=70%>(idk)	Chíp! <size=70%>(Không biết.)
+line:a8ee5236	Yip! <size=70%>(It's because the dormant part of your draconic mind is remembering the deep set language bridge between your kind and mine. Which carries the deep meaning and intention of kobold 'Yips' within it. This sudden understanding of yours is simply from our connection growing over time and activating that part of your mind.)	Chíp! <size=70%>(Đó là vì phần ngủ yên trong tâm trí rồng của ông đang nhớ lại cầu nối ngôn ngữ ăn sâu giữa hai loài chúng ta. Nó chứa đựng ý nghĩa và ý định sâu xa của tiếng «chíp» kobold. Việc bỗng hiểu được chỉ là do mối gắn kết của chúng ta mạnh dần theo thời gian, kích hoạt phần tâm trí đó.)
+line:5935a413	Yip! <size=70%>(Yes)	Chíp! <size=70%>(Đúng)
+line:f1c14f75	Yip-Man - The Final Yip	Chíp-Man: Tiếng Chíp Cuối Cùng
+line:4b9046ec	Yip-Man movies are real corny...	Phim Chíp-Man sến lắm...
+line:3d6b2203	You again?	Lại cậu à?
+line:81416c72	You already are, whats up?	Cậu vừa hỏi rồi đấy, chuyện gì nào?
+line:6fbc3c1b	You also do <i>special endings</i> here, yeah?	Ở đây cũng có <i>kết thúc đặc biệt</i> nhỉ?
+line:e553c773	You also introduced me to Conrad.	Cậu còn giới thiệu tôi với Conrad.
+line:feb8727e	You always make me feel welcomed.	Cậu luôn khiến tôi thấy được chào đón.
+line:563d71ba	You are too!	Cậu cũng vậy!
+line:4efafbb0	You are very skilled with your hands	Tay cậu khéo thật.
+line:0dd63830	You brought food in?	Cậu mang đồ ăn đến à?
+line:38043f6c	You can act however you like around me.	Ở bên tôi, ông cứ cư xử theo ý mình.
+line:3fbd01fb	You can come in whenever!	Anh ghé lúc nào cũng được!
+line:0eb37f1a	You can stay here if you want.	Cậu có thể ở lại nếu muốn.
+line:ecc04e16	You decide!	Cậu quyết định đi!
+line:19698f13	You didn't even open the watermelon.	Cậu còn chẳng bổ quả dưa hấu.
+line:7e8c1ae2	You do know how to use your hands pretty well.	Cậu dùng tay khá giỏi mà.
+line:7023b6b4	You don't deserve that.	Cậu không đáng bị vậy.
+line:c0cc0f2d	You got a medkit?	Có hộp sơ cứu không?
+line:c2b3c28a	you know about getting back into the dating scene...	Về chuyện quay lại hẹn hò ấy...
+line:512df07c	You know what that means.	Cậu biết thế nghĩa là gì.
+line:e613cbe3	You know what that means...	Cậu biết thế nghĩa là gì...
+line:73e4789c	You know... This environment is rather pleasant. Very... proletarian.	Cậu biết không... Không gian này khá dễ chịu. Rất... vô sản.
+line:404b17ef	You look good this clean!	Anh sạch thế này trông đẹp thật!
+line:780c151c	You needn't worry. The washer's union is... More powerful than I.	Không cần lo. Công đoàn người tắm rửa... có thế lực hơn tôi.
+line:3fab049a	You probably shouldn't.	Chắc cậu không nên thử.
+line:0bc044da	You ready for this?	Cậu sẵn sàng chưa?
+line:f0a0565a	You ready to go back in to the club?	Sẵn sàng quay vào câu lạc bộ chưa?
+line:c0e34d36	You really ate that entire thing... Woah.	Cậu ăn hết cả cái thật... Oa.
+line:82cf49aa	You seemed to enjoy yourself.	Có vẻ anh thích lắm.
+line:ba66095e	You set a good example.	Ông là tấm gương tốt.
+line:6c2a1901	You should be all clean!	Chắc anh sạch hết rồi!
+line:36779352	You should be.	Phải thế chứ.
+line:86154a64	You should feel it and check for me	Cậu nên sờ kiểm tra cho tôi.
+line:20503ab0	You sure? It's not like... fun stuff.	Cậu chắc chứ? Đâu phải... chuyện vui gì.
+line:0a0d6bc0	You too! I'll go get the gate.	Tôi cũng vậy! Tôi mở cổng.
+line:e3106999	You too. Thanks for the wash.	Tôi cũng thế. Cảm ơn đã tắm cho tôi.
+line:fc97aa74	You too. Thanks for the wash.	Tôi cũng thế. Cảm ơn đã tắm cho tôi.
+line:5e4d645c	You two are really cute together...	Hai người bên nhau dễ thương lắm...
+line:b76a2a43	You were really going at it.	Anh hăng thật đấy.
+line:83aa1a23	You work at a college?	Ông làm ở trường cao đẳng à?
+line:85fa0d03	You'd need a dragon stomach first!	Phải có dạ dày rồng trước đã!
+line:ebd2af6b	You'll have to give me all the Ryan details soon.	Anh phải sớm kể mọi chi tiết về Ryan cho tôi.
+line:6c71dd83	You'll have to tell me all about it.	Anh phải kể hết cho tôi đấy.
+line:91ab30f5	You'll have to tell me how you two work out!	Nhớ kể tôi chuyện hai người tiến triển nhé!
+line:ffeff59b	You'll have to tell me more inside.	Khi tôi vào trong rồi, cậu kể thêm nhé.
+line:5eb243c2	You'll like it.	Cậu sẽ thích.
+line:6acf7c77	You'll need to let them in afterwards of course.	Sau đó tất nhiên phải cho khách vào.
+line:6b63d2d8	You'll take care of everything?	Cậu sẽ lo mọi thứ chứ?
+line:f2527ed7	You're <i>spotless.	Anh <i>sạch không tì vết.
+line:23ae97e6	You're a big deal	Cậu mới là người quan trọng.
+line:323e546b	You're a good friend too, I'll go get the gate.	Cậu cũng là bạn tốt, tôi mở cổng.
+line:44e97be7	You're always welcome here, Ryan.	Cậu luôn được chào đón ở đây, Ryan.
+line:09e5bf43	You're cute by the way.	Mà cậu dễ thương lắm.
+line:277d8257	You're fine. Thank you.	Không sao đâu. Cảm ơn.
+line:8c269acb	You're going to love it.	Cậu sẽ mê lắm.
+line:173782fa	You're good at it.	Cậu làm giỏi lắm.
+line:1dca8fa0	You're just a very comfortable person to be around.	Chỉ là ở bên cậu rất dễ chịu.
+line:42124159	You're just a very comfortable person to be around.	Chỉ là ở bên cậu rất dễ chịu.
+line:d3b6d22a	You're kind. It's more than I deserve.	Cậu tốt quá. Tôi không xứng đáng được thế.
+line:ca72bf2d	You're okay. You're clearly going through a lot.	Không sao. Rõ ràng anh đang phải chịu nhiều chuyện.
+line:68887509	You're one of my favorite clients!	Cậu là một trong những vị khách tôi thích nhất!
+line:c4cc497f	You're pretty hot.	Cậu khá hấp dẫn.
+line:b6603dc7	You're right. I shouldn't pry.	Cậu nói đúng. Tôi không nên tọc mạch.
+line:31ab814e	You're right... Theres no way you could.	Cậu nói đúng... Cậu đâu thể trả lời được.
+line:470cd652	You're the first person I've met who's only expectation is for me to be...	Cậu là người đầu tiên tôi gặp chỉ mong tôi là...
+line:f718a7eb	You're the professor here. Must be correct.	Ông là giáo sư mà. Chắc đúng thôi.
+line:15f55959	You're very sweet.	Cậu tốt bụng thật.
+line:bc6cc4d2	You're very sweet.	Cậu tốt bụng thật.
+line:6289a322	You're very welcome.	Rất sẵn lòng.
+line:39ddd682	You're...	Cậu là...
+line:6e94f373	You're... cool.	Cậu... tuyệt đấy.
+line:61c96494	You're... Not that dirty.	Ông... đâu bẩn đến thế.
+line:8bab3246	You're... very forward.	Anh... thẳng thắn thật.
+line:3bbab759	You've gotta keep me updated on you and Ryan, yeah?	Nhớ kể tôi chuyện cậu với Ryan nhé?
+line:a5a8a9d5	Your crest is cool. What is it?	Gia huy của ông đẹp đấy. Nó là gì?
+line:3890b91c	Your date with Ryan.	Buổi hẹn của cậu với Ryan.
+line:82109412	Your secret's safe with me.	Bí mật của anh an toàn với tôi.
+line:ed8e7994	Yours doesn't. It's nice.	Của cậu thì không. Thật dễ chịu.
+line:016a65e8	Yuh, that's me.	Ừ, tôi đây.
+line:38eb6d26	Yup!	Ừ!
+line:7ac62718	Yup. I like it.	Ừ. Tôi thích thế.
